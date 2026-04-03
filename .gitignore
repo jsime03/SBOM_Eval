@@ -1,18 +1,15 @@
 # ── Output / generated files ─────────────────────────────────────────────────
-cve_bin_tool_reports/
-grype_reports/
-results/
+
 *.zip
 output.cve-bin-tool.*.csv
-comparisons.csv
 lock_generator.log
 
 # Generated SBOMs (syft output) — keep raw/ and diff/ dirs via .gitkeep
-sboms/**/raw/*.json
-sboms/**/diff/*.json
+
 
 # Built repos — the entire repos/ tree
-repos/
+repos/*
+!repos/.gitkeep
 
 # ── Python environments ───────────────────────────────────────────────────────
 validation_env/

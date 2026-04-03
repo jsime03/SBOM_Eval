@@ -1,0 +1,56 @@
+{
+    "left": [
+        {
+            "name": "Gemfile",
+            "version": "sha256:fa52dbbf57e546a2f4c5eba669810833c890b62edf1b5481c7c766ab8466e8a1"
+        }
+    ],
+    "Left count": 1,
+    "right": [
+        {
+            "name": "base64",
+            "version": ">= 0"
+        },
+        {
+            "name": "bigdecimal",
+            "version": ">= 0"
+        },
+        {
+            "name": "bump",
+            "version": ">= 0.10"
+        },
+        {
+            "name": "bundler",
+            "version": ">= 2.0"
+        },
+        {
+            "name": "com.github.railsware/http_logger",
+            "version": "master"
+        },
+        {
+            "name": "debug",
+            "version": ">= 1.0"
+        },
+        {
+            "name": "logger",
+            "version": ">= 0"
+        },
+        {
+            "name": "rake",
+            "version": ">= 13.0"
+        },
+        {
+            "name": "rspec",
+            "version": ">= 3.0"
+        },
+        {
+            "name": "webmock",
+            "version": ">= 3.0"
+        }
+    ],
+    "Right count": 10,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/ruby/http_logger/raw/syft_home_jason_SBOM EVal and Validation_repos_ruby_http_logger_Gemfile.json",
+    "filetwo": "sboms/ruby/http_logger/raw/railsware_http_logger_9cb5fa.json"
+}

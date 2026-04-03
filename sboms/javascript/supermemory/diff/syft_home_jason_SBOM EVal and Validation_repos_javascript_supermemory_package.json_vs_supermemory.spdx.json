@@ -1,0 +1,952 @@
+{
+    "left": [
+        {
+            "name": "package.json",
+            "version": "sha256:3f2b96ea6be8c42740e090ae892ece807af7f1a0d1fd904030ca9bb1588f478b"
+        }
+    ],
+    "Left count": 1,
+    "right": [
+        {
+            "name": "@esbuild/aix-ppc64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/android-arm",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/android-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/android-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/darwin-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/darwin-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/freebsd-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/freebsd-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-arm",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-ia32",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-loong64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-mips64el",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-ppc64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-riscv64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-s390x",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/linux-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/netbsd-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/netbsd-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/openbsd-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/openbsd-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/openharmony-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/sunos-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/win32-arm64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/win32-ia32",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@esbuild/win32-x64",
+            "version": "0.25.10"
+        },
+        {
+            "name": "@inquirer/ansi",
+            "version": "1.0.0"
+        },
+        {
+            "name": "@inquirer/checkbox",
+            "version": "4.2.4"
+        },
+        {
+            "name": "@inquirer/confirm",
+            "version": "5.1.18"
+        },
+        {
+            "name": "@inquirer/core",
+            "version": "10.2.2"
+        },
+        {
+            "name": "@inquirer/editor",
+            "version": "4.2.20"
+        },
+        {
+            "name": "@inquirer/expand",
+            "version": "4.0.20"
+        },
+        {
+            "name": "@inquirer/external-editor",
+            "version": "1.0.2"
+        },
+        {
+            "name": "@inquirer/figures",
+            "version": "1.0.13"
+        },
+        {
+            "name": "@inquirer/input",
+            "version": "4.2.4"
+        },
+        {
+            "name": "@inquirer/number",
+            "version": "3.0.20"
+        },
+        {
+            "name": "@inquirer/password",
+            "version": "4.0.20"
+        },
+        {
+            "name": "@inquirer/prompts",
+            "version": "7.8.6"
+        },
+        {
+            "name": "@inquirer/rawlist",
+            "version": "4.1.8"
+        },
+        {
+            "name": "@inquirer/search",
+            "version": "3.1.3"
+        },
+        {
+            "name": "@inquirer/select",
+            "version": "4.3.4"
+        },
+        {
+            "name": "@inquirer/type",
+            "version": "3.0.8"
+        },
+        {
+            "name": "@oclif/core",
+            "version": "4.5.4"
+        },
+        {
+            "name": "@oclif/plugin-autocomplete",
+            "version": "3.2.35"
+        },
+        {
+            "name": "@oclif/plugin-help",
+            "version": "6.2.33"
+        },
+        {
+            "name": "@oclif/plugin-not-found",
+            "version": "3.2.68"
+        },
+        {
+            "name": "@raycast/api",
+            "version": "1.103.3"
+        },
+        {
+            "name": "@raycast/utils",
+            "version": "2.2.1"
+        },
+        {
+            "name": "@types/node",
+            "version": "22.13.10"
+        },
+        {
+            "name": "@types/react",
+            "version": "19.0.10"
+        },
+        {
+            "name": "JamesIves/github-pages-deploy-action",
+            "version": "v4"
+        },
+        {
+            "name": "Notifu",
+            "version": "1.7"
+        },
+        {
+            "name": "actions/cache",
+            "version": "v3"
+        },
+        {
+            "name": "actions/cache",
+            "version": "v4"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "ff7abcd0c3c05ccf6adc123a8cd1fd4fb30fb493"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v1"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v2"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v3"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v4"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v5"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v5.0.0"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v6"
+        },
+        {
+            "name": "actions/dependency-review-action",
+            "version": "v3"
+        },
+        {
+            "name": "actions/dependency-review-action",
+            "version": "v4"
+        },
+        {
+            "name": "actions/github-script",
+            "version": "v7"
+        },
+        {
+            "name": "actions/github-script",
+            "version": "v8"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v1"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v2"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v3"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v4"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v5"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v6"
+        },
+        {
+            "name": "actions/upload-artifact",
+            "version": "v4"
+        },
+        {
+            "name": "aiohappyeyeballs",
+            "version": "2.4.4"
+        },
+        {
+            "name": "aiohappyeyeballs",
+            "version": "2.6.1"
+        },
+        {
+            "name": "aiohttp",
+            "version": "3.10.11"
+        },
+        {
+            "name": "aiohttp",
+            "version": "3.13.2"
+        },
+        {
+            "name": "aiosignal",
+            "version": "1.3.1"
+        },
+        {
+            "name": "aiosignal",
+            "version": "1.4.0"
+        },
+        {
+            "name": "allenevans/set-env",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "annotated-types",
+            "version": "0.7.0"
+        },
+        {
+            "name": "ansi-escapes",
+            "version": "4.3.2"
+        },
+        {
+            "name": "ansi-regex",
+            "version": "5.0.1"
+        },
+        {
+            "name": "ansi-styles",
+            "version": "4.3.0"
+        },
+        {
+            "name": "ansis",
+            "version": "3.17.0"
+        },
+        {
+            "name": "anthropics/claude-code-action",
+            "version": "v1"
+        },
+        {
+            "name": "anyio",
+            "version": "4.10.0"
+        },
+        {
+            "name": "anyio",
+            "version": "4.5.2"
+        },
+        {
+            "name": "async",
+            "version": "3.2.6"
+        },
+        {
+            "name": "async-timeout",
+            "version": "5.0.1"
+        },
+        {
+            "name": "attrs",
+            "version": "25.3.0"
+        },
+        {
+            "name": "attrs",
+            "version": "25.4.0"
+        },
+        {
+            "name": "backports-asyncio-runner",
+            "version": "1.2.0"
+        },
+        {
+            "name": "balanced-match",
+            "version": "1.0.2"
+        },
+        {
+            "name": "benchmark-action/github-action-benchmark",
+            "version": "v1"
+        },
+        {
+            "name": "black",
+            "version": "24.8.0"
+        },
+        {
+            "name": "black",
+            "version": "25.1.0"
+        },
+        {
+            "name": "brace-expansion",
+            "version": "2.0.2"
+        },
+        {
+            "name": "braintree/security-workflows/.github/workflows/codeql.yml",
+            "version": "main"
+        },
+        {
+            "name": "braintree/security-workflows/.github/workflows/dependency-review.yml",
+            "version": "main"
+        },
+        {
+            "name": "certifi",
+            "version": "2025.8.3"
+        },
+        {
+            "name": "chardet",
+            "version": "2.1.0"
+        },
+        {
+            "name": "charset-normalizer",
+            "version": "3.4.4"
+        },
+        {
+            "name": "clean-stack",
+            "version": "3.0.1"
+        },
+        {
+            "name": "cli-spinners",
+            "version": "2.9.2"
+        },
+        {
+            "name": "cli-width",
+            "version": "4.1.0"
+        },
+        {
+            "name": "click",
+            "version": "8.1.8"
+        },
+        {
+            "name": "click",
+            "version": "8.2.1"
+        },
+        {
+            "name": "color-convert",
+            "version": "2.0.1"
+        },
+        {
+            "name": "color-name",
+            "version": "1.1.4"
+        },
+        {
+            "name": "colorama",
+            "version": "0.4.6"
+        },
+        {
+            "name": "coverallsapp/github-action",
+            "version": "master"
+        },
+        {
+            "name": "coverallsapp/github-action",
+            "version": "v2.1.2"
+        },
+        {
+            "name": "coverallsapp/github-action",
+            "version": "v2.3.0"
+        },
+        {
+            "name": "csstype",
+            "version": "3.1.3"
+        },
+        {
+            "name": "debug",
+            "version": "4.4.3"
+        },
+        {
+            "name": "denoland/setup-deno",
+            "version": "v2"
+        },
+        {
+            "name": "dequal",
+            "version": "2.0.3"
+        },
+        {
+            "name": "distro",
+            "version": "1.9.0"
+        },
+        {
+            "name": "ejs",
+            "version": "3.1.10"
+        },
+        {
+            "name": "emoji-regex",
+            "version": "8.0.0"
+        },
+        {
+            "name": "esbuild",
+            "version": "0.25.10"
+        },
+        {
+            "name": "escape-string-regexp",
+            "version": "4.0.0"
+        },
+        {
+            "name": "exceptiongroup",
+            "version": "1.3.0"
+        },
+        {
+            "name": "fast-levenshtein",
+            "version": "3.0.0"
+        },
+        {
+            "name": "fastest-levenshtein",
+            "version": "1.0.16"
+        },
+        {
+            "name": "fastify/github-action-merge-dependabot",
+            "version": "v3"
+        },
+        {
+            "name": "fastify/github-action-merge-dependabot",
+            "version": "v3.9"
+        },
+        {
+            "name": "fastify/workflows/.github/workflows/plugins-ci-package-manager.yml",
+            "version": "v5"
+        },
+        {
+            "name": "fastify/workflows/.github/workflows/plugins-ci.yml",
+            "version": "v5"
+        },
+        {
+            "name": "fdir",
+            "version": "6.5.0"
+        },
+        {
+            "name": "filelist",
+            "version": "1.0.4"
+        },
+        {
+            "name": "flake8",
+            "version": "7.1.2"
+        },
+        {
+            "name": "flake8",
+            "version": "7.3.0"
+        },
+        {
+            "name": "frozenlist",
+            "version": "1.5.0"
+        },
+        {
+            "name": "frozenlist",
+            "version": "1.8.0"
+        },
+        {
+            "name": "get-package-type",
+            "version": "0.1.0"
+        },
+        {
+            "name": "github.com/evanw/esbuild",
+            "version": "v0.0.0-20230808041426-22f0818cf810"
+        },
+        {
+            "name": "github.com/evanw/esbuild",
+            "version": "v0.0.0-20250506002945-218d29e9da01"
+        },
+        {
+            "name": "github.com/evanw/esbuild",
+            "version": "v0.0.0-20251101233416-208f539945b1"
+        },
+        {
+            "name": "golang.org/x/sys",
+            "version": "v0.0.0-20220715151400-c0bba94af5f8"
+        },
+        {
+            "name": "gr2m/create-or-update-pull-request-action",
+            "version": "v1.x"
+        },
+        {
+            "name": "h11",
+            "version": "0.16.0"
+        },
+        {
+            "name": "has-flag",
+            "version": "4.0.0"
+        },
+        {
+            "name": "httpcore",
+            "version": "1.0.9"
+        },
+        {
+            "name": "httpx",
+            "version": "0.28.1"
+        },
+        {
+            "name": "iconv-lite",
+            "version": "0.7.0"
+        },
+        {
+            "name": "idna",
+            "version": "3.10"
+        },
+        {
+            "name": "indent-string",
+            "version": "4.0.0"
+        },
+        {
+            "name": "iniconfig",
+            "version": "2.1.0"
+        },
+        {
+            "name": "is-docker",
+            "version": "2.2.1"
+        },
+        {
+            "name": "is-fullwidth-code-point",
+            "version": "3.0.0"
+        },
+        {
+            "name": "is-wsl",
+            "version": "2.2.0"
+        },
+        {
+            "name": "isort",
+            "version": "5.13.2"
+        },
+        {
+            "name": "isort",
+            "version": "6.0.1"
+        },
+        {
+            "name": "jake",
+            "version": "10.9.4"
+        },
+        {
+            "name": "jiter",
+            "version": "0.10.0"
+        },
+        {
+            "name": "jiter",
+            "version": "0.9.1"
+        },
+        {
+            "name": "jsumners/lock-threads",
+            "version": "b27edac0ac998d42b2815e122b6c24b32b568321"
+        },
+        {
+            "name": "lilconfig",
+            "version": "3.1.3"
+        },
+        {
+            "name": "mccabe",
+            "version": "0.7.0"
+        },
+        {
+            "name": "minimatch",
+            "version": "5.1.6"
+        },
+        {
+            "name": "minimatch",
+            "version": "9.0.5"
+        },
+        {
+            "name": "ms",
+            "version": "2.1.3"
+        },
+        {
+            "name": "multidict",
+            "version": "6.1.0"
+        },
+        {
+            "name": "multidict",
+            "version": "6.7.0"
+        },
+        {
+            "name": "mute-stream",
+            "version": "2.0.0"
+        },
+        {
+            "name": "mypy",
+            "version": "1.14.1"
+        },
+        {
+            "name": "mypy",
+            "version": "1.17.1"
+        },
+        {
+            "name": "mypy-extensions",
+            "version": "1.1.0"
+        },
+        {
+            "name": "openai",
+            "version": "1.102.0"
+        },
+        {
+            "name": "oven-sh/setup-bun",
+            "version": "v2"
+        },
+        {
+            "name": "packaging",
+            "version": "25.0"
+        },
+        {
+            "name": "pathspec",
+            "version": "0.12.1"
+        },
+        {
+            "name": "picocolors",
+            "version": "1.1.1"
+        },
+        {
+            "name": "picomatch",
+            "version": "4.0.3"
+        },
+        {
+            "name": "platformdirs",
+            "version": "4.3.6"
+        },
+        {
+            "name": "platformdirs",
+            "version": "4.4.0"
+        },
+        {
+            "name": "pluggy",
+            "version": "1.5.0"
+        },
+        {
+            "name": "pluggy",
+            "version": "1.6.0"
+        },
+        {
+            "name": "pnpm/action-setup",
+            "version": "v4"
+        },
+        {
+            "name": "propcache",
+            "version": "0.2.0"
+        },
+        {
+            "name": "propcache",
+            "version": "0.4.1"
+        },
+        {
+            "name": "pycodestyle",
+            "version": "2.12.1"
+        },
+        {
+            "name": "pycodestyle",
+            "version": "2.14.0"
+        },
+        {
+            "name": "pydantic",
+            "version": "2.10.6"
+        },
+        {
+            "name": "pydantic",
+            "version": "2.11.7"
+        },
+        {
+            "name": "pydantic-core",
+            "version": "2.27.2"
+        },
+        {
+            "name": "pydantic-core",
+            "version": "2.33.2"
+        },
+        {
+            "name": "pyflakes",
+            "version": "3.2.0"
+        },
+        {
+            "name": "pyflakes",
+            "version": "3.4.0"
+        },
+        {
+            "name": "pygments",
+            "version": "2.19.2"
+        },
+        {
+            "name": "pytest",
+            "version": "8.3.5"
+        },
+        {
+            "name": "pytest",
+            "version": "8.4.1"
+        },
+        {
+            "name": "pytest-asyncio",
+            "version": "0.24.0"
+        },
+        {
+            "name": "pytest-asyncio",
+            "version": "1.1.0"
+        },
+        {
+            "name": "python-dotenv",
+            "version": "1.0.1"
+        },
+        {
+            "name": "python-dotenv",
+            "version": "1.1.1"
+        },
+        {
+            "name": "react",
+            "version": "19.0.0"
+        },
+        {
+            "name": "repos/javascript/supermemory",
+            "version": ""
+        },
+        {
+            "name": "requests",
+            "version": "2.32.4"
+        },
+        {
+            "name": "requests",
+            "version": "2.32.5"
+        },
+        {
+            "name": "safer-buffer",
+            "version": "2.1.2"
+        },
+        {
+            "name": "semver",
+            "version": "7.7.2"
+        },
+        {
+            "name": "signal-exit",
+            "version": "4.1.0"
+        },
+        {
+            "name": "sniffio",
+            "version": "1.3.1"
+        },
+        {
+            "name": "snoretoast-x64",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "snoretoast-x86",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "stdlib",
+            "version": "go1.20.7"
+        },
+        {
+            "name": "stdlib",
+            "version": "go1.23.12"
+        },
+        {
+            "name": "stdlib",
+            "version": "go1.23.8"
+        },
+        {
+            "name": "string-width",
+            "version": "4.2.3"
+        },
+        {
+            "name": "strip-ansi",
+            "version": "6.0.1"
+        },
+        {
+            "name": "supermemory",
+            "version": "3.4.0"
+        },
+        {
+            "name": "supermemory",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "supermemory-openai-sdk",
+            "version": "1.0.2"
+        },
+        {
+            "name": "supports-color",
+            "version": "8.1.1"
+        },
+        {
+            "name": "tinyglobby",
+            "version": "0.2.15"
+        },
+        {
+            "name": "tomli",
+            "version": "2.2.1"
+        },
+        {
+            "name": "tqdm",
+            "version": "4.67.1"
+        },
+        {
+            "name": "type-fest",
+            "version": "0.21.3"
+        },
+        {
+            "name": "typing-extensions",
+            "version": "4.13.2"
+        },
+        {
+            "name": "typing-extensions",
+            "version": "4.15.0"
+        },
+        {
+            "name": "typing-inspection",
+            "version": "0.4.1"
+        },
+        {
+            "name": "undici-types",
+            "version": "6.20.0"
+        },
+        {
+            "name": "urllib3",
+            "version": "2.2.3"
+        },
+        {
+            "name": "urllib3",
+            "version": "2.5.0"
+        },
+        {
+            "name": "widest-line",
+            "version": "3.1.0"
+        },
+        {
+            "name": "wordwrap",
+            "version": "1.0.0"
+        },
+        {
+            "name": "wrap-ansi",
+            "version": "6.2.0"
+        },
+        {
+            "name": "wrap-ansi",
+            "version": "7.0.0"
+        },
+        {
+            "name": "yarl",
+            "version": "1.15.2"
+        },
+        {
+            "name": "yarl",
+            "version": "1.22.0"
+        },
+        {
+            "name": "yoctocolors-cjs",
+            "version": "2.1.3"
+        }
+    ],
+    "Right count": 234,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/javascript/supermemory/raw/syft_home_jason_SBOM EVal and Validation_repos_javascript_supermemory_package.json.json",
+    "filetwo": "sboms/javascript/supermemory/raw/supermemory.spdx.json"
+}

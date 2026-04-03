@@ -198,15 +198,29 @@ def reset_vulnerability_reports():
         report.unlink()
 
 
+def format_sboms():
+    print("Formatting SBOMs for repositories...")
+    for language in SBOM_DIR.iterdir():
+        if language.is_dir() and language.name in LANGUAGES:
+            print(f"Processing language: {language.name}")
+            for repo in language.iterdir():
+                for raw in repo.iterdir():
+                    if raw.is_dir() and raw.name == "raw":
+                        print(f"Raw Dir found for {repo.name}. Formatting SBOMs...")
+                        sbom_files = list(raw.glob("*.json"))
+                        for sbom_file in sbom_files:
+                            sbom.format_json(sbom_file)
+
 
 
 
 def main():
-    reset_sboms()
-    reset_vulnerability_reports()
-    generate_sboms()
-    run_vulnerabillity_scans()
-    run_comparisons()
+    # reset_sboms()
+    # reset_vulnerability_reports()
+    # generate_sboms()
+    format_sboms()
+    # run_vulnerabillity_scans()
+    # run_comparisons()
 
 if __name__ == "__main__":
     main()

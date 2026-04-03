@@ -1,0 +1,575 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.dimitri/regresql",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/3f70f61e-0504-443c-994e-13bf8a70cc5c",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20260311140609-2219a6430415+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2026-03-11T15:11:00Z"
+    },
+    "packages": [
+        {
+            "name": "github.com/mitchellh/mapstructure",
+            "SPDXID": "SPDXRef-golang-github.commitchellh-mapstructure-1.5.0-75c946",
+            "versionInfo": "1.5.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2013 Mitchell Hashimoto",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/mitchellh/mapstructure@1.5.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/mitchellh/go-homedir",
+            "SPDXID": "SPDXRef-golang-github.commitchellh-go-homedir-1.1.0-75c946",
+            "versionInfo": "1.1.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2013 Mitchell Hashimoto",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/mitchellh/go-homedir@1.1.0"
+                }
+            ]
+        },
+        {
+            "name": "gopkg.in/ini.v1",
+            "SPDXID": "SPDXRef-golang-gopkg.in-ini.v1-1.67.0-75c946",
+            "versionInfo": "1.67.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright 2014 Unknwon, Copyright 2015 Unknwon, Copyright 2016 Unknwon, Copyright 2017 Unknwon, Copyright 2019 Unknwon",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/gopkg.in/ini.v1@1.67.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/pelletier/go-toml",
+            "SPDXID": "SPDXRef-golang-github.compelletier-go-toml-1.9.5-75c946",
+            "versionInfo": "1.9.5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND MIT",
+            "copyrightText": "Copyright (c) 2013 - 2021 Thomas Pelletier, Eric Anderton, Copyright 2016 Google LLC",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/pelletier/go-toml@1.9.5"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/afero",
+            "SPDXID": "SPDXRef-golang-github.comspf13-afero-1.9.5-75c946",
+            "versionInfo": "1.9.5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2015 The Go Authors, Copyright (c) 2014 Steve Francia <spf@spf13.com>, Copyright (c) 2015 Jerry Jacobs <jerry.jacobs@xor-gate.org>, Copyright (c) 2015 Steve Francia <spf@spf13.com>, Copyright (c) 2015 The Go Authors, Copyright (c) 2016 Steve Francia <spf@spf13.com>, Copyright (c) 2018 Steve Francia <spf@spf13.com>, Copyright (c) 2021 Vasily Ovchinnikov <vasily@remerge.io>, Copyright (c) 2022 Steve Francia <spf@spf13.com>, Copyright 2009 The Go Authors, Copyright 2013 tsuru authors, Portions Copyright (c) 2015 The Hugo Authors, Portions Copyright 2016-present Bjorn Erik Pedersen <bjorn.erik.pedersen@gmail.com>",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/afero@1.9.5"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/viper",
+            "SPDXID": "SPDXRef-golang-github.comspf13-viper-1.16.0-75c946",
+            "versionInfo": "1.16.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2014 Steve Francia, Copyright (c) 2014 Steve Francia <spf@spf13.com>, Copyright (c) 2015 Steve Francia <spf@spf13.com>, Copyright (c) 2016 Steve Francia <spf@spf13.com>, Copyright (c) 2017 Canonical Ltd.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/viper@1.16.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/mndrix/tap-go",
+            "SPDXID": "SPDXRef-golang-github.commndrix-tap-go-0.0.0-20171203230836-629fa407e90b-75c946",
+            "versionInfo": "0.0.0-20171203230836-629fa407e90b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Unlicense",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/mndrix/tap-go@0.0.0-20171203230836-629fa407e90b"
+                }
+            ]
+        },
+        {
+            "name": "github.com/hashicorp/hcl",
+            "SPDXID": "SPDXRef-golang-github.comhashicorp-hcl-1.0.0-75c946",
+            "versionInfo": "1.0.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/hashicorp/hcl@1.0.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/jwalterweatherman",
+            "SPDXID": "SPDXRef-golang-github.comspf13-jwalterweatherman-1.1.0-75c946",
+            "versionInfo": "1.1.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2014 Steve Francia, Copyright (c) 2016 Steve Francia <spf@spf13.com>",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/jwalterweatherman@1.1.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "SPDXID": "SPDXRef-golang-github.comspf13-pflag-1.0.5-75c946",
+            "versionInfo": "1.0.5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "copyrightText": "Copyright (c) 2012 Alex Ogier, Copyright (c) 2012 The Go Authors, Copyright 2009 The Go Authors, Copyright 2010 The Go Authors, Copyright 2012 The Go Authors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/pflag@1.0.5"
+                }
+            ]
+        },
+        {
+            "name": "github.com/subosito/gotenv",
+            "SPDXID": "SPDXRef-golang-github.comsubosito-gotenv-1.4.2-75c946",
+            "versionInfo": "1.4.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2013 Alif Rachmawadi",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/subosito/gotenv@1.4.2"
+                }
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v3",
+            "SPDXID": "SPDXRef-golang-gopkg.in-yaml.v3-3.0.1-75c946",
+            "versionInfo": "3.0.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright (c) 2006-2010 Kirill Simonov, Copyright (c) 2006-2011 Kirill Simonov, Copyright (c) 2011-2019 Canonical Ltd, Copyright 2011-2016 Canonical Ltd.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/gopkg.in/yaml.v3@3.0.1"
+                }
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "SPDXID": "SPDXRef-golang-golang.orgx-sys-0.9.0-75c946",
+            "versionInfo": "0.9.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang",
+            "copyrightText": "Copyright (c) 2009 The Go Authors, Copyright 2009 The Go Authors, Copyright 2009,2010 The Go Authors, Copyright 2010 The Go Authors, Copyright 2011 The Go Authors, Copyright 2012 The Go Authors, Copyright 2013 The Go Authors, Copyright 2014 The Go Authors, Copyright 2015 The Go Authors, Copyright 2016 The Go Authors, Copyright 2017 The Go Authors, Copyright 2018 The Go Authors, Copyright 2019 The Go Authors, Copyright 2020 The Go Authors, Copyright 2021 The Go Authors, Copyright 2022 The Go Authors, Copyright 2023 The Go Authors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/golang.org/x/sys@0.9.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/cast",
+            "SPDXID": "SPDXRef-golang-github.comspf13-cast-1.5.1-75c946",
+            "versionInfo": "1.5.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2014 Steve Francia, Copyright (c) 2014 Steve Francia <spf@spf13.com>, Copyright 2011 The Go Authors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/cast@1.5.1"
+                }
+            ]
+        },
+        {
+            "name": "github.com/fsnotify/fsnotify",
+            "SPDXID": "SPDXRef-golang-github.comfsnotify-fsnotify-1.6.0-75c946",
+            "versionInfo": "1.6.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "copyrightText": "Copyright (c) 2012 The Go Authors, Copyright (c) fsnotify Authors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/fsnotify/fsnotify@1.6.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "SPDXID": "SPDXRef-golang-github.cominconshreveable-mousetrap-1.1.0-75c946",
+            "versionInfo": "1.1.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright 2022 Alan Shreve",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/inconshreveable/mousetrap@1.1.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "SPDXID": "SPDXRef-golang-github.comspf13-cobra-1.7.0-75c946",
+            "versionInfo": "1.7.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright 2013-2023 The Cobra Authors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/cobra@1.7.0"
+                }
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "SPDXID": "SPDXRef-golang-gopkg.in-yaml.v2-2.4.0-75c946",
+            "versionInfo": "2.4.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright (c) 2006 Kirill Simonov, Copyright 2011-2016 Canonical Ltd.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/gopkg.in/yaml.v2@2.4.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/lib/pq",
+            "SPDXID": "SPDXRef-golang-github.comlib-pq-1.10.9-75c946",
+            "versionInfo": "1.10.9",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2011-2013, pq Contributors, Copyright (c) 2014 - Gustavo Niemeyer <gustavo@niemeyer.net>, Portions Copyright (c) 2011 Blake Mizerany",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/lib/pq@1.10.9"
+                }
+            ]
+        },
+        {
+            "name": "golang.org/x/text",
+            "SPDXID": "SPDXRef-golang-golang.orgx-text-0.10.0-75c946",
+            "versionInfo": "0.10.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause AND LicenseRef-scancode-google-patent-license-golang",
+            "copyrightText": "(c) (c) A, (c) (c) AAEE, (c) aA\"AE (c) 1AE, (c) AeHa (c), (c) Bv, (c) EAiE (c), (c) EeAoq (c), (c) EmeEBu (c), (c) lEEe (c) AE, (c) oav!A (c) AY I, (c) uSSg1/2a+-N (c) OY, Copyright (c) 2009 The Go Authors, Copyright 2009 The Go Authors, Copyright 2011 The Go Authors, Copyright 2012 The Go Authors, Copyright 2013 The Go Authors, Copyright 2014 The Go Authors, Copyright 2015 The Go Authors, Copyright 2016 The Go Authors, Copyright 2017 The Go Authors, Copyright 2018 The Go Authors, Copyright 2019 The Go Authors, Copyright 2021 The Go Authors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/golang.org/x/text@0.10.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/magiconair/properties",
+            "SPDXID": "SPDXRef-golang-github.commagiconair-properties-1.8.7-75c946",
+            "versionInfo": "1.8.7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause",
+            "copyrightText": "Copyright (c) 2013-2020, Frank Schroeder, Copyright 2011 The Go Authors, Copyright 2013-2014 Frank Schroeder, Copyright 2013-2022 Frank Schroeder",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/magiconair/properties@1.8.7"
+                }
+            ]
+        },
+        {
+            "name": "github.com/pmezard/go-difflib",
+            "SPDXID": "SPDXRef-golang-github.compmezard-go-difflib-1.0.0-75c946",
+            "versionInfo": "1.0.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-3-Clause",
+            "copyrightText": "Copyright (c) 2013, Patrick Mezard",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/pmezard/go-difflib@1.0.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/pelletier/go-toml/v2",
+            "SPDXID": "SPDXRef-golang-github.compelletiergo-toml-v2-2.0.8-75c946",
+            "versionInfo": "2.0.8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2013 - 2022 Thomas Pelletier, Eric Anderton",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/pelletier/go-toml/v2@2.0.8"
+                }
+            ]
+        },
+        {
+            "name": "github.com/theherk/viper",
+            "SPDXID": "SPDXRef-golang-github.comtheherk-viper-0.0.0-20171202031228-e0502e82247d-75c946",
+            "versionInfo": "0.0.0-20171202031228-e0502e82247d",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/theherk/viper@0.0.0-20171202031228-e0502e82247d"
+                }
+            ]
+        },
+        {
+            "name": "actions/checkout",
+            "SPDXID": "SPDXRef-githubactions-actions-checkout-3-75c946",
+            "versionInfo": "3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/checkout@3"
+                }
+            ]
+        },
+        {
+            "name": "actions/setup-go",
+            "SPDXID": "SPDXRef-githubactions-actions-setup-go-3-75c946",
+            "versionInfo": "3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/setup-go@3"
+                }
+            ]
+        },
+        {
+            "name": "com.github.dimitri/regresql",
+            "SPDXID": "SPDXRef-github-dimitri-regresql-master-143143",
+            "versionInfo": "master",
+            "downloadLocation": "git+https://github.com/dimitri/regresql",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/dimitri/regresql@master"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comhashicorp-hcl-1.0.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comfsnotify-fsnotify-1.6.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-gopkg.in-yaml.v2-2.4.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.compmezard-go-difflib-1.0.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-checkout-3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.commitchellh-mapstructure-1.5.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comsubosito-gotenv-1.4.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-gopkg.in-yaml.v3-3.0.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comspf13-cast-1.5.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comlib-pq-1.10.9-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.commitchellh-go-homedir-1.1.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-gopkg.in-ini.v1-1.67.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comspf13-afero-1.9.5-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comspf13-pflag-1.0.5-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.cominconshreveable-mousetrap-1.1.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comspf13-cobra-1.7.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.commagiconair-properties-1.8.7-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.compelletiergo-toml-v2-2.0.8-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.compelletier-go-toml-1.9.5-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comspf13-viper-1.16.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comspf13-jwalterweatherman-1.1.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-golang.orgx-sys-0.9.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-golang.orgx-text-0.10.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.comtheherk-viper-0.0.0-20171202031228-e0502e82247d-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-go-3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relatedSpdxElement": "SPDXRef-golang-github.commndrix-tap-go-0.0.0-20171203230836-629fa407e90b-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-dimitri-regresql-master-143143",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

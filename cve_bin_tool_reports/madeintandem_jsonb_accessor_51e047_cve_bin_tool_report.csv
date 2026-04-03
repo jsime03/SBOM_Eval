@@ -1,0 +1,9 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,activesupport,>= 6.1,NotFound,CVE-2023-22796,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,activesupport,>= 6.1,NotFound,CVE-2023-28120,UNKNOWN,unknown,NVD,unknown,unknown,,NewFound,
+unknown,activesupport,>= 6.1,NotFound,CVE-2023-38037,MEDIUM,5.5,GAD,3,CVSS:3.0/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:L/A:L,,NewFound,
+activesupport_project,activesupport,>= 6.1,NotFound,CVE-2023-22796,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,activerecord,>= 6.1,NotFound,CVE-2022-44566,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,activerecord,>= 6.1,NotFound,CVE-2025-55193,MEDIUM,4.3,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:L/A:N,,NewFound,
+activerecord_project,activerecord,>= 6.1,NotFound,CVE-2022-44566,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,pg,>= 0.18.1,NotFound,CVE-2024-44905,MEDIUM,6.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N,,NewFound,

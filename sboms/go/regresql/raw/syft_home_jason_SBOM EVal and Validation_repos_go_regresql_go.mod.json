@@ -1,0 +1,921 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "go.mod",
+    "documentNamespace": "https://anchore.com/syft/file/go.mod-d5423d77-865a-4b83-beef-64a8ec235510",
+    "creationInfo": {
+        "licenseListVersion": "3.27",
+        "creators": [
+            "Organization: Anchore, Inc",
+            "Tool: syft-1.42.1"
+        ],
+        "created": "2026-03-24T15:34:53Z"
+    },
+    "packages": [
+        {
+            "name": "github.com/fsnotify/fsnotify",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-fsnotify-fsnotify-7f97de755d12c096",
+            "versionInfo": "v1.6.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:fsnotify:fsnotify:v1.6.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/fsnotify/fsnotify@v1.6.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/hashicorp/hcl",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-hashicorp-hcl-3f0b51eefb9bb3b8",
+            "versionInfo": "v1.0.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:hashicorp:hcl:v1.0.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/hashicorp/hcl@v1.0.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-inconshreveable-mousetrap-f8b272d0feb2b21a",
+            "versionInfo": "v1.1.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:inconshreveable:mousetrap:v1.1.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/inconshreveable/mousetrap@v1.1.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/lib/pq",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-lib-pq-62c49b94cfaea050",
+            "versionInfo": "v1.10.9",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:lib:pq:v1.10.9:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/lib/pq@v1.10.9"
+                }
+            ]
+        },
+        {
+            "name": "github.com/magiconair/properties",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-magiconair-properties-4ee977d5cd336dbc",
+            "versionInfo": "v1.8.7",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:magiconair:properties:v1.8.7:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/magiconair/properties@v1.8.7"
+                }
+            ]
+        },
+        {
+            "name": "github.com/mitchellh/go-homedir",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-mitchellh-go-homedir-d43ab713559d4aa6",
+            "versionInfo": "v1.1.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:mitchellh:go-homedir:v1.1.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:mitchellh:go_homedir:v1.1.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/mitchellh/go-homedir@v1.1.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/mitchellh/mapstructure",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-mitchellh-mapstructure-4252d0e0c605cb55",
+            "versionInfo": "v1.5.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:mitchellh:mapstructure:v1.5.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/mitchellh/mapstructure@v1.5.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/mndrix/tap-go",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-mndrix-tap-go-1d747b6e7fb77f26",
+            "versionInfo": "v0.0.0-20171203230836-629fa407e90b",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:mndrix:tap-go:v0.0.0-20171203230836-629fa407e90b:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:mndrix:tap_go:v0.0.0-20171203230836-629fa407e90b:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/mndrix/tap-go@v0.0.0-20171203230836-629fa407e90b"
+                }
+            ]
+        },
+        {
+            "name": "github.com/pelletier/go-toml",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-pelletier-go-toml-7891858e631d5842",
+            "versionInfo": "v1.9.5",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:pelletier:go-toml:v1.9.5:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:pelletier:go_toml:v1.9.5:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/pelletier/go-toml@v1.9.5"
+                }
+            ]
+        },
+        {
+            "name": "github.com/pelletier/go-toml/v2",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-pelletier-go-toml-v2-a457d4923c9a2c0e",
+            "versionInfo": "v2.0.8",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:pelletier:go-toml\\/v2:v2.0.8:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:pelletier:go_toml\\/v2:v2.0.8:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/pelletier/go-toml/v2@v2.0.8"
+                }
+            ]
+        },
+        {
+            "name": "github.com/pmezard/go-difflib",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-pmezard-go-difflib-a2fb22cf529e6ec2",
+            "versionInfo": "v1.0.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:pmezard:go-difflib:v1.0.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:pmezard:go_difflib:v1.0.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/pmezard/go-difflib@v1.0.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/afero",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-spf13-afero-59c23825d6c4c94a",
+            "versionInfo": "v1.9.5",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:spf13:afero:v1.9.5:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/afero@v1.9.5"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/cast",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-spf13-cast-36a811a8905e02ba",
+            "versionInfo": "v1.5.1",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:spf13:cast:v1.5.1:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/cast@v1.5.1"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-spf13-cobra-15ceaf998894d422",
+            "versionInfo": "v1.7.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:spf13:cobra:v1.7.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/cobra@v1.7.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/jwalterweatherman",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-spf13-jwalterweatherman-de1e27cace926b5b",
+            "versionInfo": "v1.1.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:spf13:jwalterweatherman:v1.1.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/jwalterweatherman@v1.1.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-spf13-pflag-f8fa4f23d895c242",
+            "versionInfo": "v1.0.5",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:spf13:pflag:v1.0.5:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/pflag@v1.0.5"
+                }
+            ]
+        },
+        {
+            "name": "github.com/spf13/viper",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-spf13-viper-a5d0df25dfafadfd",
+            "versionInfo": "v1.16.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:spf13:viper:v1.16.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/spf13/viper@v1.16.0"
+                }
+            ]
+        },
+        {
+            "name": "github.com/subosito/gotenv",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-subosito-gotenv-fc5473bb2da57c86",
+            "versionInfo": "v1.4.2",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:subosito:gotenv:v1.4.2:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/subosito/gotenv@v1.4.2"
+                }
+            ]
+        },
+        {
+            "name": "github.com/theherk/viper",
+            "SPDXID": "SPDXRef-Package-go-module-github.com-theherk-viper-bc7f73423e705b2f",
+            "versionInfo": "v0.0.0-20171202031228-e0502e82247d",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:theherk:viper:v0.0.0-20171202031228-e0502e82247d:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/github.com/theherk/viper@v0.0.0-20171202031228-e0502e82247d"
+                }
+            ]
+        },
+        {
+            "name": "golang.org/x/sys",
+            "SPDXID": "SPDXRef-Package-go-module-golang.org-x-sys-2313ec46f8d4eeda",
+            "versionInfo": "v0.9.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:golang:x\\/sys:v0.9.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/golang.org/x/sys@v0.9.0"
+                }
+            ]
+        },
+        {
+            "name": "golang.org/x/text",
+            "SPDXID": "SPDXRef-Package-go-module-golang.org-x-text-c2b5d744ecbd715b",
+            "versionInfo": "v0.10.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:golang:text:v0.10.0:*:*:*:*:*:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/golang.org/x/text@v0.10.0"
+                }
+            ]
+        },
+        {
+            "name": "gopkg.in/ini.v1",
+            "SPDXID": "SPDXRef-Package-go-module-gopkg.in-ini.v1-c5852dbc0b57f007",
+            "versionInfo": "v1.67.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/gopkg.in/ini.v1@v1.67.0"
+                }
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "SPDXID": "SPDXRef-Package-go-module-gopkg.in-yaml.v2-9089ecec7c808a60",
+            "versionInfo": "v2.4.0",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/gopkg.in/yaml.v2@v2.4.0"
+                }
+            ]
+        },
+        {
+            "name": "gopkg.in/yaml.v3",
+            "SPDXID": "SPDXRef-Package-go-module-gopkg.in-yaml.v3-37afe94b4d0cd2e0",
+            "versionInfo": "v3.0.1",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "sourceInfo": "acquired package info from go module information: /go.mod",
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "externalRefs": [
+                {
+                    "referenceCategory": "SECURITY",
+                    "referenceType": "cpe23Type",
+                    "referenceLocator": "cpe:2.3:a:yaml_project:yaml:v3.0.1:*:*:*:*:go:*:*"
+                },
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:golang/gopkg.in/yaml.v3@v3.0.1"
+                }
+            ]
+        },
+        {
+            "name": "go.mod",
+            "SPDXID": "SPDXRef-DocumentRoot-File-go.mod",
+            "versionInfo": "sha256:98d1e36ad2f71c4dd9279679d91efbac59abec818abbb316f6b8842e33c02993",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "98d1e36ad2f71c4dd9279679d91efbac59abec818abbb316f6b8842e33c02993"
+                }
+            ],
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "primaryPackagePurpose": "FILE"
+        }
+    ],
+    "files": [
+        {
+            "fileName": "go.mod",
+            "SPDXID": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "fileTypes": [
+                "TEXT"
+            ],
+            "checksums": [
+                {
+                    "algorithm": "SHA1",
+                    "checksumValue": "deef888327f47b7a5acae52c81d0917bb2a1dbd1"
+                },
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "98d1e36ad2f71c4dd9279679d91efbac59abec818abbb316f6b8842e33c02993"
+                }
+            ],
+            "licenseConcluded": "NOASSERTION",
+            "licenseInfoInFiles": [
+                "NOASSERTION"
+            ],
+            "copyrightText": "NOASSERTION"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-spf13-cobra-15ceaf998894d422",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-mndrix-tap-go-1d747b6e7fb77f26",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-golang.org-x-sys-2313ec46f8d4eeda",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-spf13-cast-36a811a8905e02ba",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-gopkg.in-yaml.v3-37afe94b4d0cd2e0",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-hashicorp-hcl-3f0b51eefb9bb3b8",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-mitchellh-mapstructure-4252d0e0c605cb55",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-magiconair-properties-4ee977d5cd336dbc",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-spf13-afero-59c23825d6c4c94a",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-lib-pq-62c49b94cfaea050",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-pelletier-go-toml-7891858e631d5842",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-fsnotify-fsnotify-7f97de755d12c096",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-gopkg.in-yaml.v2-9089ecec7c808a60",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-pmezard-go-difflib-a2fb22cf529e6ec2",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-pelletier-go-toml-v2-a457d4923c9a2c0e",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-spf13-viper-a5d0df25dfafadfd",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-theherk-viper-bc7f73423e705b2f",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-golang.org-x-text-c2b5d744ecbd715b",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-gopkg.in-ini.v1-c5852dbc0b57f007",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-mitchellh-go-homedir-d43ab713559d4aa6",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-spf13-jwalterweatherman-de1e27cace926b5b",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-inconshreveable-mousetrap-f8b272d0feb2b21a",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-spf13-pflag-f8fa4f23d895c242",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-Package-go-module-github.com-subosito-gotenv-fc5473bb2da57c86",
+            "relatedSpdxElement": "SPDXRef-File-go.mod-3fc5a8d3d86e9790",
+            "relationshipType": "OTHER",
+            "comment": "evident-by: indicates the package's existence is evident by the given file"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-fsnotify-fsnotify-7f97de755d12c096",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-hashicorp-hcl-3f0b51eefb9bb3b8",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-inconshreveable-mousetrap-f8b272d0feb2b21a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-lib-pq-62c49b94cfaea050",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-magiconair-properties-4ee977d5cd336dbc",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-mitchellh-go-homedir-d43ab713559d4aa6",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-mitchellh-mapstructure-4252d0e0c605cb55",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-mndrix-tap-go-1d747b6e7fb77f26",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-pelletier-go-toml-7891858e631d5842",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-pelletier-go-toml-v2-a457d4923c9a2c0e",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-pmezard-go-difflib-a2fb22cf529e6ec2",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-spf13-afero-59c23825d6c4c94a",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-spf13-cast-36a811a8905e02ba",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-spf13-cobra-15ceaf998894d422",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-spf13-jwalterweatherman-de1e27cace926b5b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-spf13-pflag-f8fa4f23d895c242",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-spf13-viper-a5d0df25dfafadfd",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-subosito-gotenv-fc5473bb2da57c86",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-github.com-theherk-viper-bc7f73423e705b2f",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-golang.org-x-sys-2313ec46f8d4eeda",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-golang.org-x-text-c2b5d744ecbd715b",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-gopkg.in-ini.v1-c5852dbc0b57f007",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-gopkg.in-yaml.v2-9089ecec7c808a60",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DocumentRoot-File-go.mod",
+            "relatedSpdxElement": "SPDXRef-Package-go-module-gopkg.in-yaml.v3-37afe94b4d0cd2e0",
+            "relationshipType": "CONTAINS"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-DocumentRoot-File-go.mod",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

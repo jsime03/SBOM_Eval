@@ -1,0 +1,96 @@
+{
+    "left": [
+        {
+            "name": "Gemfile",
+            "version": "sha256:b8c93f1ac269711968487e7197a55b4ba7ede9b1b101a86a636c3650f1d9bf4f"
+        }
+    ],
+    "Left count": 1,
+    "right": [
+        {
+            "name": "actions/checkout",
+            "version": "8e8c483db84b4bee98b60c0593521ed34d9990e8"
+        },
+        {
+            "name": "activerecord",
+            "version": ">= 6.1"
+        },
+        {
+            "name": "activerecord-jdbcpostgresql-adapter",
+            "version": ">= 50.0"
+        },
+        {
+            "name": "activesupport",
+            "version": ">= 6.1"
+        },
+        {
+            "name": "awesome_print",
+            "version": ">= 0"
+        },
+        {
+            "name": "benchmark",
+            "version": ">= 0"
+        },
+        {
+            "name": "com.github.madeintandem/jsonb_accessor",
+            "version": "master"
+        },
+        {
+            "name": "database_cleaner-active_record",
+            "version": ">= 2.1"
+        },
+        {
+            "name": "ostruct",
+            "version": ">= 0"
+        },
+        {
+            "name": "pg",
+            "version": ">= 0.18.1"
+        },
+        {
+            "name": "pry",
+            "version": ">= 0"
+        },
+        {
+            "name": "pry-doc",
+            "version": ">= 0"
+        },
+        {
+            "name": "pry-nav",
+            "version": ">= 0"
+        },
+        {
+            "name": "psych",
+            "version": ">= 3"
+        },
+        {
+            "name": "rake",
+            "version": ">= 12.3.3"
+        },
+        {
+            "name": "rspec",
+            "version": ">= 3.6.0"
+        },
+        {
+            "name": "rubocop",
+            "version": ">= 1.0"
+        },
+        {
+            "name": "ruby/setup-ruby",
+            "version": "80740b3b13bf9857e28854481ca95a84e78a2bdf"
+        },
+        {
+            "name": "rubygems/release-gem",
+            "version": "1c162a739e8b4cb21a676e97b087e8268d8fc40b"
+        },
+        {
+            "name": "step-security/harden-runner",
+            "version": "20cf305ff2072d973412fa9b1e3a4f227bda3c76"
+        }
+    ],
+    "Right count": 20,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/ruby/jsonb_accessor/raw/syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json",
+    "filetwo": "sboms/ruby/jsonb_accessor/raw/madeintandem_jsonb_accessor_51e047.json"
+}

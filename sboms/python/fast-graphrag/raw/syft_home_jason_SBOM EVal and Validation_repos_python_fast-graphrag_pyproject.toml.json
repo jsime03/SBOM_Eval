@@ -1,0 +1,42 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "pyproject.toml",
+    "documentNamespace": "https://anchore.com/syft/file/pyproject.toml-09258847-3195-4f35-85bf-43e775a3b143",
+    "creationInfo": {
+        "licenseListVersion": "3.27",
+        "creators": [
+            "Organization: Anchore, Inc",
+            "Tool: syft-1.42.1"
+        ],
+        "created": "2026-03-24T15:34:46Z"
+    },
+    "packages": [
+        {
+            "name": "pyproject.toml",
+            "SPDXID": "SPDXRef-DocumentRoot-File-pyproject.toml",
+            "versionInfo": "sha256:6d4536256c5c423b927fa5ec2e6ce67c4cd4a45b995a2240d2e2d10f7a949209",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "6d4536256c5c423b927fa5ec2e6ce67c4cd4a45b995a2240d2e2d10f7a949209"
+                }
+            ],
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "primaryPackagePurpose": "FILE"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-DocumentRoot-File-pyproject.toml",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

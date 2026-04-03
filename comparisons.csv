@@ -1,0 +1,57 @@
+Repo,File One,File Two,Left Count,Right Count,Common Count,Jaccard Score
+eslint-plugin-graphql,apollographql_eslint-plugin-graphql_14f152.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_eslint-plugin-graphql_package.json.json,568,1,0,0.0
+eslint-plugin-graphql,apollographql_eslint-plugin-graphql_14f152.json,eslint-plugin-graphql.spdx.json,480,7,88,0.15304347826086956
+eslint-plugin-graphql,syft_home_jason_SBOM EVal and Validation_repos_javascript_eslint-plugin-graphql_package.json.json,eslint-plugin-graphql.spdx.json,1,95,0,0.0
+chromecasts,syft_home_jason_SBOM EVal and Validation_repos_javascript_chromecasts_package.json.json,chromecasts.spdx.json,1,47,0,0.0
+chromecasts,syft_home_jason_SBOM EVal and Validation_repos_javascript_chromecasts_package.json.json,mafintosh_chromecasts_032601.json,1,11,0,0.0
+chromecasts,chromecasts.spdx.json,mafintosh_chromecasts_032601.json,47,11,0,0.0
+supermemory,syft_home_jason_SBOM EVal and Validation_repos_javascript_supermemory_package.json.json,supermemory.spdx.json,1,234,0,0.0
+supermemory,syft_home_jason_SBOM EVal and Validation_repos_javascript_supermemory_package.json.json,supermemoryai_supermemory_40ed1a.json,1,476,0,0.0
+supermemory,supermemory.spdx.json,supermemoryai_supermemory_40ed1a.json,130,372,104,0.1716171617161716
+promptfoo,promptfoo.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_promptfoo_package.json.json,1025,1,0,0.0
+promptfoo,promptfoo.spdx.json,promptfoo_promptfoo_52cf11.json,68,1983,957,0.3181515957446808
+promptfoo,syft_home_jason_SBOM EVal and Validation_repos_javascript_promptfoo_package.json.json,promptfoo_promptfoo_52cf11.json,1,2940,0,0.0
+page-agent,alibaba_page-agent_d7ed02.json,page-agent.spdx.json,783,41,10,0.011990407673860911
+page-agent,alibaba_page-agent_d7ed02.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_page-agent_package.json.json,793,1,0,0.0
+page-agent,page-agent.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_page-agent_package.json.json,51,1,0,0.0
+fast-graphrag,syft_home_jason_SBOM EVal and Validation_repos_python_fast-graphrag_pyproject.toml.json,circlemind-ai_fast-graphrag_aa1191.json,1,99,0,0.0
+fast-graphrag,syft_home_jason_SBOM EVal and Validation_repos_python_fast-graphrag_pyproject.toml.json,fast-graphrag.spdx.json,1,101,0,0.0
+fast-graphrag,circlemind-ai_fast-graphrag_aa1191.json,fast-graphrag.spdx.json,6,8,93,0.8691588785046729
+hermes-agent,hermes-agent.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_hermes-agent_pyproject.toml.json,1614,1,0,0.0
+AstrBot,AstrBot.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_AstrBot_pyproject.toml.json,915,1,0,0.0
+AstrBot,AstrBot.spdx.json,AstrBotDevs_AstrBot_28a28d.json,148,75,767,0.7747474747474747
+AstrBot,syft_home_jason_SBOM EVal and Validation_repos_python_AstrBot_pyproject.toml.json,AstrBotDevs_AstrBot_28a28d.json,1,842,0,0.0
+code-graph-rag,code-graph-rag.spdx.json,vitali87_code-graph-rag_e34867.json,464,9,288,0.37844940867279897
+code-graph-rag,code-graph-rag.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_code-graph-rag_pyproject.toml.json,752,1,0,0.0
+code-graph-rag,vitali87_code-graph-rag_e34867.json,syft_home_jason_SBOM EVal and Validation_repos_python_code-graph-rag_pyproject.toml.json,297,1,0,0.0
+mindsdb,syft_home_jason_SBOM EVal and Validation_repos_python_mindsdb_pyproject.toml.json,mindsdb_mindsdb_6e7636.json,1,1179,0,0.0
+mindsdb,syft_home_jason_SBOM EVal and Validation_repos_python_mindsdb_pyproject.toml.json,mindsdb.spdx.json,1,1551,0,0.0
+mindsdb,mindsdb_mindsdb_6e7636.json,mindsdb.spdx.json,212,584,967,0.5484968803176404
+ai-hedge-fund,syft_home_jason_SBOM EVal and Validation_repos_python_ai-hedge-fund_pyproject.toml.json,virattt_ai-hedge-fund_5b2fdf.json,1,708,0,0.0
+ai-hedge-fund,syft_home_jason_SBOM EVal and Validation_repos_python_ai-hedge-fund_pyproject.toml.json,ai-hedge-fund.spdx.json,1,588,0,0.0
+ai-hedge-fund,virattt_ai-hedge-fund_5b2fdf.json,ai-hedge-fund.spdx.json,124,4,584,0.8202247191011236
+fish-speech,fish-speech.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_fish-speech_pyproject.toml.json,498,1,0,0.0
+trivy,trivy.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_go_trivy_go.mod.json,686,1,493,0.41779661016949154
+trivy,trivy.spdx.json,aquasecurity_trivy_a17c93.json,710,51,469,0.38130081300813007
+trivy,syft_home_jason_SBOM EVal and Validation_repos_go_trivy_go.mod.json,aquasecurity_trivy_a17c93.json,26,52,468,0.8571428571428571
+dolt,dolthub_dolt_49739a.json,dolt.spdx.json,141,99,342,0.5876288659793815
+dolt,dolthub_dolt_49739a.json,syft_home_jason_SBOM EVal and Validation_repos_go_dolt_go_go.mod.json,295,12,188,0.3797979797979798
+dolt,dolt.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_go_dolt_go_go.mod.json,242,1,199,0.4502262443438914
+regresql,regresql.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_go_regresql_go.mod.json,7,1,24,0.75
+regresql,regresql.spdx.json,dimitri_regresql_311421.json,31,27,0,0.0
+regresql,syft_home_jason_SBOM EVal and Validation_repos_go_regresql_go.mod.json,dimitri_regresql_311421.json,25,27,0,0.0
+hishtory,syft_home_jason_SBOM EVal and Validation_repos_go_hishtory_go.mod.json,hishtory.spdx.json,1,71,266,0.7869822485207101
+hishtory,syft_home_jason_SBOM EVal and Validation_repos_go_hishtory_go.mod.json,ddworken_hishtory_105877.json,267,284,0,0.0
+hishtory,hishtory.spdx.json,ddworken_hishtory_105877.json,336,283,1,0.0016129032258064516
+dnspeep,syft_home_jason_SBOM EVal and Validation_repos_rust_dnspeep_Cargo.toml.json,jvns_dnspeep_ece27c.json,1,97,0,0.0
+dnspeep,syft_home_jason_SBOM EVal and Validation_repos_rust_dnspeep_Cargo.toml.json,dnspeep.spdx.json,1,98,0,0.0
+dnspeep,jvns_dnspeep_ece27c.json,dnspeep.spdx.json,4,5,93,0.9117647058823529
+SpacetimeDB,syft_home_jason_SBOM EVal and Validation_repos_rust_SpacetimeDB_Cargo.toml.json,SpacetimeDB.spdx.json,1,4841,0,0.0
+SpacetimeDB,syft_home_jason_SBOM EVal and Validation_repos_rust_SpacetimeDB_Cargo.toml.json,clockworklabs_SpacetimeDB_05bd95.json,1,5056,0,0.0
+SpacetimeDB,SpacetimeDB.spdx.json,clockworklabs_SpacetimeDB_05bd95.json,170,385,4671,0.8938002296211252
+http_logger,http_logger.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_ruby_http_logger_Gemfile.json,50,1,0,0.0
+http_logger,http_logger.spdx.json,railsware_http_logger_9cb5fa.json,50,10,0,0.0
+http_logger,syft_home_jason_SBOM EVal and Validation_repos_ruby_http_logger_Gemfile.json,railsware_http_logger_9cb5fa.json,1,10,0,0.0
+jsonb_accessor,syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json,jsonb_accessor.spdx.json,1,132,0,0.0
+jsonb_accessor,syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json,madeintandem_jsonb_accessor_51e047.json,1,20,0,0.0
+jsonb_accessor,jsonb_accessor.spdx.json,madeintandem_jsonb_accessor_51e047.json,132,20,0,0.0

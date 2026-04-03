@@ -1,0 +1,544 @@
+{
+    "left": [
+        {
+            "name": "Gemfile",
+            "version": "sha256:b8c93f1ac269711968487e7197a55b4ba7ede9b1b101a86a636c3650f1d9bf4f"
+        }
+    ],
+    "Left count": 1,
+    "right": [
+        {
+            "name": "actions/checkout",
+            "version": "v2"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v3"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v4"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v5"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v5.0.0"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v6"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v6.0.1"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v4"
+        },
+        {
+            "name": "activemodel",
+            "version": "8.1.2"
+        },
+        {
+            "name": "activerecord",
+            "version": "8.1.2"
+        },
+        {
+            "name": "activesupport",
+            "version": "8.1.2"
+        },
+        {
+            "name": "addressable",
+            "version": "2.8.9"
+        },
+        {
+            "name": "appraisal",
+            "version": "2.3.0"
+        },
+        {
+            "name": "ast",
+            "version": "2.4.2"
+        },
+        {
+            "name": "ast",
+            "version": "2.4.3"
+        },
+        {
+            "name": "awesome_print",
+            "version": "1.9.2"
+        },
+        {
+            "name": "awesome_print",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "base64",
+            "version": "0.3.0"
+        },
+        {
+            "name": "benchmark",
+            "version": "0.5.0"
+        },
+        {
+            "name": "bigdecimal",
+            "version": "4.0.1"
+        },
+        {
+            "name": "coderay",
+            "version": "1.1.3"
+        },
+        {
+            "name": "concurrent-ruby",
+            "version": "1.3.6"
+        },
+        {
+            "name": "concurrent_ruby",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "connection_pool",
+            "version": "3.0.2"
+        },
+        {
+            "name": "connection_pool",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "database_cleaner",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "database_cleaner-active_record",
+            "version": "2.2.2"
+        },
+        {
+            "name": "database_cleaner-active_record",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "database_cleaner-core",
+            "version": "2.0.1"
+        },
+        {
+            "name": "database_cleaner-core",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "date",
+            "version": "3.5.1"
+        },
+        {
+            "name": "diff-lcs",
+            "version": "1.4.4"
+        },
+        {
+            "name": "diff-lcs",
+            "version": "1.6.2"
+        },
+        {
+            "name": "drb",
+            "version": "2.2.3"
+        },
+        {
+            "name": "drb",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "etags",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "fakefs",
+            "version": "1.3.2"
+        },
+        {
+            "name": "i18n",
+            "version": "1.14.8"
+        },
+        {
+            "name": "io-console",
+            "version": "0.6.0"
+        },
+        {
+            "name": "irb",
+            "version": "1.8.1"
+        },
+        {
+            "name": "json",
+            "version": "2.19.1"
+        },
+        {
+            "name": "json",
+            "version": "2.6.3"
+        },
+        {
+            "name": "json",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "json-schema",
+            "version": "6.2.0"
+        },
+        {
+            "name": "jsonb_accessor",
+            "version": "1.4.1"
+        },
+        {
+            "name": "jsonb_accessor",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "language_server-protocol",
+            "version": "3.17.0.3"
+        },
+        {
+            "name": "language_server-protocol",
+            "version": "3.17.0.5"
+        },
+        {
+            "name": "lint_roller",
+            "version": "1.1.0"
+        },
+        {
+            "name": "logger",
+            "version": "1.7.0"
+        },
+        {
+            "name": "m",
+            "version": "1.6.1"
+        },
+        {
+            "name": "mcp",
+            "version": "0.8.0"
+        },
+        {
+            "name": "mcp",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "method_source",
+            "version": "1.0.0"
+        },
+        {
+            "name": "method_source",
+            "version": "1.1.0"
+        },
+        {
+            "name": "mini_portile2",
+            "version": "2.5.0"
+        },
+        {
+            "name": "minitest",
+            "version": "5.18.0"
+        },
+        {
+            "name": "minitest",
+            "version": "5.20.0"
+        },
+        {
+            "name": "minitest",
+            "version": "6.0.2"
+        },
+        {
+            "name": "mutex_m",
+            "version": "0.3.0"
+        },
+        {
+            "name": "nokogiri",
+            "version": "1.11.1"
+        },
+        {
+            "name": "ostruct",
+            "version": "0.6.3"
+        },
+        {
+            "name": "parallel",
+            "version": "1.22.1"
+        },
+        {
+            "name": "parallel",
+            "version": "1.27.0"
+        },
+        {
+            "name": "parser",
+            "version": "3.2.2.0"
+        },
+        {
+            "name": "parser",
+            "version": "3.3.10.2"
+        },
+        {
+            "name": "parser",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "pg",
+            "version": "1.6.3"
+        },
+        {
+            "name": "pg",
+            "version": "1.6.3-x86_64-linux"
+        },
+        {
+            "name": "pg",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "prism",
+            "version": "1.9.0"
+        },
+        {
+            "name": "pry",
+            "version": "0.14.2"
+        },
+        {
+            "name": "pry-doc",
+            "version": "1.7.0"
+        },
+        {
+            "name": "pry-doc",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "pry-nav",
+            "version": "1.0.0"
+        },
+        {
+            "name": "pry-nav",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "psych",
+            "version": "5.1.0"
+        },
+        {
+            "name": "psych",
+            "version": "5.3.1"
+        },
+        {
+            "name": "public_suffix",
+            "version": "7.0.5"
+        },
+        {
+            "name": "racc",
+            "version": "1.5.2"
+        },
+        {
+            "name": "racc",
+            "version": "1.8.1"
+        },
+        {
+            "name": "rainbow",
+            "version": "3.1.1"
+        },
+        {
+            "name": "rake",
+            "version": "13.0.3"
+        },
+        {
+            "name": "rake",
+            "version": "13.0.6"
+        },
+        {
+            "name": "rake",
+            "version": "13.3.1"
+        },
+        {
+            "name": "rake",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "rdoc",
+            "version": "6.5.0"
+        },
+        {
+            "name": "regexp_parser",
+            "version": "2.11.3"
+        },
+        {
+            "name": "regexp_parser",
+            "version": "2.7.0"
+        },
+        {
+            "name": "regexp_parser",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "reline",
+            "version": "0.3.8"
+        },
+        {
+            "name": "repos/ruby/jsonb_accessor",
+            "version": ""
+        },
+        {
+            "name": "rexml",
+            "version": "3.2.5"
+        },
+        {
+            "name": "rspec",
+            "version": "3.10.0"
+        },
+        {
+            "name": "rspec",
+            "version": "3.13.2"
+        },
+        {
+            "name": "rspec-core",
+            "version": "3.10.1"
+        },
+        {
+            "name": "rspec-core",
+            "version": "3.13.6"
+        },
+        {
+            "name": "rspec-expectations",
+            "version": "3.10.1"
+        },
+        {
+            "name": "rspec-expectations",
+            "version": "3.13.5"
+        },
+        {
+            "name": "rspec-mocks",
+            "version": "3.10.1"
+        },
+        {
+            "name": "rspec-mocks",
+            "version": "3.13.8"
+        },
+        {
+            "name": "rspec-support",
+            "version": "3.10.1"
+        },
+        {
+            "name": "rspec-support",
+            "version": "3.13.7"
+        },
+        {
+            "name": "rubocop",
+            "version": "1.48.1"
+        },
+        {
+            "name": "rubocop",
+            "version": "1.85.1"
+        },
+        {
+            "name": "rubocop-ast",
+            "version": "1.28.0"
+        },
+        {
+            "name": "rubocop-ast",
+            "version": "1.49.1"
+        },
+        {
+            "name": "rubocop-performance",
+            "version": "1.16.0"
+        },
+        {
+            "name": "ruby-progressbar",
+            "version": "1.13.0"
+        },
+        {
+            "name": "ruby/actions/.github/workflows/ruby_versions.yml",
+            "version": "master"
+        },
+        {
+            "name": "ruby/setup-ruby",
+            "version": "v1"
+        },
+        {
+            "name": "ruby/setup-ruby",
+            "version": "v1.257.0"
+        },
+        {
+            "name": "ruby/setup-ruby",
+            "version": "v1.284.0"
+        },
+        {
+            "name": "rubygems/release-gem",
+            "version": "v1"
+        },
+        {
+            "name": "rubygems/release-gem",
+            "version": "v1.1.1"
+        },
+        {
+            "name": "rubygems/release-gem",
+            "version": "v1.1.2"
+        },
+        {
+            "name": "securerandom",
+            "version": "0.4.1"
+        },
+        {
+            "name": "sqlite3",
+            "version": "1.4.2"
+        },
+        {
+            "name": "standard",
+            "version": "1.26.0"
+        },
+        {
+            "name": "step-security/harden-runner",
+            "version": "v2.13.1"
+        },
+        {
+            "name": "step-security/harden-runner",
+            "version": "v2.14.0"
+        },
+        {
+            "name": "stringio",
+            "version": "3.0.8"
+        },
+        {
+            "name": "stringio",
+            "version": "3.2.0"
+        },
+        {
+            "name": "thor",
+            "version": "1.1.0"
+        },
+        {
+            "name": "timeout",
+            "version": "0.6.1"
+        },
+        {
+            "name": "tzinfo",
+            "version": "2.0.6"
+        },
+        {
+            "name": "unicode-display_width",
+            "version": "2.4.2"
+        },
+        {
+            "name": "unicode-display_width",
+            "version": "3.2.0"
+        },
+        {
+            "name": "unicode-emoji",
+            "version": "4.2.0"
+        },
+        {
+            "name": "unicode-emoji",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "uri",
+            "version": "1.1.1"
+        },
+        {
+            "name": "yard",
+            "version": "0.9.38"
+        }
+    ],
+    "Right count": 132,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/ruby/jsonb_accessor/raw/syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json",
+    "filetwo": "sboms/ruby/jsonb_accessor/raw/jsonb_accessor.spdx.json"
+}

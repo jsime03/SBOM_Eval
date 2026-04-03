@@ -1,0 +1,12 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,mime,^1.3.4,/usr/lib/mime,CVE-2017-16138,HIGH,7.5,NVD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,mime,^1.3.4,/usr/lib/mime,GMS-2017-247,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+mime_project,mime,^1.3.4,/usr/lib/mime,CVE-2017-16138,HIGH,7.5,NVD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,xml2js,^0.4.8,NotFound,CVE-2023-0842,MEDIUM,5.3,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,,NewFound,
+unknown,simple-get,^2.0.0,NotFound,CVE-2022-0355,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,,NewFound,
+simple-get_project,simple-get,^2.0.0,NotFound,CVE-2022-0355,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,,NewFound,
+unknown,debug,^2.1.3,NotFound,CVE-2017-16137,MEDIUM,5.3,NVD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L,,NewFound,
+unknown,debug,^2.1.3,NotFound,CVE-2017-20165,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,debug,^2.1.3,NotFound,GMS-2017-248,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+debug_project,debug,^2.1.3,NotFound,CVE-2017-16137,MEDIUM,5.3,NVD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L,,NewFound,
+debug_project,debug,^2.1.3,NotFound,CVE-2017-20165,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,

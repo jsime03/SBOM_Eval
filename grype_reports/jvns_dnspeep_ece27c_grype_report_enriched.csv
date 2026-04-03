@@ -1,0 +1,2 @@
+cve,package,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2021-45710,tokio,High,False,,0.00194,0.41356,no,,,,,,,62f34e15ce6294f6273c33548772a70d76f2ea61 | b280c6dcd72b2607cde68d2b2192480932f48ecb,2273eb1a1a9c9cfa2bd998c2215239e6fe1ed57a | 2a3c803dd1c487868eabcef547066952cc07624e,8.1,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1

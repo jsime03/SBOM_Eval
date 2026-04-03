@@ -1,0 +1,181 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.public-apis/public-apis",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/27a89918-2323-438a-8ed0-b4901cfe658f",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20260311140609-2219a6430415+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2026-03-13T18:44:16Z"
+    },
+    "packages": [
+        {
+            "name": "certifi",
+            "SPDXID": "SPDXRef-pypi-certifi-2021.10.8-75c946",
+            "versionInfo": "2021.10.8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MPL-2.0",
+            "copyrightText": "(c) 1999 Entrust.net Limited, (c) 1999 Entrust.net Limited Label Entrust.net Premium 2048 Secure Server CA Serial, (c) 2006 Entrust, Inc., (c) 2006 Entrust, Inc. Label Entrust Root Certification, (c) 2009 Entrust, Inc. - for, (c) 2012 Entrust, Inc. - for, (c) 2015 Entrust, Inc. - for",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/certifi@2021.10.8"
+                }
+            ]
+        },
+        {
+            "name": "requests",
+            "SPDXID": "SPDXRef-pypi-requests-2.27.1-75c946",
+            "versionInfo": "2.27.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "copyright (c) 2012 by Kenneth Reitz, copyright (c) 2017 by Kenneth Reitz, Copyright 2019 Kenneth Reitz, Copyright 2022 Kenneth Reitz",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/requests@2.27.1"
+                }
+            ]
+        },
+        {
+            "name": "idna",
+            "SPDXID": "SPDXRef-pypi-idna-3.3-75c946",
+            "versionInfo": "3.3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "BSD-2-Clause AND BSD-3-Clause",
+            "copyrightText": "(c) 2019 Unicode(r), Inc., Copyright (c) 2013-2021, Kim Davies",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/idna@3.3"
+                }
+            ]
+        },
+        {
+            "name": "urllib3",
+            "SPDXID": "SPDXRef-pypi-urllib3-1.26.8-75c946",
+            "versionInfo": "1.26.8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "Copyright (c) 2012 Senko Rasic <senko.rasic@dobarkod.hr>, Copyright (c) 2015-2016 Will Bond <will@wbond.net>, Copyright 2015 Google Inc.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/urllib3@1.26.8"
+                }
+            ]
+        },
+        {
+            "name": "charset-normalizer",
+            "SPDXID": "SPDXRef-pypi-charset-normalizer-2.0.10-75c946",
+            "versionInfo": "2.0.10",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2012 Denny Vrandecic (http://simia.net/letters/), (c) https://stackoverflow.com/questions/3041986/apt-command-line-interface-like-yes-no-input, Copyright (c) 2019 Ahmed TAHRI Ousret, Copyright (c) 2019 Ahmed TAHRI Ousret (https://github.com/Ousret)., Copyright (c) 2019 Ahmed TAHRI Ousret (https://github.com/Ousret). This project, Copyright (c) 2019 TAHRI Ahmed R., copyright 2019, Ahmed TAHRI",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/charset-normalizer@2.0.10"
+                }
+            ]
+        },
+        {
+            "name": "actions/checkout",
+            "SPDXID": "SPDXRef-githubactions-actions-checkout-2-75c946",
+            "versionInfo": "2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/checkout@2"
+                }
+            ]
+        },
+        {
+            "name": "actions/setup-python",
+            "SPDXID": "SPDXRef-githubactions-actions-setup-python-2-75c946",
+            "versionInfo": "2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/setup-python@2"
+                }
+            ]
+        },
+        {
+            "name": "com.github.public-apis/public-apis",
+            "SPDXID": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "versionInfo": "master",
+            "downloadLocation": "git+https://github.com/public-apis/public-apis",
+            "filesAnalyzed": false,
+            "licenseDeclared": "MIT",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/public-apis/public-apis@master"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-pypi-certifi-2021.10.8-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-pypi-requests-2.27.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-pypi-idna-3.3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-pypi-urllib3-1.26.8-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-pypi-charset-normalizer-2.0.10-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-checkout-2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-setup-python-2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-public-apis-public-apis-master-f61199",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

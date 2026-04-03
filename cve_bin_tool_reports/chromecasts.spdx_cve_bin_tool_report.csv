@@ -1,0 +1,5 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,ip,1.1.9,/usr/bin/ip,CVE-2024-29415,UNKNOWN,unknown,NVD,unknown,unknown,,NewFound,
+protobufjs_project,protobufjs,6.11.4,NotFound,CVE-2023-36665,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,xml2js,0.4.23,NotFound,CVE-2023-0842,MEDIUM,5.3,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,,NewFound,
+xml2js_project,xml2js,0.4.23,NotFound,CVE-2023-0842,MEDIUM,5.3,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,,NewFound,

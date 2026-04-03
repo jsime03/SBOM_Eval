@@ -1,0 +1,5 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,torch,>= 2.2.0,NotFound,CVE-2024-7804,CRITICAL,9.8,GAD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,torch,>= 2.2.0,NotFound,CVE-2025-2953,LOW,3.3,GAD,3,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L,,NewFound,
+unknown,torch,>= 2.2.0,NotFound,CVE-2025-32434,CRITICAL,9.8,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,torch,>= 2.2.0,NotFound,CVE-2025-3730,LOW,3.3,GAD,3,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:L,,NewFound,

@@ -1,0 +1,13 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,debug,>= 1.0,NotFound,CVE-2017-20165,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,debug,>= 1.0,NotFound,GMS-2017-248,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+debug_project,debug,>= 1.0,NotFound,CVE-2017-20165,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+soninow,debug,>= 1.0,NotFound,CVE-2024-24798,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+unknown,base64,>= 0,/usr/bin/base64,CVE-2017-1000430,CRITICAL,9.8,NVD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2016-7954,CRITICAL,9.8,GAD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2019-3881,HIGH,7.8,NVD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+unknown,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2020-36327,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+unknown,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2021-43809,MEDIUM,6.7,GAD,3,CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+bundler,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2019-3881,HIGH,7.8,NVD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+bundler,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2020-36327,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+bundler,bundler,>= 2.0,/usr/local/bin/bundler,CVE-2021-43809,MEDIUM,6.7,GAD,3,CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H,,NewFound,

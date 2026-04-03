@@ -1,0 +1,42 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "Gemfile",
+    "documentNamespace": "https://anchore.com/syft/file/Gemfile-27791872-3806-424f-a04c-1bc4064245aa",
+    "creationInfo": {
+        "licenseListVersion": "3.27",
+        "creators": [
+            "Organization: Anchore, Inc",
+            "Tool: syft-1.42.1"
+        ],
+        "created": "2026-03-24T15:34:52Z"
+    },
+    "packages": [
+        {
+            "name": "Gemfile",
+            "SPDXID": "SPDXRef-DocumentRoot-File-Gemfile",
+            "versionInfo": "sha256:fa52dbbf57e546a2f4c5eba669810833c890b62edf1b5481c7c766ab8466e8a1",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "fa52dbbf57e546a2f4c5eba669810833c890b62edf1b5481c7c766ab8466e8a1"
+                }
+            ],
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "primaryPackagePurpose": "FILE"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-DocumentRoot-File-Gemfile",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

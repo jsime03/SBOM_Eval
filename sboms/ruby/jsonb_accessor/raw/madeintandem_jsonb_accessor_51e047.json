@@ -1,0 +1,400 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.madeintandem/jsonb_accessor",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/907e5b5c-4172-4c03-ab1b-e0f1a9e4221d",
+    "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20260311140609-2219a6430415+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2026-03-11T14:41:11Z"
+    },
+    "packages": [
+        {
+            "name": "activerecord-jdbcpostgresql-adapter",
+            "SPDXID": "SPDXRef-gem-activerecord-jdbcpostgresql-adapter-75c946",
+            "versionInfo": ">= 50.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/activerecord-jdbcpostgresql-adapter"
+                }
+            ]
+        },
+        {
+            "name": "activesupport",
+            "SPDXID": "SPDXRef-gem-activesupport-75c946",
+            "versionInfo": ">= 6.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/activesupport"
+                }
+            ]
+        },
+        {
+            "name": "rubocop",
+            "SPDXID": "SPDXRef-gem-rubocop-75c946",
+            "versionInfo": ">= 1.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/rubocop"
+                }
+            ]
+        },
+        {
+            "name": "pry",
+            "SPDXID": "SPDXRef-gem-pry-75c946",
+            "versionInfo": ">= 0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/pry"
+                }
+            ]
+        },
+        {
+            "name": "pry-nav",
+            "SPDXID": "SPDXRef-gem-pry-nav-75c946",
+            "versionInfo": ">= 0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/pry-nav"
+                }
+            ]
+        },
+        {
+            "name": "awesome_print",
+            "SPDXID": "SPDXRef-gem-awesomeprint-75c946",
+            "versionInfo": ">= 0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/awesome_print"
+                }
+            ]
+        },
+        {
+            "name": "rake",
+            "SPDXID": "SPDXRef-gem-rake-75c946",
+            "versionInfo": ">= 12.3.3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/rake"
+                }
+            ]
+        },
+        {
+            "name": "activerecord",
+            "SPDXID": "SPDXRef-gem-activerecord-75c946",
+            "versionInfo": ">= 6.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/activerecord"
+                }
+            ]
+        },
+        {
+            "name": "pg",
+            "SPDXID": "SPDXRef-gem-pg-75c946",
+            "versionInfo": ">= 0.18.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/pg"
+                }
+            ]
+        },
+        {
+            "name": "psych",
+            "SPDXID": "SPDXRef-gem-psych-75c946",
+            "versionInfo": ">= 3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/psych"
+                }
+            ]
+        },
+        {
+            "name": "database_cleaner-active_record",
+            "SPDXID": "SPDXRef-gem-databasecleaner-activerecord-75c946",
+            "versionInfo": ">= 2.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/database_cleaner-active_record"
+                }
+            ]
+        },
+        {
+            "name": "pry-doc",
+            "SPDXID": "SPDXRef-gem-pry-doc-75c946",
+            "versionInfo": ">= 0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/pry-doc"
+                }
+            ]
+        },
+        {
+            "name": "benchmark",
+            "SPDXID": "SPDXRef-gem-benchmark-75c946",
+            "versionInfo": ">= 0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/benchmark"
+                }
+            ]
+        },
+        {
+            "name": "rspec",
+            "SPDXID": "SPDXRef-gem-rspec-75c946",
+            "versionInfo": ">= 3.6.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/rspec"
+                }
+            ]
+        },
+        {
+            "name": "ostruct",
+            "SPDXID": "SPDXRef-gem-ostruct-75c946",
+            "versionInfo": ">= 0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:gem/ostruct"
+                }
+            ]
+        },
+        {
+            "name": "actions/checkout",
+            "SPDXID": "SPDXRef-githubactions-actions-checkout-8e8c483db84b4bee98b60c0593521ed34d9990e8-75c946",
+            "versionInfo": "8e8c483db84b4bee98b60c0593521ed34d9990e8",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8"
+                }
+            ]
+        },
+        {
+            "name": "ruby/setup-ruby",
+            "SPDXID": "SPDXRef-githubactions-ruby-setup-ruby-80740b3b13bf9857e28854481ca95a84e78a2bdf-75c946",
+            "versionInfo": "80740b3b13bf9857e28854481ca95a84e78a2bdf",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/ruby/setup-ruby@80740b3b13bf9857e28854481ca95a84e78a2bdf"
+                }
+            ]
+        },
+        {
+            "name": "rubygems/release-gem",
+            "SPDXID": "SPDXRef-githubactions-rubygems-release-gem-1c162a739e8b4cb21a676e97b087e8268d8fc40b-75c946",
+            "versionInfo": "1c162a739e8b4cb21a676e97b087e8268d8fc40b",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/rubygems/release-gem@1c162a739e8b4cb21a676e97b087e8268d8fc40b"
+                }
+            ]
+        },
+        {
+            "name": "step-security/harden-runner",
+            "SPDXID": "SPDXRef-githubactions-step-security-harden-runner-20cf305ff2072d973412fa9b1e3a4f227bda3c76-75c946",
+            "versionInfo": "20cf305ff2072d973412fa9b1e3a4f227bda3c76",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:githubactions/step-security/harden-runner@20cf305ff2072d973412fa9b1e3a4f227bda3c76"
+                }
+            ]
+        },
+        {
+            "name": "com.github.madeintandem/jsonb_accessor",
+            "SPDXID": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "versionInfo": "master",
+            "downloadLocation": "git+https://github.com/madeintandem/jsonb_accessor",
+            "filesAnalyzed": false,
+            "licenseDeclared": "MIT",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/madeintandem/jsonb_accessor@master"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-pry-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-pry-doc-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-githubactions-step-security-harden-runner-20cf305ff2072d973412fa9b1e3a4f227bda3c76-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-activesupport-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-rubocop-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-pry-nav-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-awesomeprint-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-activerecord-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-benchmark-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-ostruct-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-githubactions-actions-checkout-8e8c483db84b4bee98b60c0593521ed34d9990e8-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-rake-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-psych-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-rspec-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-githubactions-ruby-setup-ruby-80740b3b13bf9857e28854481ca95a84e78a2bdf-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-githubactions-rubygems-release-gem-1c162a739e8b4cb21a676e97b087e8268d8fc40b-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-activerecord-jdbcpostgresql-adapter-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-pg-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relatedSpdxElement": "SPDXRef-gem-databasecleaner-activerecord-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-madeintandem-jsonbaccessor-master-ed294d",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

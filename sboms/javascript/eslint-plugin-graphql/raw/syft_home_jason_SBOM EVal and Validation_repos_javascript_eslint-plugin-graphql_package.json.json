@@ -1,0 +1,42 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "package.json",
+    "documentNamespace": "https://anchore.com/syft/file/package.json-6d5ce930-97ad-41fa-a7cc-59d5cb72e194",
+    "creationInfo": {
+        "licenseListVersion": "3.27",
+        "creators": [
+            "Organization: Anchore, Inc",
+            "Tool: syft-1.42.1"
+        ],
+        "created": "2026-03-24T15:34:51Z"
+    },
+    "packages": [
+        {
+            "name": "package.json",
+            "SPDXID": "SPDXRef-DocumentRoot-File-package.json",
+            "versionInfo": "sha256:61df86a2ff209a0a7ce481e5d896303fb9a901b420751023438a33944263dcec",
+            "supplier": "NOASSERTION",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "checksums": [
+                {
+                    "algorithm": "SHA256",
+                    "checksumValue": "61df86a2ff209a0a7ce481e5d896303fb9a901b420751023438a33944263dcec"
+                }
+            ],
+            "licenseConcluded": "NOASSERTION",
+            "licenseDeclared": "NOASSERTION",
+            "copyrightText": "NOASSERTION",
+            "primaryPackagePurpose": "FILE"
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-DocumentRoot-File-package.json",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

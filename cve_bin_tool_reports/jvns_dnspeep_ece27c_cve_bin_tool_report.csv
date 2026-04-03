@@ -1,0 +1,7 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,tokio,0.2.25,NotFound,CVE-2021-45710,HIGH,8.1,NVD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,tokio,0.2.25,NotFound,GHSA-4q83-7cq4-p6wg,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+unknown,tokio,0.2.25,NotFound,GHSA-rr8g-9fpq-6wmg,MEDIUM,5.3,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,,NewFound,
+tokio,tokio,0.2.25,NotFound,CVE-2021-45710,HIGH,8.1,NVD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+store-opart,quote,1.0.33,NotFound,CVE-2020-16194,MEDIUM,5.3,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,,NewFound,
+unknown,eyre,0.6.9,NotFound,GHSA-4v52-7q2x-v4xj,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,

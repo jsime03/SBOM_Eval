@@ -1,0 +1,203 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.microsoft/BitNet",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/29a030bf-a26e-46ee-8906-3ffdf99af548",
+    "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20260311140609-2219a6430415+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2026-03-13T18:45:50Z"
+    },
+    "packages": [
+        {
+            "name": "fire",
+            "SPDXID": "SPDXRef-pypi-fire-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/fire"
+                }
+            ]
+        },
+        {
+            "name": "blobfile",
+            "SPDXID": "SPDXRef-pypi-blobfile-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/blobfile"
+                }
+            ]
+        },
+        {
+            "name": "torch",
+            "SPDXID": "SPDXRef-pypi-torch-75c946",
+            "versionInfo": ">= 2.2.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/torch"
+                }
+            ]
+        },
+        {
+            "name": "einops",
+            "SPDXID": "SPDXRef-pypi-einops-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/einops"
+                }
+            ]
+        },
+        {
+            "name": "xformers",
+            "SPDXID": "SPDXRef-pypi-xformers-75c946",
+            "versionInfo": ">= 0.0.22",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/xformers"
+                }
+            ]
+        },
+        {
+            "name": "flask",
+            "SPDXID": "SPDXRef-pypi-flask-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/flask"
+                }
+            ]
+        },
+        {
+            "name": "transformers",
+            "SPDXID": "SPDXRef-pypi-transformers-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/transformers"
+                }
+            ]
+        },
+        {
+            "name": "tiktoken",
+            "SPDXID": "SPDXRef-pypi-tiktoken-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/tiktoken"
+                }
+            ]
+        },
+        {
+            "name": "sentencepiece",
+            "SPDXID": "SPDXRef-pypi-sentencepiece-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/sentencepiece"
+                }
+            ]
+        },
+        {
+            "name": "com.github.microsoft/BitNet",
+            "SPDXID": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "versionInfo": "main",
+            "downloadLocation": "git+https://github.com/microsoft/BitNet",
+            "filesAnalyzed": false,
+            "licenseDeclared": "MIT",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/microsoft/BitNet@main"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-fire-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-blobfile-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-einops-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-xformers-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-flask-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-transformers-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-torch-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-tiktoken-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relatedSpdxElement": "SPDXRef-pypi-sentencepiece-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-microsoft-BitNet-main-0a4342",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

@@ -1,0 +1,580 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.d4software/QueryTree",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/ac4630e4-5ea8-4c78-bfdf-874003e41945",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20260311140609-2219a6430415+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2026-03-11T14:31:24Z"
+    },
+    "packages": [
+        {
+            "name": "Newtonsoft.Json",
+            "SPDXID": "SPDXRef-nuget-Newtonsoft.Json-13.0.1-75c946",
+            "versionInfo": "13.0.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright (c) 2007 James Newton-King, Copyright (c) James Newton-King 2008, Copyright James Newton-King 2008, Copyright James Newton-King 2008 Json.NET",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Newtonsoft.Json@13.0.1"
+                }
+            ]
+        },
+        {
+            "name": "xunit",
+            "SPDXID": "SPDXRef-nuget-xunit-2.4.2-75c946",
+            "versionInfo": "2.4.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright (c) .NET Foundation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/xunit@2.4.2"
+                }
+            ]
+        },
+        {
+            "name": "xunit.runner.visualstudio",
+            "SPDXID": "SPDXRef-nuget-xunit.runner.visualstudio-2.4.5-75c946",
+            "versionInfo": "2.4.5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright (c) .NET Foundation, Copyright (c) .NET Foundation ,xUnit.net Runner Utility, Copyright (c) .NET Foundation .xUnit.net Runner Reporters, Copyright (c) .NET Foundation 1xUnit.net Runner Utility, Copyright (c) .NET Foundation and Contributors, Copyright (c) .NET Foundation and Contributors. Visual Studio 2019, Copyright (c) .NET Foundation xUnit.net Runner Reporters, Copyright (c) .NET Foundation xUnit.net Runner Utility, Copyright (c) 2015 .NET Foundation, Copyright (c) Outercurve Foundation, Copyright (c) Outercurve Foundation WrapNonExceptionThrows RSDS",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/xunit.runner.visualstudio@2.4.5"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.NET.Test.Sdk",
+            "SPDXID": "SPDXRef-nuget-Microsoft.NET.Test.Sdk-17.4.0-75c946",
+            "versionInfo": "17.4.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "LicenseRef-scancode-ms-net-library-2019-06",
+            "copyrightText": "(c) Microsoft 2022, (c) Microsoft Corporation, Copyright (c) .NET Foundation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.NET.Test.Sdk@17.4.0"
+                }
+            ]
+        },
+        {
+            "name": "System.Reflection",
+            "SPDXID": "SPDXRef-nuget-System.Reflection-4.3.0-75c946",
+            "versionInfo": "4.3.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "copyrightText": "(c) 2008 VeriSign, Inc., (c) Microsoft Corporation, (c) Microsoft Corporation., Copyright (c) .NET Foundation and Contributors",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/System.Reflection@4.3.0"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers",
+            "SPDXID": "SPDXRef-nuget-Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers-0.4.355802-75c946",
+            "versionInfo": "0.4.355802",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Microsoft Corporation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers@0.4.355802"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.AspNetCore.Authentication.Cookies",
+            "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Authentication.Cookies-2.2.0-75c946",
+            "versionInfo": "2.2.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2008 VeriSign, Inc., (c) Microsoft Corporation.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.Authentication.Cookies@2.2.0"
+                }
+            ]
+        },
+        {
+            "name": "DocumentFormat.OpenXml",
+            "SPDXID": "SPDXRef-nuget-DocumentFormat.OpenXml-2.18.0-75c946",
+            "versionInfo": "2.18.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2008 VeriSign, Inc., (c) Microsoft Corporation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/DocumentFormat.OpenXml@2.18.0"
+                }
+            ]
+        },
+        {
+            "name": "dotless",
+            "SPDXID": "SPDXRef-nuget-dotless-1.6.7-75c946",
+            "versionInfo": "1.6.7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2008 VeriSign, Inc.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/dotless@1.6.7"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.AspNetCore.Identity",
+            "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Identity-2.2.0-75c946",
+            "versionInfo": "2.2.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2008 VeriSign, Inc., (c) Microsoft Corporation.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.Identity@2.2.0"
+                }
+            ]
+        },
+        {
+            "name": "Respond",
+            "SPDXID": "SPDXRef-nuget-Respond-1.4.2-75c946",
+            "versionInfo": "1.4.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2008 VeriSign, Inc., (c) 2025 GitHub,  Inc., (c) Scott Jehl, copyright (c) 2012 Scott Jehl, Copyright (c) 2012 Scott Jehl, copyright (c) 2012 Scott Jehl, Paul Irish, Nicholas Zakas, Copyright 2013 Scott Jehl",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Respond@1.4.2"
+                }
+            ]
+        },
+        {
+            "name": "System.Data.SqlClient",
+            "SPDXID": "SPDXRef-nuget-System.Data.SqlClient-4.8.6-75c946",
+            "versionInfo": "4.8.6",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 1997-2005 Sean Eron Anderson, (c) Microsoft Corporation, Copyright (c) .NET Foundation, Copyright (c) .NET Foundation and Contributors, Copyright (c) .NET Foundation Contributors, Copyright (c) 1991-2017 Unicode, Inc., Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler, Copyright (c) 2004-2006 Intel Corporation, Copyright (c) 2005-2007, Nick Galbreath, Copyright (c) 2007 James Newton-King, Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors, Copyright (c) 2011 Novell, Inc (http://www.novell.com), Copyright (c) 2011, Google Inc., Copyright (c) 2013-2017, Alfred Klomp, Copyright (c) 2015 The Chromium Authors, Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com), Copyright (c) 2015-2017, Wojciech Mula, Copyright (c) 2016-2017, Matthieu Darbois, Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers, Portions (c) International Organization",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/System.Data.SqlClient@4.8.6"
+                }
+            ]
+        },
+        {
+            "name": "SSH.NET",
+            "SPDXID": "SPDXRef-nuget-SSH.NET-2020.0.2-75c946",
+            "versionInfo": "2020.0.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2008 VeriSign, Inc., (c) 2022 GitHub, Inc., Copyright (c) 2006 James Kolpack, Copyright Renci 2010-2022",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/SSH.NET@2020.0.2"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.Extensions.Caching.Memory",
+            "SPDXID": "SPDXRef-nuget-Microsoft.Extensions.Caching.Memory-6.0.1-75c946",
+            "versionInfo": "6.0.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 1997-2005 Sean Eron Anderson, (c) 2008 VeriSign, Inc., (c) Microsoft Corporation, Copyright (c) .NET Foundation, Copyright (c) .NET Foundation and Contributors, Copyright (c) .NET Foundation Contributors, Copyright (c) 1989 by Hewlett-Packard Company, Palo Alto, Ca. & Digital Equipment Corporation, Maynard, Mass, Copyright (c) 1989 by Hewlett-Packard Company, Palo Alto, Ca. & Digital Equipment Corporation, Maynard, Mass. To, Copyright (c) 1990- 1993, 1996 Open Software Foundation, Inc., Copyright (c) 1991-2020 Unicode, Inc., Copyright (c) 1995-2017 Jean-loup Gailly and Mark Adler, Copyright (c) 1998 Microsoft. To, Copyright (c) 2004-2006 Intel Corporation, Copyright (c) 2005-2007, Nick Galbreath, Copyright (c) 2005-2020 Rich Felker, Copyright (c) 2007 James Newton-King, Copyright (c) 2009, 2010, 2013-2016 by the Brotli Authors, Copyright (c) 2011 Novell, Inc (http://www.novell.com), Copyright (c) 2011-2020 Microsoft Corp, Copyright (c) 2011, Google Inc., Copyright (c) 2012-2014, Yann Collet, Copyright (c) 2013-2017, Alfred Klomp, Copyright (c) 2013-2017, Milosz Krajewski, Copyright (c) 2014 Ryan Juckett http://www.ryanjuckett.com, Copyright (c) 2015 The Chromium Authors, Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip, Copyright (c) 2015 Xamarin, Inc (http://www.xamarin.com), Copyright (c) 2015-2017, Wojciech Mula, Copyright (c) 2016-2017, Matthieu Darbois, Copyright (c) 2017 Yoshifumi Kawai, Copyright (c) 2018 Alexander Chermyanin, Copyright (c) 2019 Microsoft Corporation, Daan Leijen, Copyright (c) 2020 Dan Shechter, Copyright (c) Andrew Arnott, Copyright (c) Microsoft Corporation, Copyright (c) The Internet Society (2003), Copyright (c) The Internet Society 1997, Copyright (c) YEAR W3C(r) (MIT, ERCIM, Keio, Beihang). Disclaimers, Copyright 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018 The Regents of the University of California, Copyright 2012 the V8 project authors, Copyright 2018 Daniel Lemire, Portions (c) International Organization",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.Extensions.Caching.Memory@6.0.1"
+                }
+            ]
+        },
+        {
+            "name": "BuildBundlerMinifier",
+            "SPDXID": "SPDXRef-nuget-BuildBundlerMinifier-3.2.449-75c946",
+            "versionInfo": "3.2.449",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright 2017, Copyright James Newton-King 2008",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/BuildBundlerMinifier@3.2.449"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.AspNetCore.Identity.EntityFrameworkCore",
+            "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Identity.EntityFrameworkCore-6.0.11-75c946",
+            "versionInfo": "6.0.11",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Microsoft Corporation, Copyright (c) .NET Foundation and Contributors, Copyright (c) 2007 James Newton-King, Copyright (c) 2010-2019 Google LLC. http://angular.io/license, Copyright (c) 2013-2017, Milosz Krajewski, Copyright (c) 2014-2018 Michael Daines, Copyright (c) 2016 Richard Morris, Copyright (c) 2017 Yoshifumi Kawai, Copyright (c) 2019 David Fowler, Copyright (c) 2019-2020 West Wind Technologies, Copyright (c) Andrew Arnott, Copyright (c) Microsoft Corporation, Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.Identity.EntityFrameworkCore@6.0.11"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.EntityFrameworkCore.Design",
+            "SPDXID": "SPDXRef-nuget-Microsoft.EntityFrameworkCore.Design-6.0.11-75c946",
+            "versionInfo": "6.0.11",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Microsoft Corporation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.Design@6.0.11"
+                }
+            ]
+        },
+        {
+            "name": "Hangfire.SQLite",
+            "SPDXID": "SPDXRef-nuget-Hangfire.SQLite-1.4.2-75c946",
+            "versionInfo": "1.4.2",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright (c) GreatBillows 2015, Copyright GreatBillows 2015",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Hangfire.SQLite@1.4.2"
+                }
+            ]
+        },
+        {
+            "name": "MailKit",
+            "SPDXID": "SPDXRef-nuget-MailKit-2.1.3-75c946",
+            "versionInfo": "2.1.3",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) 2008 VeriSign, Inc., 5Copyright 2013-2019 Xamarin Inc. (www.xamarin.com), Copyright 2013-2019 Xamarin Inc. (www.xamarin.com)",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/MailKit@2.1.3"
+                }
+            ]
+        },
+        {
+            "name": "OfficeOpenXml.Core.ExcelPackage",
+            "SPDXID": "SPDXRef-nuget-OfficeOpenXml.Core.ExcelPackage-1.0.0-75c946",
+            "versionInfo": "1.0.0",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright 2007 (c) Dr John Tunnicliffe, Copyright 2007 (c) Dr John Tunnicliffe dr.john.tunnicliffe@btinternet.com",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/OfficeOpenXml.Core.ExcelPackage@1.0.0"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+            "SPDXID": "SPDXRef-nuget-Microsoft.AspNetCore.Mvc.NewtonsoftJson-6.0.11-75c946",
+            "versionInfo": "6.0.11",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Microsoft Corporation, Copyright (c) .NET Foundation and Contributors, Copyright (c) 2007 James Newton-King, Copyright (c) 2010-2019 Google LLC. http://angular.io/license, Copyright (c) 2013-2017, Milosz Krajewski, Copyright (c) 2014-2018 Michael Daines, Copyright (c) 2016 Richard Morris, Copyright (c) 2017 Yoshifumi Kawai, Copyright (c) 2019 David Fowler, Copyright (c) 2019-2020 West Wind Technologies, Copyright (c) Andrew Arnott, Copyright (c) Microsoft Corporation, Copyright (c) Sindre Sorhus <sindresorhus@gmail.com> (https://sindresorhus.com)",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.AspNetCore.Mvc.NewtonsoftJson@6.0.11"
+                }
+            ]
+        },
+        {
+            "name": "MySql.Data",
+            "SPDXID": "SPDXRef-nuget-MySql.Data-8.0.31-75c946",
+            "versionInfo": "8.0.31",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "GPL-2.0-only",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/MySql.Data@8.0.31"
+                }
+            ]
+        },
+        {
+            "name": "Hangfire",
+            "SPDXID": "SPDXRef-nuget-Hangfire-1.7.32-75c946",
+            "versionInfo": "1.7.32",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "copyrightText": "Copyright (c) 2013-2022 Hangfire, Copyright (c) 2022 Hangfire OU.",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Hangfire@1.7.32"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.EntityFrameworkCore.Sqlite",
+            "SPDXID": "SPDXRef-nuget-Microsoft.EntityFrameworkCore.Sqlite-6.0.11-75c946",
+            "versionInfo": "6.0.11",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Microsoft Corporation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.Sqlite@6.0.11"
+                }
+            ]
+        },
+        {
+            "name": "Npgsql",
+            "SPDXID": "SPDXRef-nuget-Npgsql-6.0.7-75c946",
+            "versionInfo": "6.0.7",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "PostgreSQL",
+            "copyrightText": "(c) 2008 VeriSign, Inc., Copyright 2021 (c) The Npgsql Development Team npgsql postgresql postgres ado ado.net, Copyright 2021 The Npgsql Development Team",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Npgsql@6.0.7"
+                }
+            ]
+        },
+        {
+            "name": "Microsoft.EntityFrameworkCore.SqlServer",
+            "SPDXID": "SPDXRef-nuget-Microsoft.EntityFrameworkCore.SqlServer-6.0.11-75c946",
+            "versionInfo": "6.0.11",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "MIT",
+            "copyrightText": "(c) Microsoft Corporation",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:nuget/Microsoft.EntityFrameworkCore.SqlServer@6.0.11"
+                }
+            ]
+        },
+        {
+            "name": "com.github.d4software/QueryTree",
+            "SPDXID": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "versionInfo": "master",
+            "downloadLocation": "git+https://github.com/d4software/QueryTree",
+            "filesAnalyzed": false,
+            "licenseDeclared": "LGPL-3.0",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/d4software/QueryTree@master"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Hangfire.SQLite-1.4.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Mvc.NewtonsoftJson-6.0.11-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.EntityFrameworkCore.SqlServer-6.0.11-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-OfficeOpenXml.Core.ExcelPackage-1.0.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Npgsql-6.0.7-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Newtonsoft.Json-13.0.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-xunit.runner.visualstudio-2.4.5-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.NET.Test.Sdk-17.4.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers-0.4.355802-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-DocumentFormat.OpenXml-2.18.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Identity-2.2.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Respond-1.4.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-System.Data.SqlClient-4.8.6-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-xunit-2.4.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-dotless-1.6.7-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.Extensions.Caching.Memory-6.0.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.EntityFrameworkCore.Design-6.0.11-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-MailKit-2.1.3-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-MySql.Data-8.0.31-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Hangfire-1.7.32-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.EntityFrameworkCore.Sqlite-6.0.11-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-System.Reflection-4.3.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Authentication.Cookies-2.2.0-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-SSH.NET-2020.0.2-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-BuildBundlerMinifier-3.2.449-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relatedSpdxElement": "SPDXRef-nuget-Microsoft.AspNetCore.Identity.EntityFrameworkCore-6.0.11-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-d4software-QueryTree-master-9b7d2d",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

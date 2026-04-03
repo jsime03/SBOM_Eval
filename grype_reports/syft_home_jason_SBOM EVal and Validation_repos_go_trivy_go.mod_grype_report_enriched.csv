@@ -1,0 +1,8 @@
+cve,package,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2026-32285,github.com/buger/jsonparser,High,False,,0.00054,0.17223,no,,,,,,,,,,,
+CVE-2026-33747,github.com/moby/buildkit,High,False,,0.00055,0.17478,no,,,,,,,,45b038cd0b2ec2d34013ce0f085522276f7ee0d8,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-33748,github.com/moby/buildkit,High,False,,0.00022,0.05903,no,,,,,,,,45b038cd0b2ec2d34013ce0f085522276f7ee0d8,,,
+CVE-2026-33762,github.com/go-git/go-git/v5,Low,False,,0.00013,0.02157,no,,,,,,,,5e23dfd02db92644dc4a3358ceb297fce875b772,,,
+CVE-2026-33997,github.com/docker/docker,Medium,False,,0.00011,0.01211,no,,,,,,,,f78c987ad3710cacffe47fce696975ecb337148d,,,
+CVE-2026-34040,github.com/docker/docker,High,False,,0.00012,0.01647,no,,,,,,,,f78c987ad3710cacffe47fce696975ecb337148d,,,
+CVE-2026-34165,github.com/go-git/go-git/v5,Medium,False,,0.00013,0.02094,no,,,,,,,9d0f15c4fa712cdacfa3887e9baac918f093fbf6,5e23dfd02db92644dc4a3358ceb297fce875b772,,,

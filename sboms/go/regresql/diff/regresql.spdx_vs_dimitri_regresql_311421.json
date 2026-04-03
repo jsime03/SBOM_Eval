@@ -1,0 +1,244 @@
+{
+    "left": [
+        {
+            "name": "actions/checkout",
+            "version": "v3"
+        },
+        {
+            "name": "actions/setup-go",
+            "version": "v3"
+        },
+        {
+            "name": "github.com/davecgh/go-spew",
+            "version": "v1.1.1"
+        },
+        {
+            "name": "github.com/dimitri/regresql",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "github.com/fsnotify/fsnotify",
+            "version": "v1.6.0"
+        },
+        {
+            "name": "github.com/hashicorp/hcl",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "version": "v1.1.0"
+        },
+        {
+            "name": "github.com/lib/pq",
+            "version": "v1.10.9"
+        },
+        {
+            "name": "github.com/magiconair/properties",
+            "version": "v1.8.7"
+        },
+        {
+            "name": "github.com/mitchellh/go-homedir",
+            "version": "v1.1.0"
+        },
+        {
+            "name": "github.com/mitchellh/mapstructure",
+            "version": "v1.5.0"
+        },
+        {
+            "name": "github.com/mndrix/tap-go",
+            "version": "v0.0.0-20171203230836-629fa407e90b"
+        },
+        {
+            "name": "github.com/pelletier/go-toml",
+            "version": "v1.9.5"
+        },
+        {
+            "name": "github.com/pelletier/go-toml/v2",
+            "version": "v2.0.8"
+        },
+        {
+            "name": "github.com/pmezard/go-difflib",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "github.com/spf13/afero",
+            "version": "v1.9.5"
+        },
+        {
+            "name": "github.com/spf13/cast",
+            "version": "v1.5.1"
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "version": "v1.7.0"
+        },
+        {
+            "name": "github.com/spf13/jwalterweatherman",
+            "version": "v1.1.0"
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "version": "v1.0.5"
+        },
+        {
+            "name": "github.com/spf13/viper",
+            "version": "v1.16.0"
+        },
+        {
+            "name": "github.com/stretchr/testify",
+            "version": "v1.8.3"
+        },
+        {
+            "name": "github.com/subosito/gotenv",
+            "version": "v1.4.2"
+        },
+        {
+            "name": "github.com/theherk/viper",
+            "version": "v0.0.0-20171202031228-e0502e82247d"
+        },
+        {
+            "name": "golang.org/x/sys",
+            "version": "v0.9.0"
+        },
+        {
+            "name": "golang.org/x/text",
+            "version": "v0.10.0"
+        },
+        {
+            "name": "gopkg.in/check.v1",
+            "version": "v1.0.0-20180628173108-788fd7840127"
+        },
+        {
+            "name": "gopkg.in/ini.v1",
+            "version": "v1.67.0"
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "version": "v2.4.0"
+        },
+        {
+            "name": "gopkg.in/yaml.v3",
+            "version": "v3.0.1"
+        },
+        {
+            "name": "repos/go/regresql",
+            "version": ""
+        }
+    ],
+    "Left count": 31,
+    "right": [
+        {
+            "name": "actions/checkout",
+            "version": "3"
+        },
+        {
+            "name": "actions/setup-go",
+            "version": "3"
+        },
+        {
+            "name": "com.github.dimitri/regresql",
+            "version": "master"
+        },
+        {
+            "name": "github.com/fsnotify/fsnotify",
+            "version": "1.6.0"
+        },
+        {
+            "name": "github.com/hashicorp/hcl",
+            "version": "1.0.0"
+        },
+        {
+            "name": "github.com/inconshreveable/mousetrap",
+            "version": "1.1.0"
+        },
+        {
+            "name": "github.com/lib/pq",
+            "version": "1.10.9"
+        },
+        {
+            "name": "github.com/magiconair/properties",
+            "version": "1.8.7"
+        },
+        {
+            "name": "github.com/mitchellh/go-homedir",
+            "version": "1.1.0"
+        },
+        {
+            "name": "github.com/mitchellh/mapstructure",
+            "version": "1.5.0"
+        },
+        {
+            "name": "github.com/mndrix/tap-go",
+            "version": "0.0.0-20171203230836-629fa407e90b"
+        },
+        {
+            "name": "github.com/pelletier/go-toml",
+            "version": "1.9.5"
+        },
+        {
+            "name": "github.com/pelletier/go-toml/v2",
+            "version": "2.0.8"
+        },
+        {
+            "name": "github.com/pmezard/go-difflib",
+            "version": "1.0.0"
+        },
+        {
+            "name": "github.com/spf13/afero",
+            "version": "1.9.5"
+        },
+        {
+            "name": "github.com/spf13/cast",
+            "version": "1.5.1"
+        },
+        {
+            "name": "github.com/spf13/cobra",
+            "version": "1.7.0"
+        },
+        {
+            "name": "github.com/spf13/jwalterweatherman",
+            "version": "1.1.0"
+        },
+        {
+            "name": "github.com/spf13/pflag",
+            "version": "1.0.5"
+        },
+        {
+            "name": "github.com/spf13/viper",
+            "version": "1.16.0"
+        },
+        {
+            "name": "github.com/subosito/gotenv",
+            "version": "1.4.2"
+        },
+        {
+            "name": "github.com/theherk/viper",
+            "version": "0.0.0-20171202031228-e0502e82247d"
+        },
+        {
+            "name": "golang.org/x/sys",
+            "version": "0.9.0"
+        },
+        {
+            "name": "golang.org/x/text",
+            "version": "0.10.0"
+        },
+        {
+            "name": "gopkg.in/ini.v1",
+            "version": "1.67.0"
+        },
+        {
+            "name": "gopkg.in/yaml.v2",
+            "version": "2.4.0"
+        },
+        {
+            "name": "gopkg.in/yaml.v3",
+            "version": "3.0.1"
+        }
+    ],
+    "Right count": 27,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/go/regresql/raw/regresql.spdx.json",
+    "filetwo": "sboms/go/regresql/raw/dimitri_regresql_311421.json"
+}

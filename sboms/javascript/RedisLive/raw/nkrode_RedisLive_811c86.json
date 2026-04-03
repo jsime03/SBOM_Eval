@@ -1,0 +1,120 @@
+{
+    "spdxVersion": "SPDX-2.3",
+    "dataLicense": "CC0-1.0",
+    "SPDXID": "SPDXRef-DOCUMENT",
+    "name": "com.github.nkrode/RedisLive",
+    "documentNamespace": "https://spdx.org/spdxdocs/protobom/959c4439-ed7f-4736-bcea-e8e24f2542b1",
+    "comment": "Exact versions could not be resolved for some packages. For more information: https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/about-the-dependency-graph#dependencies-included.",
+    "creationInfo": {
+        "creators": [
+            "Tool: protobom-v0.0.0-20260311140609-2219a6430415+dirty",
+            "Tool: GitHub.com-Dependency-Graph"
+        ],
+        "created": "2026-03-11T15:03:03Z"
+    },
+    "packages": [
+        {
+            "name": "redis",
+            "SPDXID": "SPDXRef-pypi-redis-75c946",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/redis"
+                }
+            ]
+        },
+        {
+            "name": "argparse",
+            "SPDXID": "SPDXRef-pypi-argparse-1.2.1-75c946",
+            "versionInfo": "1.2.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Python-2.0.1",
+            "copyrightText": "(c) 2006-2009 Steven J. Bethard <steven.bethard@gmail.com>, Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010 Python Software Foundation, copyright u'2011, Steven J. Bethard",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/argparse@1.2.1"
+                }
+            ]
+        },
+        {
+            "name": "python-dateutil",
+            "SPDXID": "SPDXRef-pypi-python-dateutil-1.5-75c946",
+            "versionInfo": "1.5",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0 AND Python-2.0",
+            "copyrightText": "Copyright (c) 1991 - 1995, Stichting Mathematisch Centrum Amsterdam, Copyright (c) 1995-2001 Corporation for National Research Initiatives, Copyright (c) 2001, 2002, 2003 Python Software Foundation, Copyright (c) 2003-2005 Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2003-2007 Gustavo Niemeyer <gustavo@niemeyer.net>, Copyright (c) 2003-2010 Gustavo Niemeyer <gustavo@niemeyer.net>",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/python-dateutil@1.5"
+                }
+            ]
+        },
+        {
+            "name": "tornado",
+            "SPDXID": "SPDXRef-pypi-tornado-2.1.1-75c946",
+            "versionInfo": "2.1.1",
+            "downloadLocation": "NOASSERTION",
+            "filesAnalyzed": false,
+            "licenseConcluded": "Apache-2.0",
+            "copyrightText": "Copyright (c) 2007-2008 ActiveState Corp., Copyright 2009 Facebook, Copyright 2009 FriendFeed, Copyright 2010 Facebook, Copyright 2011 Facebook",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:pypi/tornado@2.1.1"
+                }
+            ]
+        },
+        {
+            "name": "com.github.nkrode/RedisLive",
+            "SPDXID": "SPDXRef-github-nkrode-RedisLive-master-208052",
+            "versionInfo": "master",
+            "downloadLocation": "git+https://github.com/nkrode/RedisLive",
+            "filesAnalyzed": false,
+            "licenseDeclared": "MIT",
+            "externalRefs": [
+                {
+                    "referenceCategory": "PACKAGE-MANAGER",
+                    "referenceType": "purl",
+                    "referenceLocator": "pkg:github/nkrode/RedisLive@master"
+                }
+            ]
+        }
+    ],
+    "relationships": [
+        {
+            "spdxElementId": "SPDXRef-github-nkrode-RedisLive-master-208052",
+            "relatedSpdxElement": "SPDXRef-pypi-redis-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-nkrode-RedisLive-master-208052",
+            "relatedSpdxElement": "SPDXRef-pypi-argparse-1.2.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-nkrode-RedisLive-master-208052",
+            "relatedSpdxElement": "SPDXRef-pypi-python-dateutil-1.5-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-github-nkrode-RedisLive-master-208052",
+            "relatedSpdxElement": "SPDXRef-pypi-tornado-2.1.1-75c946",
+            "relationshipType": "DEPENDS_ON"
+        },
+        {
+            "spdxElementId": "SPDXRef-DOCUMENT",
+            "relatedSpdxElement": "SPDXRef-github-nkrode-RedisLive-master-208052",
+            "relationshipType": "DESCRIBES"
+        }
+    ]
+}

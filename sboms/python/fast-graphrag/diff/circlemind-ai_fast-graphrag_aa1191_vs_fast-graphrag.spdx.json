@@ -1,0 +1,441 @@
+{
+    "left": [
+        {
+            "name": "actions/cache",
+            "version": "3.*.*"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "4.*.*"
+        },
+        {
+            "name": "actions/setup-python",
+            "version": "1.*.*"
+        },
+        {
+            "name": "actions/setup-python",
+            "version": "3.*.*"
+        },
+        {
+            "name": "com.github.circlemind-ai/fast-graphrag",
+            "version": "main"
+        },
+        {
+            "name": "pypa/gh-action-pypi-publish",
+            "version": "1.10.3"
+        }
+    ],
+    "Left count": 6,
+    "right": [
+        {
+            "name": "Simple Launcher",
+            "version": "1.1.0.14"
+        },
+        {
+            "name": "actions/cache",
+            "version": "v3"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v4"
+        },
+        {
+            "name": "actions/setup-python",
+            "version": "v1"
+        },
+        {
+            "name": "actions/setup-python",
+            "version": "v3"
+        },
+        {
+            "name": "pip",
+            "version": "24.2"
+        },
+        {
+            "name": "pypa/gh-action-pypi-publish",
+            "version": "v1.10.3"
+        },
+        {
+            "name": "repos/python/fast-graphrag",
+            "version": ""
+        }
+    ],
+    "Right count": 8,
+    "common": [
+        {
+            "name": "actions/checkout",
+            "version": "master"
+        },
+        {
+            "name": "aiohappyeyeballs",
+            "version": "2.4.4"
+        },
+        {
+            "name": "aiohttp",
+            "version": "3.11.10"
+        },
+        {
+            "name": "aiolimiter",
+            "version": "1.2.1"
+        },
+        {
+            "name": "aiosignal",
+            "version": "1.3.1"
+        },
+        {
+            "name": "annotated-types",
+            "version": "0.7.0"
+        },
+        {
+            "name": "anyio",
+            "version": "4.7.0"
+        },
+        {
+            "name": "async-timeout",
+            "version": "5.0.1"
+        },
+        {
+            "name": "attrs",
+            "version": "24.2.0"
+        },
+        {
+            "name": "cachetools",
+            "version": "5.5.2"
+        },
+        {
+            "name": "certifi",
+            "version": "2024.8.30"
+        },
+        {
+            "name": "charset-normalizer",
+            "version": "3.4.0"
+        },
+        {
+            "name": "click",
+            "version": "8.1.7"
+        },
+        {
+            "name": "colorama",
+            "version": "0.4.6"
+        },
+        {
+            "name": "distro",
+            "version": "1.9.0"
+        },
+        {
+            "name": "docstring-parser",
+            "version": "0.16"
+        },
+        {
+            "name": "exceptiongroup",
+            "version": "1.2.2"
+        },
+        {
+            "name": "filelock",
+            "version": "3.17.0"
+        },
+        {
+            "name": "frozenlist",
+            "version": "1.5.0"
+        },
+        {
+            "name": "fsspec",
+            "version": "2025.2.0"
+        },
+        {
+            "name": "google-api-core",
+            "version": "2.24.1"
+        },
+        {
+            "name": "google-auth",
+            "version": "2.38.0"
+        },
+        {
+            "name": "google-cloud-aiplatform",
+            "version": "1.71.1"
+        },
+        {
+            "name": "google-cloud-bigquery",
+            "version": "3.29.0"
+        },
+        {
+            "name": "google-cloud-core",
+            "version": "2.4.2"
+        },
+        {
+            "name": "google-cloud-resource-manager",
+            "version": "1.14.1"
+        },
+        {
+            "name": "google-cloud-storage",
+            "version": "2.19.0"
+        },
+        {
+            "name": "google-crc32c",
+            "version": "1.6.0"
+        },
+        {
+            "name": "google-genai",
+            "version": "1.3.0"
+        },
+        {
+            "name": "google-resumable-media",
+            "version": "2.7.2"
+        },
+        {
+            "name": "googleapis-common-protos",
+            "version": "1.68.0"
+        },
+        {
+            "name": "grpc-google-iam-v1",
+            "version": "0.14.0"
+        },
+        {
+            "name": "grpcio",
+            "version": "1.70.0"
+        },
+        {
+            "name": "grpcio-status",
+            "version": "1.70.0"
+        },
+        {
+            "name": "h11",
+            "version": "0.14.0"
+        },
+        {
+            "name": "hnswlib",
+            "version": "0.8.0"
+        },
+        {
+            "name": "httpcore",
+            "version": "1.0.7"
+        },
+        {
+            "name": "httpx",
+            "version": "0.28.1"
+        },
+        {
+            "name": "huggingface-hub",
+            "version": "0.29.1"
+        },
+        {
+            "name": "idna",
+            "version": "3.10"
+        },
+        {
+            "name": "igraph",
+            "version": "0.11.8"
+        },
+        {
+            "name": "instructor",
+            "version": "1.7.0"
+        },
+        {
+            "name": "jinja2",
+            "version": "3.1.4"
+        },
+        {
+            "name": "jiter",
+            "version": "0.6.1"
+        },
+        {
+            "name": "joblib",
+            "version": "1.4.2"
+        },
+        {
+            "name": "json-repair",
+            "version": "0.39.1"
+        },
+        {
+            "name": "markdown-it-py",
+            "version": "3.0.0"
+        },
+        {
+            "name": "markupsafe",
+            "version": "3.0.2"
+        },
+        {
+            "name": "mdurl",
+            "version": "0.1.2"
+        },
+        {
+            "name": "multidict",
+            "version": "6.1.0"
+        },
+        {
+            "name": "numpy",
+            "version": "2.2.0"
+        },
+        {
+            "name": "openai",
+            "version": "1.57.2"
+        },
+        {
+            "name": "optype",
+            "version": "0.7.3"
+        },
+        {
+            "name": "packaging",
+            "version": "24.2"
+        },
+        {
+            "name": "pillow",
+            "version": "11.1.0"
+        },
+        {
+            "name": "propcache",
+            "version": "0.2.1"
+        },
+        {
+            "name": "proto-plus",
+            "version": "1.26.0"
+        },
+        {
+            "name": "protobuf",
+            "version": "5.29.3"
+        },
+        {
+            "name": "pyasn1",
+            "version": "0.6.1"
+        },
+        {
+            "name": "pyasn1-modules",
+            "version": "0.4.1"
+        },
+        {
+            "name": "pydantic",
+            "version": "2.10.3"
+        },
+        {
+            "name": "pydantic-core",
+            "version": "2.27.1"
+        },
+        {
+            "name": "pygments",
+            "version": "2.18.0"
+        },
+        {
+            "name": "python-dateutil",
+            "version": "2.9.0.post0"
+        },
+        {
+            "name": "python-dotenv",
+            "version": "1.0.1"
+        },
+        {
+            "name": "pyyaml",
+            "version": "6.0.2"
+        },
+        {
+            "name": "regex",
+            "version": "2024.11.6"
+        },
+        {
+            "name": "requests",
+            "version": "2.32.3"
+        },
+        {
+            "name": "rich",
+            "version": "13.9.4"
+        },
+        {
+            "name": "rsa",
+            "version": "4.9"
+        },
+        {
+            "name": "ruff",
+            "version": "0.7.4"
+        },
+        {
+            "name": "scikit-learn",
+            "version": "1.6.0"
+        },
+        {
+            "name": "scipy",
+            "version": "1.14.1"
+        },
+        {
+            "name": "scipy-stubs",
+            "version": "1.14.1.5"
+        },
+        {
+            "name": "sentencepiece",
+            "version": "0.2.0"
+        },
+        {
+            "name": "shapely",
+            "version": "2.0.7"
+        },
+        {
+            "name": "shellingham",
+            "version": "1.5.4"
+        },
+        {
+            "name": "six",
+            "version": "1.17.0"
+        },
+        {
+            "name": "sniffio",
+            "version": "1.3.1"
+        },
+        {
+            "name": "tenacity",
+            "version": "9.0.0"
+        },
+        {
+            "name": "texttable",
+            "version": "1.7.0"
+        },
+        {
+            "name": "threadpoolctl",
+            "version": "3.5.0"
+        },
+        {
+            "name": "tiktoken",
+            "version": "0.8.0"
+        },
+        {
+            "name": "tokenizers",
+            "version": "0.21.0"
+        },
+        {
+            "name": "tqdm",
+            "version": "4.67.1"
+        },
+        {
+            "name": "typer",
+            "version": "0.15.1"
+        },
+        {
+            "name": "typing-extensions",
+            "version": "4.12.2"
+        },
+        {
+            "name": "urllib3",
+            "version": "2.2.3"
+        },
+        {
+            "name": "vertexai",
+            "version": "1.71.1"
+        },
+        {
+            "name": "voyageai",
+            "version": "0.3.2"
+        },
+        {
+            "name": "websockets",
+            "version": "14.2"
+        },
+        {
+            "name": "xxhash",
+            "version": "3.5.0"
+        },
+        {
+            "name": "yarl",
+            "version": "1.18.3"
+        }
+    ],
+    "Common count": 93,
+    "fileone": "sboms/python/fast-graphrag/raw/circlemind-ai_fast-graphrag_aa1191.json",
+    "filetwo": "sboms/python/fast-graphrag/raw/fast-graphrag.spdx.json"
+}

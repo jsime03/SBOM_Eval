@@ -1,0 +1,220 @@
+{
+    "left": [
+        {
+            "name": "@page-agent/core",
+            "version": "1.5.5"
+        },
+        {
+            "name": "@page-agent/core",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "@page-agent/ext",
+            "version": "0.1.17"
+        },
+        {
+            "name": "@page-agent/ext",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "@page-agent/llms",
+            "version": "1.5.5"
+        },
+        {
+            "name": "@page-agent/llms",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "@page-agent/page-controller",
+            "version": "1.5.5"
+        },
+        {
+            "name": "@page-agent/page-controller",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "@page-agent/ui",
+            "version": "1.5.5"
+        },
+        {
+            "name": "@page-agent/ui",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "@page-agent/website",
+            "version": "1.5.5"
+        },
+        {
+            "name": "@page-agent/website",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "Notifu",
+            "version": "1.7"
+        },
+        {
+            "name": "actions/cache",
+            "version": "v3"
+        },
+        {
+            "name": "actions/cache",
+            "version": "v4"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v1"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v2"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v3"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v4"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v6"
+        },
+        {
+            "name": "actions/configure-pages",
+            "version": "v5"
+        },
+        {
+            "name": "actions/dependency-review-action",
+            "version": "v3"
+        },
+        {
+            "name": "actions/dependency-review-action",
+            "version": "v4"
+        },
+        {
+            "name": "actions/deploy-pages",
+            "version": "v4"
+        },
+        {
+            "name": "actions/github-script",
+            "version": "v7"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v1"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v2"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v3"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v4"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v6"
+        },
+        {
+            "name": "actions/upload-artifact",
+            "version": "v4"
+        },
+        {
+            "name": "actions/upload-pages-artifact",
+            "version": "v4"
+        },
+        {
+            "name": "ai-motion",
+            "version": "0.4.8"
+        },
+        {
+            "name": "allenevans/set-env",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "benchmark-action/github-action-benchmark",
+            "version": "v1"
+        },
+        {
+            "name": "chalk",
+            "version": "5.6.2"
+        },
+        {
+            "name": "coverallsapp/github-action",
+            "version": "master"
+        },
+        {
+            "name": "coverallsapp/github-action",
+            "version": "v2.1.2"
+        },
+        {
+            "name": "coverallsapp/github-action",
+            "version": "v2.3.0"
+        },
+        {
+            "name": "fastify/github-action-merge-dependabot",
+            "version": "v3"
+        },
+        {
+            "name": "fastify/github-action-merge-dependabot",
+            "version": "v3.9"
+        },
+        {
+            "name": "fastify/workflows/.github/workflows/plugins-ci-package-manager.yml",
+            "version": "v5"
+        },
+        {
+            "name": "fastify/workflows/.github/workflows/plugins-ci.yml",
+            "version": "v5"
+        },
+        {
+            "name": "jsumners/lock-threads",
+            "version": "b27edac0ac998d42b2815e122b6c24b32b568321"
+        },
+        {
+            "name": "packages/page-agent",
+            "version": "1.5.5"
+        },
+        {
+            "name": "page-agent",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "repos/javascript/page-agent",
+            "version": ""
+        },
+        {
+            "name": "root",
+            "version": "1.5.5"
+        },
+        {
+            "name": "snoretoast-x64",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "snoretoast-x86",
+            "version": "UNKNOWN"
+        },
+        {
+            "name": "zod",
+            "version": "4.3.6"
+        }
+    ],
+    "Left count": 51,
+    "right": [
+        {
+            "name": "package.json",
+            "version": "sha256:c2d1ad99e960d51a116c0c84a1686967ec62d643064a16840360dddc23f54322"
+        }
+    ],
+    "Right count": 1,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/javascript/page-agent/raw/page-agent.spdx.json",
+    "filetwo": "sboms/javascript/page-agent/raw/syft_home_jason_SBOM EVal and Validation_repos_javascript_page-agent_package.json.json"
+}

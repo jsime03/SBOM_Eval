@@ -1,0 +1,396 @@
+{
+    "left": [
+        {
+            "name": "package.json",
+            "version": "sha256:61df86a2ff209a0a7ce481e5d896303fb9a901b420751023438a33944263dcec"
+        }
+    ],
+    "Left count": 1,
+    "right": [
+        {
+            "name": "@babel/code-frame",
+            "version": "7.0.0"
+        },
+        {
+            "name": "@babel/highlight",
+            "version": "7.0.0"
+        },
+        {
+            "name": "@babel/runtime",
+            "version": "7.10.1"
+        },
+        {
+            "name": "@graphql-toolkit/common",
+            "version": "0.10.7"
+        },
+        {
+            "name": "@graphql-toolkit/core",
+            "version": "0.10.7"
+        },
+        {
+            "name": "@graphql-toolkit/graphql-file-loader",
+            "version": "0.10.7"
+        },
+        {
+            "name": "@graphql-toolkit/json-file-loader",
+            "version": "0.10.7"
+        },
+        {
+            "name": "@graphql-toolkit/schema-merging",
+            "version": "0.10.7"
+        },
+        {
+            "name": "@graphql-toolkit/url-loader",
+            "version": "0.10.7"
+        },
+        {
+            "name": "@nodelib/fs.scandir",
+            "version": "2.1.3"
+        },
+        {
+            "name": "@nodelib/fs.stat",
+            "version": "2.0.3"
+        },
+        {
+            "name": "@nodelib/fs.walk",
+            "version": "1.2.4"
+        },
+        {
+            "name": "@types/parse-json",
+            "version": "4.0.0"
+        },
+        {
+            "name": "@wry/equality",
+            "version": "0.1.11"
+        },
+        {
+            "name": "EndBug/add-and-commit",
+            "version": "v4"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v1"
+        },
+        {
+            "name": "actions/checkout",
+            "version": "v2"
+        },
+        {
+            "name": "actions/setup-node",
+            "version": "v1"
+        },
+        {
+            "name": "ad-m/github-push-action",
+            "version": "v0.5.0"
+        },
+        {
+            "name": "aggregate-error",
+            "version": "3.0.1"
+        },
+        {
+            "name": "apollo-link",
+            "version": "1.2.14"
+        },
+        {
+            "name": "apollo-link-http-common",
+            "version": "0.2.16"
+        },
+        {
+            "name": "apollo-upload-client",
+            "version": "13.0.0"
+        },
+        {
+            "name": "apollo-utilities",
+            "version": "1.3.4"
+        },
+        {
+            "name": "asynckit",
+            "version": "0.4.0"
+        },
+        {
+            "name": "balanced-match",
+            "version": "1.0.0"
+        },
+        {
+            "name": "brace-expansion",
+            "version": "1.1.11"
+        },
+        {
+            "name": "braces",
+            "version": "3.0.2"
+        },
+        {
+            "name": "camel-case",
+            "version": "4.1.1"
+        },
+        {
+            "name": "clean-stack",
+            "version": "2.2.0"
+        },
+        {
+            "name": "color-convert",
+            "version": "1.9.1"
+        },
+        {
+            "name": "color-name",
+            "version": "1.1.3"
+        },
+        {
+            "name": "combined-stream",
+            "version": "1.0.8"
+        },
+        {
+            "name": "concat-map",
+            "version": "0.0.1"
+        },
+        {
+            "name": "cosmiconfig",
+            "version": "6.0.0"
+        },
+        {
+            "name": "cross-fetch",
+            "version": "3.0.4"
+        },
+        {
+            "name": "deepmerge",
+            "version": "4.2.2"
+        },
+        {
+            "name": "delayed-stream",
+            "version": "1.0.0"
+        },
+        {
+            "name": "deprecated-decorator",
+            "version": "0.1.6"
+        },
+        {
+            "name": "dir-glob",
+            "version": "3.0.1"
+        },
+        {
+            "name": "error-ex",
+            "version": "1.3.2"
+        },
+        {
+            "name": "escape-string-regexp",
+            "version": "1.0.5"
+        },
+        {
+            "name": "esutils",
+            "version": "2.0.2"
+        },
+        {
+            "name": "extract-files",
+            "version": "8.1.0"
+        },
+        {
+            "name": "fast-glob",
+            "version": "3.2.2"
+        },
+        {
+            "name": "fast-json-stable-stringify",
+            "version": "2.1.0"
+        },
+        {
+            "name": "fastq",
+            "version": "1.8.0"
+        },
+        {
+            "name": "form-data",
+            "version": "3.0.0"
+        },
+        {
+            "name": "globby",
+            "version": "11.0.0"
+        },
+        {
+            "name": "graphql-config",
+            "version": "3.0.2"
+        },
+        {
+            "name": "has-flag",
+            "version": "3.0.0"
+        },
+        {
+            "name": "import-fresh",
+            "version": "3.1.0"
+        },
+        {
+            "name": "import-from",
+            "version": "3.0.0"
+        },
+        {
+            "name": "indent-string",
+            "version": "4.0.0"
+        },
+        {
+            "name": "is-arrayish",
+            "version": "0.2.1"
+        },
+        {
+            "name": "is-extglob",
+            "version": "2.1.1"
+        },
+        {
+            "name": "is-glob",
+            "version": "4.0.1"
+        },
+        {
+            "name": "iterall",
+            "version": "1.3.0"
+        },
+        {
+            "name": "json-parse-better-errors",
+            "version": "1.0.2"
+        },
+        {
+            "name": "lines-and-columns",
+            "version": "1.1.6"
+        },
+        {
+            "name": "ljharb/rebase",
+            "version": "master"
+        },
+        {
+            "name": "lodash",
+            "version": "4.17.15"
+        },
+        {
+            "name": "lodash.flatten",
+            "version": "4.4.0"
+        },
+        {
+            "name": "lodash.without",
+            "version": "4.4.0"
+        },
+        {
+            "name": "lower-case",
+            "version": "2.0.1"
+        },
+        {
+            "name": "merge2",
+            "version": "1.3.0"
+        },
+        {
+            "name": "mime-db",
+            "version": "1.44.0"
+        },
+        {
+            "name": "mime-types",
+            "version": "2.1.27"
+        },
+        {
+            "name": "minimatch",
+            "version": "3.0.4"
+        },
+        {
+            "name": "no-case",
+            "version": "3.0.3"
+        },
+        {
+            "name": "node-fetch",
+            "version": "2.6.0"
+        },
+        {
+            "name": "normalize-path",
+            "version": "2.1.1"
+        },
+        {
+            "name": "p-try",
+            "version": "2.2.0"
+        },
+        {
+            "name": "parent-module",
+            "version": "1.0.1"
+        },
+        {
+            "name": "parse-json",
+            "version": "5.0.0"
+        },
+        {
+            "name": "pascal-case",
+            "version": "3.1.1"
+        },
+        {
+            "name": "path-type",
+            "version": "4.0.0"
+        },
+        {
+            "name": "picomatch",
+            "version": "2.2.2"
+        },
+        {
+            "name": "regenerator-runtime",
+            "version": "0.13.5"
+        },
+        {
+            "name": "remove-trailing-separator",
+            "version": "1.1.0"
+        },
+        {
+            "name": "repos/javascript/eslint-plugin-graphql",
+            "version": ""
+        },
+        {
+            "name": "resolve-from",
+            "version": "5.0.0"
+        },
+        {
+            "name": "reusify",
+            "version": "1.0.4"
+        },
+        {
+            "name": "run-parallel",
+            "version": "1.1.9"
+        },
+        {
+            "name": "to-fast-properties",
+            "version": "2.0.0"
+        },
+        {
+            "name": "to-regex-range",
+            "version": "5.0.1"
+        },
+        {
+            "name": "ts-invariant",
+            "version": "0.4.4"
+        },
+        {
+            "name": "tslib",
+            "version": "1.9.3"
+        },
+        {
+            "name": "unixify",
+            "version": "1.0.0"
+        },
+        {
+            "name": "uuid",
+            "version": "7.0.3"
+        },
+        {
+            "name": "valid-url",
+            "version": "1.0.9"
+        },
+        {
+            "name": "whatwg-fetch",
+            "version": "3.0.0"
+        },
+        {
+            "name": "yaml",
+            "version": "1.10.0"
+        },
+        {
+            "name": "zen-observable",
+            "version": "0.8.15"
+        },
+        {
+            "name": "zen-observable-ts",
+            "version": "0.8.21"
+        }
+    ],
+    "Right count": 95,
+    "common": [],
+    "Common count": 0,
+    "fileone": "sboms/javascript/eslint-plugin-graphql/raw/syft_home_jason_SBOM EVal and Validation_repos_javascript_eslint-plugin-graphql_package.json.json",
+    "filetwo": "sboms/javascript/eslint-plugin-graphql/raw/eslint-plugin-graphql.spdx.json"
+}
