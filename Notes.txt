@@ -1,0 +1,138 @@
+03/23/26
+
+List of repos affected by validation script in lock mode:
+javascript:
+    promptfoo
+
+
+
+List of repos that validation generated sboms for in lock mode:
+go:
+    Doltx2
+    hhistory
+    regresql
+
+javascript:
+    eslint
+    page-agent
+    promptfoo x2
+
+python:
+    ai-hedge-fund
+    fast=graph-rag
+
+ruby: 
+    http-logger
+    jsonb-accessor
+
+rust:
+    dns-peep
+    spacetimedb
+
+
+
+List of repos without any lock or project files:
+javascript:
+    querytree
+    redislive
+
+python:
+    BitNet
+    public apis
+
+
+
+List of repos that have both project and lock files:
+go:
+    Dolt
+    hhistory
+    regresql
+
+javascript:
+    eslint
+    page-agent
+    promptfoo
+
+python:
+    ai-hedge-fund
+    fastgraph-rag
+
+ruby:
+    http-logger
+    jsonb-accessor
+
+rust:
+    dnspeep
+    spacetimedb
+
+
+public apis repo possibly not needed
+
+NOTES:
+Validation tool has two modes: lock and project mode. In lock mode the validation tool only generates sboms for repos with a lock file
+and in project mode validation tool only generates sboms for repos with project files. However, a good numebr of files have both lock 
+and project files, so in the scenario that a repo has both, the validation tool will generate the same sbom for the repo because syft 
+scans the entire repo. The mode parameter just determines which repos get scanned and which dont get scanned. Somewhat redundant. 
+
+Validation tool can possibly change the repo from its intitial state so determining the best way to analyze all the repos is top 
+priority as it will save time. 
+
+03/23/27
+
+List of repos with sboms after running validation tool in project mode:
+go:
+    Doltx4 (Had a nested project along with both project and lock files)
+    hhistoryx2
+    regresql
+    trivy
+
+javascript:
+    chromecasts
+    eslintx2
+    page-agentx2
+    promptfoox5 (contains nested project and lock files)
+    supermemory
+
+python:
+    ai-hedge-fundx2
+    Astrbot
+    code-graph-rag
+    fast-graph-ragx2
+    fish-speech
+    hermes-agent
+    mindsdb
+
+ruby:
+    http-loggerx2
+    jsonb-accessorx2
+
+rust:
+    dnspeepx2
+    spacetimedbx2
+
+
+
+Full List of Repos:
+go:
+    Dolt
+    hishtory
+    regresql
+    trivy
+javascript:
+    chromecasts
+    esling-plugin-graphql
+    page-agent
+    promptfoo
+    supermemory
+python:
+    ai-hedge-fund
+    AstrBot
+    code-graph-rag
+    fastgraph-rag
+    mindsdb
+ruby:
+    http_logger
+    jsonb-accessor
+rust:
+    dnspeep
+    spacetimedb
