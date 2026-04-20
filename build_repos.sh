@@ -19,10 +19,10 @@ build_python() {
         (cd "$repo" && uv venv "$venv" --python python3 2>/dev/null; uv pip install --python "$python" -e ".[all]" 2>/dev/null || uv pip install --python "$python" -e .) && echo "  ✅ uv install succeeded" || echo "  ❌ uv install failed"
     elif [ -f "$repo/poetry.lock" ]; then
         (cd "$repo" && VIRTUAL_ENV="$venv" poetry install --no-root) && echo "  ✅ poetry install succeeded" || echo "  ❌ poetry install failed"
-    elif [ -f "$repo/requirements.txt" ]; then
-        (cd "$repo" && "$pip" install -r requirements.txt) && echo "  ✅ pip install succeeded" || echo "  ❌ pip install failed"
     elif [ -f "$repo/pyproject.toml" ]; then
         (cd "$repo" && "$pip" install -e .) && echo "  ✅ pip install succeeded" || echo "  ❌ pip install failed"
+    elif [ -f "$repo/requirements.txt" ]; then
+        (cd "$repo" && "$pip" install -r requirements.txt) && echo "  ✅ pip install succeeded" || echo "  ❌ pip install failed"
     else
         echo "  ⚠️  No recognized Python build file found, skipping..."
     fi
@@ -117,10 +117,6 @@ for lang_dir in "$REPO_DIR"/*/; do
         case "$lang" in
             python)     build_python "$repo" ;;
             javascript) build_javascript "$repo" ;;
-            rust)       build_rust "$repo" ;;
-            go)         build_go "$repo" ;;
-            ruby)       build_ruby "$repo" ;;
-            php)        build_php "$repo" ;;
             *)          echo "  ⚠️  Unknown language: $lang, skipping..." ;;
         esac
     done

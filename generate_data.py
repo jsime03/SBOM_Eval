@@ -12,6 +12,8 @@ from typing import Tuple
 from sbomCVE.src.cve_data_grype import run_main_enrichment
 from sbomCVE.src.cve_data_bin_tool import run_cbt_enrichment
 from enum import Enum
+import sys
+import typer
 
 REPO_DIR = Path("repos")
 SBOM_DIR = Path("sboms")
@@ -197,7 +199,6 @@ def reset_vulnerability_reports():
         print(f"Deleting CVE Bin Tool report {report.name}...")
         report.unlink()
 
-
 def format_sboms():
     print("Formatting SBOMs for repositories...")
     for language in SBOM_DIR.iterdir():
@@ -209,21 +210,44 @@ def format_sboms():
                         print(f"Raw Dir found for {repo.name}. Formatting SBOMs...")
                         sbom_files = list(raw.glob("*.json"))
                         for sbom_file in sbom_files:
-                            sbom.format_json(sbom_file)
+                            format_json(sbom_file)
+
+def format_json(input_path: str, output_path: str = None, indent: int = 4):
+    """
+    Reads a JSON file, formats it with indentation, and saves to a new file.
+
+    Args:
+        input_path (str): Path to the input JSON file.
+        output_path (str): Path to the output JSON file.
+        indent (int): Number of spaces for indentation. Default is 4.
+    """
+
+    if output_path is None:
+        output_path = input_path
+
+    with open(input_path, 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    
+    if isinstance(data, dict) and list(data.keys()) == ["sbom"]:
+        data = data["sbom"]
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, indent=indent, ensure_ascii=False)
 
 
 
 
-def main():
-    # reset_sboms()
-    # reset_vulnerability_reports()
-    # generate_sboms()
+def main(reset: bool = typer.Option(False, '-r', '--reset', help="Reset SBOMS and vulnerability reports before generating new data.")):
+    if reset:
+        reset_sboms()
+        reset_vulnerability_reports()
+    generate_sboms()
     format_sboms()
-    # run_vulnerabillity_scans()
-    # run_comparisons()
+    run_vulnerabillity_scans()
+    run_comparisons()
 
 if __name__ == "__main__":
-    main()
+    typer.run(main)
 
 
 
