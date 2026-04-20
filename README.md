@@ -1,4 +1,4 @@
-### Note
+### File Structure
 --------------------------
 sbom directory should have the following file structure:
 ```
@@ -16,4 +16,12 @@ sboms/
 └── <language>/
     ├── diff/
     └── raw/
+```
+
+Repo Directory should have the following file structure:
+
+```
+repos/
+|--<languages>/
+|    |--<repos>/
 ```
