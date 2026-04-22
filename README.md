@@ -26,6 +26,11 @@ NOTE: If a repo contains project files from multiple languages, only the project
 - adds the repos listed in the script to the repos dir according to their language
 ```
 
+### reset_repos.sh:
+```
+- Resets repos to their fresh states if anything was changed in them
+```
+
 
 
 
