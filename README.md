@@ -32,7 +32,7 @@ NOTE: If a repo contains project files from multiple languages, only the project
 
 # File Structure
 --------------------------
-sbom directory should have the following file structure:
+### sbom directory should have the following file structure:
 ```
 sboms/
 ├── javascript/
@@ -50,10 +50,10 @@ sboms/
     └── raw/
 ```
 
-Repo Directory should have the following file structure:
+### Repo Directory should have the following file structure:
 
 ```
 repos/
 |--<languages>/
-|    |--<repos>/
+|    |--<repo>/
 ```
