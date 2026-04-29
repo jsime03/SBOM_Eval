@@ -1,38 +1,361 @@
 Repo,File One,File Two,Left Count,Right Count,Common Count,Jaccard Score
+three.js,syft_home_jason_SBOM EVal and Validation_repos_javascript_three.js_package.json.json,sbom_mrdoob_three.js.json,1,310,0,0.0
+three.js,syft_home_jason_SBOM EVal and Validation_repos_javascript_three.js_package.json.json,three.js.spdx.json,1,288,0,0.0
+three.js,sbom_mrdoob_three.js.json,three.js.spdx.json,35,13,275,0.8513931888544891
+vue,vue.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vue_compiler-sfc_package.json.json,924,1,0,0.0
+vue,vue.spdx.json,sbom_vuejs_vue.json,30,79,894,0.8913260219341974
+vue,vue.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vue_package.json.json,924,1,0,0.0
+vue,syft_home_jason_SBOM EVal and Validation_repos_javascript_vue_compiler-sfc_package.json.json,sbom_vuejs_vue.json,1,973,0,0.0
+vue,syft_home_jason_SBOM EVal and Validation_repos_javascript_vue_compiler-sfc_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vue_package.json.json,1,1,0,0.0
+vue,sbom_vuejs_vue.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vue_package.json.json,973,1,0,0.0
 eslint-plugin-graphql,apollographql_eslint-plugin-graphql_14f152.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_eslint-plugin-graphql_package.json.json,568,1,0,0.0
-eslint-plugin-graphql,apollographql_eslint-plugin-graphql_14f152.json,eslint-plugin-graphql.spdx.json,480,7,88,0.15304347826086956
-eslint-plugin-graphql,syft_home_jason_SBOM EVal and Validation_repos_javascript_eslint-plugin-graphql_package.json.json,eslint-plugin-graphql.spdx.json,1,95,0,0.0
-chromecasts,syft_home_jason_SBOM EVal and Validation_repos_javascript_chromecasts_package.json.json,chromecasts.spdx.json,1,47,0,0.0
+eslint-plugin-graphql,apollographql_eslint-plugin-graphql_14f152.json,eslint-plugin-graphql.spdx.json,8,16,560,0.958904109589041
+eslint-plugin-graphql,syft_home_jason_SBOM EVal and Validation_repos_javascript_eslint-plugin-graphql_package.json.json,eslint-plugin-graphql.spdx.json,1,576,0,0.0
+javascript,syft_home_jason_SBOM EVal and Validation_repos_javascript_javascript_package.json.json,javascript.spdx.json,0,0,0,1
+javascript,syft_home_jason_SBOM EVal and Validation_repos_javascript_javascript_package.json.json,sbom_airbnb_javascript.json,0,0,0,1
+javascript,javascript.spdx.json,sbom_airbnb_javascript.json,0,0,0,1
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-shared_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus_package.json.json,1,1,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-shared_package.json.json,GitNexus.spdx.json,1,210,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-shared_package.json.json,abhigyanpatwari_GitNexus_6798a6.json,1,1322,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-shared_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_package.json.json,1,1,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-shared_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-web_package.json.json,1,1,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus_package.json.json,GitNexus.spdx.json,1,210,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus_package.json.json,abhigyanpatwari_GitNexus_6798a6.json,1,1322,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_package.json.json,1,1,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-web_package.json.json,1,1,0,0.0
+GitNexus,GitNexus.spdx.json,abhigyanpatwari_GitNexus_6798a6.json,10,1122,200,0.15015015015015015
+GitNexus,GitNexus.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_package.json.json,210,1,0,0.0
+GitNexus,GitNexus.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-web_package.json.json,210,1,0,0.0
+GitNexus,abhigyanpatwari_GitNexus_6798a6.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_package.json.json,1322,1,0,0.0
+GitNexus,abhigyanpatwari_GitNexus_6798a6.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-web_package.json.json,1322,1,0,0.0
+GitNexus,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_GitNexus_gitnexus-web_package.json.json,1,1,0,0.0
+excalidraw,sbom_excalidraw_excalidraw.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_dev-docs_package.json.json,2407,1,0,0.0
+excalidraw,sbom_excalidraw_excalidraw.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_excalidraw-app_package.json.json,2407,1,0,0.0
+excalidraw,sbom_excalidraw_excalidraw.json,excalidraw.spdx.json,1097,203,1310,0.5019157088122606
+excalidraw,sbom_excalidraw_excalidraw.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_package.json.json,2407,1,0,0.0
+excalidraw,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_dev-docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_excalidraw-app_package.json.json,1,1,0,0.0
+excalidraw,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_dev-docs_package.json.json,excalidraw.spdx.json,1,1513,0,0.0
+excalidraw,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_dev-docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_package.json.json,1,1,0,0.0
+excalidraw,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_excalidraw-app_package.json.json,excalidraw.spdx.json,1,1513,0,0.0
+excalidraw,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_excalidraw-app_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_package.json.json,1,1,0,0.0
+excalidraw,excalidraw.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_excalidraw_package.json.json,1513,1,0,0.0
+ant-design,ant-design.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_ant-design_package.json.json,3444,1,0,0.0
+ant-design,ant-design.spdx.json,sbom_ant-design_ant-design.json,3436,239,8,0.0021721422753190334
+ant-design,syft_home_jason_SBOM EVal and Validation_repos_javascript_ant-design_package.json.json,sbom_ant-design_ant-design.json,1,247,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,sbom_microsoft_vscode.json,1,2879,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,vscode.spdx.json,1,132,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_extensions_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,sbom_microsoft_vscode.json,1,2879,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,vscode.spdx.json,1,132,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,sbom_microsoft_vscode.json,1,2879,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,vscode.spdx.json,1,132,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_remote_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,sbom_microsoft_vscode.json,1,2879,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,0,0,1,1.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,vscode.spdx.json,1,132,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_scripts_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,1,1,0,0.0
+vscode,sbom_microsoft_vscode.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,2879,1,0,0.0
+vscode,sbom_microsoft_vscode.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,2879,1,0,0.0
+vscode,sbom_microsoft_vscode.json,vscode.spdx.json,2878,131,1,0.0003322259136212625
+vscode,sbom_microsoft_vscode.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,2879,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,vscode.spdx.json,1,132,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_test_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,1,1,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,vscode.spdx.json,1,132,0,0.0
+vscode,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_.eslint-plugin-local_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,1,1,0,0.0
+vscode,vscode.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_vscode_package.json.json,132,1,0,0.0
+chromecasts,syft_home_jason_SBOM EVal and Validation_repos_javascript_chromecasts_package.json.json,chromecasts.spdx.json,1,339,0,0.0
 chromecasts,syft_home_jason_SBOM EVal and Validation_repos_javascript_chromecasts_package.json.json,mafintosh_chromecasts_032601.json,1,11,0,0.0
-chromecasts,chromecasts.spdx.json,mafintosh_chromecasts_032601.json,47,11,0,0.0
-supermemory,syft_home_jason_SBOM EVal and Validation_repos_javascript_supermemory_package.json.json,supermemory.spdx.json,1,234,0,0.0
+chromecasts,chromecasts.spdx.json,mafintosh_chromecasts_032601.json,339,11,0,0.0
+immich,immich.spdx.json,immich-app_immich_d30494.json,163,1111,2346,0.6480662983425415
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,2509,1,0,0.0
+immich,immich.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,2509,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,3457,1,0,0.0
+immich,immich-app_immich_d30494.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,3457,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_plugins_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e-auth-server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_e2e_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_web_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_server_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_i18n_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+immich,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_cli_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_immich_.github_package.json.json,1,1,0,0.0
+supermemory,syft_home_jason_SBOM EVal and Validation_repos_javascript_supermemory_package.json.json,supermemory.spdx.json,1,2640,0,0.0
 supermemory,syft_home_jason_SBOM EVal and Validation_repos_javascript_supermemory_package.json.json,supermemoryai_supermemory_40ed1a.json,1,476,0,0.0
-supermemory,supermemory.spdx.json,supermemoryai_supermemory_40ed1a.json,130,372,104,0.1716171617161716
-promptfoo,promptfoo.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_promptfoo_package.json.json,1025,1,0,0.0
-promptfoo,promptfoo.spdx.json,promptfoo_promptfoo_52cf11.json,68,1983,957,0.3181515957446808
+supermemory,supermemory.spdx.json,supermemoryai_supermemory_40ed1a.json,2540,376,100,0.033156498673740056
+promptfoo,promptfoo.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_promptfoo_package.json.json,2615,1,0,0.0
+promptfoo,promptfoo.spdx.json,promptfoo_promptfoo_52cf11.json,141,466,2474,0.8029860434923726
 promptfoo,syft_home_jason_SBOM EVal and Validation_repos_javascript_promptfoo_package.json.json,promptfoo_promptfoo_52cf11.json,1,2940,0,0.0
-page-agent,alibaba_page-agent_d7ed02.json,page-agent.spdx.json,783,41,10,0.011990407673860911
+ui,syft_home_jason_SBOM EVal and Validation_repos_javascript_ui_package.json.json,sbom_shadcn-ui_ui.json,1,2338,0,0.0
+ui,syft_home_jason_SBOM EVal and Validation_repos_javascript_ui_package.json.json,ui.spdx.json,1,1668,0,0.0
+ui,sbom_shadcn-ui_ui.json,ui.spdx.json,904,234,1434,0.557542768273717
+material-ui,sbom_mui_material-ui.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_docs_package.json.json,2584,1,0,0.0
+material-ui,sbom_mui_material-ui.json,material-ui.spdx.json,416,300,2168,0.7517337031900139
+material-ui,sbom_mui_material-ui.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_test_package.json.json,2584,1,0,0.0
+material-ui,sbom_mui_material-ui.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_package.json.json,2584,1,0,0.0
+material-ui,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_docs_package.json.json,material-ui.spdx.json,1,2468,0,0.0
+material-ui,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_test_package.json.json,1,1,0,0.0
+material-ui,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_package.json.json,1,1,0,0.0
+material-ui,material-ui.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_test_package.json.json,2468,1,0,0.0
+material-ui,material-ui.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_package.json.json,2468,1,0,0.0
+material-ui,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_test_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_material-ui_package.json.json,1,1,0,0.0
+react,syft_home_jason_SBOM EVal and Validation_repos_javascript_react_compiler_package.json.json,sbom_facebook_react.json,1,7589,0,0.0
+react,syft_home_jason_SBOM EVal and Validation_repos_javascript_react_compiler_package.json.json,react.spdx.json,1,84,0,0.0
+react,syft_home_jason_SBOM EVal and Validation_repos_javascript_react_compiler_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_react_package.json.json,1,1,0,0.0
+react,sbom_facebook_react.json,react.spdx.json,7588,83,1,0.00013034410844629823
+react,sbom_facebook_react.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_react_package.json.json,7589,1,0,0.0
+react,react.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_react_package.json.json,84,1,0,0.0
+docusaurus,sbom_facebook_docusaurus.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_package.json.json,3241,1,0,0.0
+docusaurus,sbom_facebook_docusaurus.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_website_package.json.json,3241,1,0,0.0
+docusaurus,sbom_facebook_docusaurus.json,docusaurus.spdx.json,3204,14,37,0.011367127496159755
+docusaurus,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_website_package.json.json,1,1,0,0.0
+docusaurus,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_package.json.json,docusaurus.spdx.json,1,51,0,0.0
+docusaurus,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_website_package.json.json,docusaurus.spdx.json,1,51,0,0.0
+openclaw,syft_home_jason_SBOM EVal and Validation_repos_javascript_openclaw_ui_package.json.json,openclaw.spdx.json,1,1315,0,0.0
+openclaw,syft_home_jason_SBOM EVal and Validation_repos_javascript_openclaw_ui_package.json.json,sbom_openclaw_openclaw.json,1,1450,0,0.0
+openclaw,syft_home_jason_SBOM EVal and Validation_repos_javascript_openclaw_ui_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_openclaw_package.json.json,1,1,0,0.0
+openclaw,openclaw.spdx.json,sbom_openclaw_openclaw.json,152,287,1163,0.7259675405742821
+openclaw,openclaw.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_openclaw_package.json.json,1315,1,0,0.0
+openclaw,sbom_openclaw_openclaw.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_openclaw_package.json.json,1450,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_package.json.json,sbom_langgenius_dify.json,1,2337,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_argos_package.json.json,1,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_web_package.json.json,1,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_e2e_package.json.json,1,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_package.json.json,dify.spdx.json,1,1586,0,0.0
+dify,sbom_langgenius_dify.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_argos_package.json.json,2337,1,0,0.0
+dify,sbom_langgenius_dify.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_web_package.json.json,2337,1,0,0.0
+dify,sbom_langgenius_dify.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_e2e_package.json.json,2337,1,0,0.0
+dify,sbom_langgenius_dify.json,dify.spdx.json,988,237,1349,0.5240870240870241
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_argos_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_web_package.json.json,1,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_argos_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_e2e_package.json.json,1,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_docusaurus_argos_package.json.json,dify.spdx.json,1,1586,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_web_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_e2e_package.json.json,1,1,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_web_package.json.json,dify.spdx.json,1,1586,0,0.0
+dify,syft_home_jason_SBOM EVal and Validation_repos_javascript_dify_e2e_package.json.json,dify.spdx.json,1,1586,0,0.0
+everything-claude-code,syft_home_jason_SBOM EVal and Validation_repos_javascript_everything-claude-code_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_everything-claude-code_.opencode_package.json.json,1,1,0,0.0
+everything-claude-code,syft_home_jason_SBOM EVal and Validation_repos_javascript_everything-claude-code_package.json.json,everything-claude-code.spdx.json,1,206,0,0.0
+everything-claude-code,syft_home_jason_SBOM EVal and Validation_repos_javascript_everything-claude-code_package.json.json,sbom_affaan-m_everything-claude-code.json,1,509,0,0.0
+everything-claude-code,syft_home_jason_SBOM EVal and Validation_repos_javascript_everything-claude-code_.opencode_package.json.json,everything-claude-code.spdx.json,1,206,0,0.0
+everything-claude-code,syft_home_jason_SBOM EVal and Validation_repos_javascript_everything-claude-code_.opencode_package.json.json,sbom_affaan-m_everything-claude-code.json,1,509,0,0.0
+everything-claude-code,everything-claude-code.spdx.json,sbom_affaan-m_everything-claude-code.json,4,307,202,0.3937621832358674
+30-seconds-of-code,30-seconds-of-code.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_30-seconds-of-code_package.json.json,444,1,0,0.0
+30-seconds-of-code,30-seconds-of-code.spdx.json,sbom_Chalarangelo_30-seconds-of-code.json,2,79,442,0.8451242829827916
+30-seconds-of-code,syft_home_jason_SBOM EVal and Validation_repos_javascript_30-seconds-of-code_package.json.json,sbom_Chalarangelo_30-seconds-of-code.json,1,521,0,0.0
+page-agent,alibaba_page-agent_d7ed02.json,page-agent.spdx.json,118,18,675,0.8323057953144266
 page-agent,alibaba_page-agent_d7ed02.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_page-agent_package.json.json,793,1,0,0.0
-page-agent,page-agent.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_page-agent_package.json.json,51,1,0,0.0
+page-agent,page-agent.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_page-agent_package.json.json,693,1,0,0.0
+developer-roadmap,sbom_kamranahmedse_developer-roadmap.json,developer-roadmap.spdx.json,1395,2,0,0.0
+developer-roadmap,sbom_kamranahmedse_developer-roadmap.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package-lock.json.json,744,2,651,0.4659985683607731
+developer-roadmap,developer-roadmap.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package-lock.json.json,1,652,1,0.0015290519877675841
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,cline.spdx.json,1,1392,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_developer-roadmap_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,cline.spdx.json,1,1392,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_testing-platform_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,cline.spdx.json,1,1392,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_webview-ui_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+cline,cline.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,1392,1,0,0.0
+cline,cline.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,1392,1,0,0.0
+cline,cline.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,1392,1,0,0.0
+cline,cline.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1392,1,0,0.0
+cline,cline.spdx.json,sbom_cline_cline.json,36,1547,1356,0.4613814222524668
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_cli_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,1,1,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_docs_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+cline,syft_home_jason_SBOM EVal and Validation_repos_javascript_cline_evals_package.json.json,sbom_cline_cline.json,1,2903,0,0.0
+iptv,syft_home_jason_SBOM EVal and Validation_repos_javascript_iptv_package.json.json,sbom_iptv-org_iptv.json,1,575,0,0.0
+iptv,syft_home_jason_SBOM EVal and Validation_repos_javascript_iptv_package.json.json,iptv.spdx.json,1,515,0,0.0
+iptv,sbom_iptv-org_iptv.json,iptv.spdx.json,62,2,513,0.8890814558058926
+echarts,sbom_apache_echarts.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,966,1,0,0.0
+echarts,sbom_apache_echarts.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,966,1,0,0.0
+echarts,sbom_apache_echarts.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,966,1,0,0.0
+echarts,sbom_apache_echarts.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,966,1,0,0.0
+echarts,sbom_apache_echarts.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,966,1,0,0.0
+echarts,sbom_apache_echarts.json,echarts.spdx.json,235,18,731,0.7428861788617886
+echarts,sbom_apache_echarts.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,966,1,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,1,1,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,echarts.spdx.json,1,749,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_dist_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,1,1,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,echarts.spdx.json,1,749,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_i18n_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,1,1,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,echarts.spdx.json,1,749,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_build_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,1,1,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,echarts.spdx.json,1,749,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_theme_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,0,0,1,1.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,echarts.spdx.json,1,749,0,0.0
+echarts,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_package.json.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,1,1,0,0.0
+echarts,echarts.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_echarts_test_package.json.json,749,1,0,0.0
+axios,axios.spdx.json,sbom_axios_axios.json,35,343,727,0.6579185520361991
+axios,axios.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_axios_docs_package.json.json,762,1,0,0.0
+axios,sbom_axios_axios.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_axios_docs_package.json.json,1070,1,0,0.0
+n8n,n8n.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_javascript_n8n_package.json.json,3889,1,0,0.0
+n8n,n8n.spdx.json,sbom_n8n-io_n8n.json,142,714,3747,0.8140343254399305
+n8n,syft_home_jason_SBOM EVal and Validation_repos_javascript_n8n_package.json.json,sbom_n8n-io_n8n.json,1,4461,0,0.0
+transformers,transformers.spdx.json,sbom_huggingface_transformers.json,59,81,30,0.17647058823529413
+transformers,transformers.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_transformers_pyproject.toml.json,89,1,0,0.0
+transformers,sbom_huggingface_transformers.json,syft_home_jason_SBOM EVal and Validation_repos_python_transformers_pyproject.toml.json,111,1,0,0.0
+fastapi,sbom_fastapi_fastapi.json,syft_home_jason_SBOM EVal and Validation_repos_python_fastapi_pyproject.toml.json,268,1,0,0.0
+fastapi,sbom_fastapi_fastapi.json,fastapi.spdx.json,17,40,251,0.814935064935065
+fastapi,syft_home_jason_SBOM EVal and Validation_repos_python_fastapi_pyproject.toml.json,fastapi.spdx.json,1,291,0,0.0
+system-design-primer,system-design-primer.spdx.json,sbom_donnemartin_system-design-primer.json,2,1,0,0.0
 fast-graphrag,syft_home_jason_SBOM EVal and Validation_repos_python_fast-graphrag_pyproject.toml.json,circlemind-ai_fast-graphrag_aa1191.json,1,99,0,0.0
 fast-graphrag,syft_home_jason_SBOM EVal and Validation_repos_python_fast-graphrag_pyproject.toml.json,fast-graphrag.spdx.json,1,101,0,0.0
 fast-graphrag,circlemind-ai_fast-graphrag_aa1191.json,fast-graphrag.spdx.json,6,8,93,0.8691588785046729
-hermes-agent,hermes-agent.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_hermes-agent_pyproject.toml.json,1614,1,0,0.0
+browser-use,browser-use.spdx.json,sbom_browser-use_browser-use.json,110,17,37,0.22560975609756098
+browser-use,browser-use.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_browser-use_pyproject.toml.json,147,1,0,0.0
+browser-use,sbom_browser-use_browser-use.json,syft_home_jason_SBOM EVal and Validation_repos_python_browser-use_pyproject.toml.json,54,1,0,0.0
+core,sbom_home-assistant_core.json,core.spdx.json,38,595,1185,0.6518151815181518
+core,sbom_home-assistant_core.json,syft_home_jason_SBOM EVal and Validation_repos_python_core_pyproject.toml.json,1223,1,0,0.0
+core,core.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_core_pyproject.toml.json,1780,1,0,0.0
 AstrBot,AstrBot.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_AstrBot_pyproject.toml.json,915,1,0,0.0
 AstrBot,AstrBot.spdx.json,AstrBotDevs_AstrBot_28a28d.json,148,75,767,0.7747474747474747
 AstrBot,syft_home_jason_SBOM EVal and Validation_repos_python_AstrBot_pyproject.toml.json,AstrBotDevs_AstrBot_28a28d.json,1,842,0,0.0
+flask,flask.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_flask_pyproject.toml.json,115,1,0,0.0
+flask,flask.spdx.json,sbom_pallets_flask.json,12,13,103,0.8046875
+flask,syft_home_jason_SBOM EVal and Validation_repos_python_flask_pyproject.toml.json,sbom_pallets_flask.json,1,116,0,0.0
+ansible,ansible.spdx.json,sbom_ansible_ansible.json,4,85,42,0.32061068702290074
+ansible,ansible.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_ansible_pyproject.toml.json,46,1,0,0.0
+ansible,sbom_ansible_ansible.json,syft_home_jason_SBOM EVal and Validation_repos_python_ansible_pyproject.toml.json,127,1,0,0.0
+newton,newton.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_newton_pyproject.toml.json,292,1,0,0.0
+newton,newton.spdx.json,newton-physics_newton_7a2eb7.json,21,15,271,0.8827361563517915
+newton,syft_home_jason_SBOM EVal and Validation_repos_python_newton_pyproject.toml.json,newton-physics_newton_7a2eb7.json,1,286,0,0.0
+yt-dlp,yt-dlp.spdx.json,sbom_yt-dlp_yt-dlp.json,43,15,37,0.3894736842105263
+yt-dlp,yt-dlp.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_yt-dlp_pyproject.toml.json,80,1,0,0.0
+yt-dlp,sbom_yt-dlp_yt-dlp.json,syft_home_jason_SBOM EVal and Validation_repos_python_yt-dlp_pyproject.toml.json,52,1,0,0.0
+django,sbom_django_django.json,syft_home_jason_SBOM EVal and Validation_repos_python_django_pyproject.toml.json,48,1,0,0.0
+django,sbom_django_django.json,django.spdx.json,45,14,3,0.04838709677419355
+django,syft_home_jason_SBOM EVal and Validation_repos_python_django_pyproject.toml.json,django.spdx.json,1,17,0,0.0
+sherlock,sherlock.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_sherlock_pyproject.toml.json,30,1,0,0.0
+sherlock,sherlock.spdx.json,sbom_sherlock-project_sherlock.json,29,18,1,0.020833333333333332
+sherlock,syft_home_jason_SBOM EVal and Validation_repos_python_sherlock_pyproject.toml.json,sbom_sherlock-project_sherlock.json,1,19,0,0.0
+Python,sbom_TheAlgorithms_Python.json,syft_home_jason_SBOM EVal and Validation_repos_python_Python_pyproject.toml.json,29,1,0,0.0
+Python,sbom_TheAlgorithms_Python.json,Python.spdx.json,29,95,0,0.0
+Python,syft_home_jason_SBOM EVal and Validation_repos_python_Python_pyproject.toml.json,Python.spdx.json,1,95,0,0.0
+LlamaFactory,syft_home_jason_SBOM EVal and Validation_repos_python_LlamaFactory_pyproject.toml.json,sbom_hiyouga_LlamaFactory.json,1,87,0,0.0
+LlamaFactory,syft_home_jason_SBOM EVal and Validation_repos_python_LlamaFactory_pyproject.toml.json,LlamaFactory.spdx.json,1,164,0,0.0
+LlamaFactory,sbom_hiyouga_LlamaFactory.json,LlamaFactory.spdx.json,86,163,1,0.004
 code-graph-rag,code-graph-rag.spdx.json,vitali87_code-graph-rag_e34867.json,464,9,288,0.37844940867279897
 code-graph-rag,code-graph-rag.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_code-graph-rag_pyproject.toml.json,752,1,0,0.0
 code-graph-rag,vitali87_code-graph-rag_e34867.json,syft_home_jason_SBOM EVal and Validation_repos_python_code-graph-rag_pyproject.toml.json,297,1,0,0.0
 mindsdb,syft_home_jason_SBOM EVal and Validation_repos_python_mindsdb_pyproject.toml.json,mindsdb_mindsdb_6e7636.json,1,1179,0,0.0
-mindsdb,syft_home_jason_SBOM EVal and Validation_repos_python_mindsdb_pyproject.toml.json,mindsdb.spdx.json,1,1551,0,0.0
-mindsdb,mindsdb_mindsdb_6e7636.json,mindsdb.spdx.json,212,584,967,0.5484968803176404
+mindsdb,syft_home_jason_SBOM EVal and Validation_repos_python_mindsdb_pyproject.toml.json,mindsdb.spdx.json,1,1598,0,0.0
+mindsdb,mindsdb_mindsdb_6e7636.json,mindsdb.spdx.json,212,631,967,0.5342541436464089
+whisper,whisper.spdx.json,sbom_openai_whisper.json,64,9,6,0.0759493670886076
+whisper,whisper.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_whisper_pyproject.toml.json,70,1,0,0.0
+whisper,sbom_openai_whisper.json,syft_home_jason_SBOM EVal and Validation_repos_python_whisper_pyproject.toml.json,15,1,0,0.0
+spec-kit,sbom_github_spec-kit.json,syft_home_jason_SBOM EVal and Validation_repos_python_spec-kit_pyproject.toml.json,22,1,0,0.0
+spec-kit,sbom_github_spec-kit.json,spec-kit.spdx.json,21,28,1,0.02
+spec-kit,syft_home_jason_SBOM EVal and Validation_repos_python_spec-kit_pyproject.toml.json,spec-kit.spdx.json,1,29,0,0.0
 ai-hedge-fund,syft_home_jason_SBOM EVal and Validation_repos_python_ai-hedge-fund_pyproject.toml.json,virattt_ai-hedge-fund_5b2fdf.json,1,708,0,0.0
-ai-hedge-fund,syft_home_jason_SBOM EVal and Validation_repos_python_ai-hedge-fund_pyproject.toml.json,ai-hedge-fund.spdx.json,1,588,0,0.0
-ai-hedge-fund,virattt_ai-hedge-fund_5b2fdf.json,ai-hedge-fund.spdx.json,124,4,584,0.8202247191011236
-fish-speech,fish-speech.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_fish-speech_pyproject.toml.json,498,1,0,0.0
-trivy,trivy.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_go_trivy_go.mod.json,686,1,493,0.41779661016949154
-trivy,trivy.spdx.json,aquasecurity_trivy_a17c93.json,710,51,469,0.38130081300813007
+ai-hedge-fund,syft_home_jason_SBOM EVal and Validation_repos_python_ai-hedge-fund_pyproject.toml.json,ai-hedge-fund.spdx.json,1,587,0,0.0
+ai-hedge-fund,virattt_ai-hedge-fund_5b2fdf.json,ai-hedge-fund.spdx.json,124,3,584,0.8213783403656821
+manim,sbom_3b1b_manim.json,manim.spdx.json,37,89,2,0.015625
+manim,sbom_3b1b_manim.json,syft_home_jason_SBOM EVal and Validation_repos_python_manim_pyproject.toml.json,39,1,0,0.0
+manim,manim.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_manim_pyproject.toml.json,91,1,0,0.0
+Deep-Live-Cam,sbom_hacksider_Deep-Live-Cam.json,Deep-Live-Cam.spdx.json,5,103,12,0.1
+awesome-llm-apps,awesome-llm-apps.spdx.json,sbom_Shubhamsaboo_awesome-llm-apps.json,113,702,1659,0.6705739692805174
+ComfyUI,ComfyUI.spdx.json,sbom_Comfy-Org_ComfyUI.json,144,51,5,0.025
+ComfyUI,ComfyUI.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_python_ComfyUI_pyproject.toml.json,149,1,0,0.0
+ComfyUI,sbom_Comfy-Org_ComfyUI.json,syft_home_jason_SBOM EVal and Validation_repos_python_ComfyUI_pyproject.toml.json,56,1,0,0.0
+gpt4free,sbom_xtekky_gpt4free.json,gpt4free.spdx.json,38,95,7,0.05
+trivy,trivy.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_go_trivy_go.mod.json,684,1,493,0.41850594227504245
+trivy,trivy.spdx.json,aquasecurity_trivy_a17c93.json,708,51,469,0.38192182410423453
 trivy,syft_home_jason_SBOM EVal and Validation_repos_go_trivy_go.mod.json,aquasecurity_trivy_a17c93.json,26,52,468,0.8571428571428571
 dolt,dolthub_dolt_49739a.json,dolt.spdx.json,141,99,342,0.5876288659793815
 dolt,dolthub_dolt_49739a.json,syft_home_jason_SBOM EVal and Validation_repos_go_dolt_go_go.mod.json,295,12,188,0.3797979797979798
@@ -49,9 +372,9 @@ dnspeep,jvns_dnspeep_ece27c.json,dnspeep.spdx.json,4,5,93,0.9117647058823529
 SpacetimeDB,syft_home_jason_SBOM EVal and Validation_repos_rust_SpacetimeDB_Cargo.toml.json,SpacetimeDB.spdx.json,1,4841,0,0.0
 SpacetimeDB,syft_home_jason_SBOM EVal and Validation_repos_rust_SpacetimeDB_Cargo.toml.json,clockworklabs_SpacetimeDB_05bd95.json,1,5056,0,0.0
 SpacetimeDB,SpacetimeDB.spdx.json,clockworklabs_SpacetimeDB_05bd95.json,170,385,4671,0.8938002296211252
-http_logger,http_logger.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_ruby_http_logger_Gemfile.json,50,1,0,0.0
-http_logger,http_logger.spdx.json,railsware_http_logger_9cb5fa.json,50,10,0,0.0
+http_logger,http_logger.spdx.json,syft_home_jason_SBOM EVal and Validation_repos_ruby_http_logger_Gemfile.json,33,1,0,0.0
+http_logger,http_logger.spdx.json,railsware_http_logger_9cb5fa.json,33,10,0,0.0
 http_logger,syft_home_jason_SBOM EVal and Validation_repos_ruby_http_logger_Gemfile.json,railsware_http_logger_9cb5fa.json,1,10,0,0.0
-jsonb_accessor,syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json,jsonb_accessor.spdx.json,1,132,0,0.0
+jsonb_accessor,syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json,jsonb_accessor.spdx.json,1,86,0,0.0
 jsonb_accessor,syft_home_jason_SBOM EVal and Validation_repos_ruby_jsonb_accessor_Gemfile.json,madeintandem_jsonb_accessor_51e047.json,1,20,0,0.0
-jsonb_accessor,jsonb_accessor.spdx.json,madeintandem_jsonb_accessor_51e047.json,132,20,0,0.0
+jsonb_accessor,jsonb_accessor.spdx.json,madeintandem_jsonb_accessor_51e047.json,86,20,0,0.0
