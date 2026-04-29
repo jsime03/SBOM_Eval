@@ -6,6 +6,7 @@
 - Generates Grype reports and CVE-Bin-Tool reports using the previously generated repos
 - Generates a comparison.csv file that shows the differences between sboms generated from github site, validation repo, and local build sboms.
 - If -r is passed as a command line argument, the script will reset the vulnerability report directories along with the sboms generated ONLY from this script.
+- You may also pass -l <comma separated list of languages> that you want processed from the repos dir. The default is every language.
 ```
 
 ### build_repos.sh:
