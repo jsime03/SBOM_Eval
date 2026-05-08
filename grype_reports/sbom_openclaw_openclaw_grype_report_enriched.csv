@@ -1,0 +1,41 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2014-6393,express,^5.2.1,Medium,False,,0.0029,0.52368,no,,,,,,,,,6.1,CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.0
+CVE-2016-10518,ws,^8.20.0,Low,False,,0.00345,0.57016,no,,,,,,,,40a9d686288b5d0be13f2bf2f3f5da07afc8cda2,7.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,3.0
+CVE-2016-10542,ws,^8.20.0,High,False,,0.66075,0.98529,no,,,,,,,,,7.5,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.0
+CVE-2018-3739,https-proxy-agent,^9.0.0,Critical,False,,0.00431,0.6262,no,,,,,,,,5555794b6d9e4b0a36fac80a2d3acea876a8f7dc,9.1,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:H,3.0
+CVE-2019-16728,dompurify,^3.3.3,Medium,False,,0.00962,0.76595,no,,,,,,,,4c8ca9db5b4b2a79ed6c779ac6f22587ba16a3e1,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2019-25155,dompurify,^3.3.3,Medium,False,,0.00242,0.47418,no,,https://github.com/cure53/DOMPurify/pull/337/files,,https://github.com/cure53/DOMPurify/pull/337/files,,,,3c1c0d7e11cda896b0c69cf82e0ca6e0c0e7dd38,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2020-15366,ajv,^8.18.0,Medium,False,,0.00352,0.57589,no,,,,,,,,521c3a53f15f5502fb4a734194932535d311267c,5.6,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:L,3.1
+CVE-2020-26870,dompurify,^3.3.3,Medium,False,,0.00417,0.61774,no,,https://github.com/cure53/DOMPurify/commit/02724b8eb048dd219d6725b05c3000936f11d62d,,https://github.com/cure53/DOMPurify/commit/02724b8eb048dd219d6725b05c3000936f11d62d,,,,f04574b5c1761ace5fa4c60f3e452c0c2eb02ff4 | 02724b8eb048dd219d6725b05c3000936f11d62d,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2022-21680,marked,^17.0.5,High,False,,0.00708,0.72273,no,,https://github.com/markedjs/marked/commit/c4a3ccd344b6929afa8a1d50ac54a721e57012c0,,https://github.com/markedjs/marked/commit/c4a3ccd344b6929afa8a1d50ac54a721e57012c0,,,,ae01170085e89ccd85c233547011eb88420a90cf,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2022-21681,marked,^17.0.5,High,False,,0.00483,0.65291,no,,https://github.com/markedjs/marked/commit/8f806573a3f6c6b7a39b8cdb66ab5ebb8d55a5f5,,https://github.com/markedjs/marked/commit/8f806573a3f6c6b7a39b8cdb66ab5ebb8d55a5f5,,,,ae01170085e89ccd85c233547011eb88420a90cf,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2023-4316,zod,^4.3.6,Medium,False,,0.00144,0.34271,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2024-10491,express,^5.2.1,Medium,False,,0.00253,0.48528,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2024-29041,express,^5.2.1,Medium,False,,0.00154,0.35758,no,,https://github.com/expressjs/express/commit/0867302ddbde0e9463d0564fea5861feb708c2dd | https://github.com/expressjs/express/commit/0b746953c4bd8e377123527db11f9cd866e39f94 | https://github.com/expressjs/express/pull/5539,,https://github.com/expressjs/express/commit/0867302ddbde0e9463d0564fea5861feb708c2dd | https://github.com/expressjs/express/commit/0b746953c4bd8e377123527db11f9cd866e39f94 | https://github.com/expressjs/express/pull/5539,,,9375a9afa9d7baa814b454c7a6818a7471aaef00 | 4052c15c7f10b79fb7c54f3837ffe118f7a99811,084e36506a18774f85206a65d8da04dc1107fc1b | cd7d79f92a7209b09aa9b065b0643c1bec55ed1d,,,
+CVE-2024-43796,express,^5.2.1,Low,False,,0.00123,0.31008,no,,https://github.com/expressjs/express/commit/54271f69b511fea198471e6ff3400ab805d6b553,,https://github.com/expressjs/express/commit/54271f69b511fea198471e6ff3400ab805d6b553,,,4052c15c7f10b79fb7c54f3837ffe118f7a99811,21df421ebc7a5249bb31101da666bbf22adc3f18 | 344b022fc7ed95cf07b46e097935e61151fd585f,4.7,CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2024-45801,dompurify,^3.3.3,High,False,,0.00071,0.21451,no,,https://github.com/cure53/DOMPurify/commit/1e520262bf4c66b5efda49e2316d6d1246ca7b21 | https://github.com/cure53/DOMPurify/commit/26e1d69ca7f769f5c558619d644d90dd8bf26ebc,,https://github.com/cure53/DOMPurify/commit/1e520262bf4c66b5efda49e2316d6d1246ca7b21 | https://github.com/cure53/DOMPurify/commit/26e1d69ca7f769f5c558619d644d90dd8bf26ebc,,,5dcf2a012c70ea8b65c0ecff7de86a61d7d98181,10c12610b15875ea09129c35fca28a886857434f | 3fe78d7501103832166613bb1452985dd4674008,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2024-47875,dompurify,^3.3.3,High,False,,0.00719,0.72539,no,,https://github.com/cure53/DOMPurify/commit/0ef5e537a514f904b6aa1d7ad9e749e365d7185f | https://github.com/cure53/DOMPurify/commit/6ea80cd8b47640c20f2f230c7920b1f4ce4fdf7a,,https://github.com/cure53/DOMPurify/commit/0ef5e537a514f904b6aa1d7ad9e749e365d7185f | https://github.com/cure53/DOMPurify/commit/6ea80cd8b47640c20f2f230c7920b1f4ce4fdf7a,,,5dcf2a012c70ea8b65c0ecff7de86a61d7d98181,3fe78d7501103832166613bb1452985dd4674008,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2024-48910,dompurify,^3.3.3,Critical,False,,0.02592,0.85655,no,,https://github.com/cure53/DOMPurify/commit/d1dd0374caef2b4c56c3bd09fe1988c3479166dc,,https://github.com/cure53/DOMPurify/commit/d1dd0374caef2b4c56c3bd09fe1988c3479166dc,,,,f1e180fcccc2766a10b7a88ee133cd4d1d8e44e5,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2025-26791,dompurify,^3.3.3,Medium,False,,0.00111,0.29102,no,,https://github.com/cure53/DOMPurify/commit/d18ffcb554e0001748865da03ac75dd7829f0f02,,https://github.com/cure53/DOMPurify/commit/d18ffcb554e0001748865da03ac75dd7829f0f02,,,,ec29e65f3675077c1a78e6edcab97f797f004a2e | d18ffcb554e0001748865da03ac75dd7829f0f02,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2025-59288,playwright,^1.59.1,High,False,,0.00028,0.0783,no,,,,,,,,ae51df7a35888f663553ab4e9c45d6cb6335397f,,,
+CVE-2025-62718,axios,1.13.6,Medium,False,,0.00035,0.10362,no,,,,,,,,,9.9,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:L,3.1
+CVE-2025-69873,ajv,^8.18.0,Medium,False,,0.00015,0.0304,no,,https://github.com/ajv-validator/ajv/pull/2588 | https://github.com/ajv-validator/ajv/pull/2590 | https://github.com/github/advisory-database/pull/6991,,https://github.com/ajv-validator/ajv/pull/2588 | https://github.com/ajv-validator/ajv/pull/2590 | https://github.com/github/advisory-database/pull/6991,,GHSA-2g4f-4pwh-qvx6,,142ce84b807c4fe66e619c22480a28d0e4bd50fa | e3af0a723b4b7ad86eff43be355c706d31e0e915,,,
+CVE-2026-32256,music-metadata,^11.12.3,High,False,,0.0002,0.05702,no,,,,,,,,894a9e83668aedd85a430f3a5ef4e025e107645d,,,
+CVE-2026-39363,vite,8.0.3,High,False,,0.02326,0.84881,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,3.1
+CVE-2026-39364,vite,8.0.3,High,False,,0.03614,0.87829,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,3.1
+CVE-2026-39365,vite,8.0.3,Medium,False,,0.01151,0.78591,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,3.1
+CVE-2026-39406,@hono/node-server,1.19.10,Medium,False,,0.00018,0.04642,no,,,,,,,,,,,
+CVE-2026-39407,hono,4.12.10,Medium,False,,0.0002,0.05451,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,3.1
+CVE-2026-39408,hono,4.12.10,Medium,False,,0.00015,0.02911,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,3.1
+CVE-2026-39409,hono,4.12.10,Medium,False,,0.00012,0.01886,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,3.1
+CVE-2026-39410,hono,4.12.10,Medium,False,,0.00028,0.07771,no,,,,,,,,,,,
+CVE-2026-39983,basic-ftp,5.2.0,High,False,,0.01844,0.83052,no,,,,,,,,,,,
+CVE-2026-40175,axios,1.13.6,Medium,False,,0.00028,0.07855,no,,,,,,,,,4.8,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:L/I:L/A:N,3.1
+CVE-2026-41238,dompurify,3.3.3,Medium,False,,0.00036,0.10554,no,,,,,,,,,,,
+CVE-2026-41239,dompurify,3.3.3,Medium,False,,0.00054,0.16697,no,,,,,,,,,,,
+CVE-2026-41240,dompurify,3.3.3,Medium,False,,0.00036,0.1045,no,,,,,,,,,6.1,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,3.1
+CVE-2026-41242,protobufjs,6.8.8,Critical,False,,0.00061,0.18871,no,,,,,,,,,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-41305,postcss,8.5.8,Medium,False,,0.00031,0.09044,no,,,,,,,,,,,
+CVE-2026-41324,basic-ftp,5.2.0,High,False,,0.00055,0.17041,no,,,,,,,,,,,
+CVE-2026-41650,fast-xml-parser,5.5.7,Medium,False,,,,no,,,,,,,,,,,
+CVE-2026-41686,@anthropic-ai/sdk,0.81.0,Medium,False,,,,no,,,,,,,,,,,

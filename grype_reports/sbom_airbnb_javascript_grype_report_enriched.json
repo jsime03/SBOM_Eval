@@ -1,0 +1,24 @@
+[
+  {
+    "cve": "CVE-2025-27789",
+    "package": "@babel/runtime",
+    "version": "^7.25.6",
+    "severity": "Medium",
+    "kev": false,
+    "kev_date_added": null,
+    "epss": 0.00082,
+    "epss_percentile": 0.23741,
+    "exploitdb": "no",
+    "exploitdb_ids": "",
+    "commit_links": "https://github.com/babel/babel/pull/17173",
+    "patch_links": "",
+    "fix_commits": "https://github.com/babel/babel/pull/17173",
+    "repo_urls": "",
+    "ghsa_ids": "",
+    "introduced_versions": "bdbaca37bf5ec7fb879e729b39d48673f45842f3",
+    "fixed_versions": "e1ce99df422971175249509e7bbc2b327b8f7957 | 786b4357423fb650084503352648af44c8ffc409",
+    "cvss_base": null,
+    "cvss_vector": null,
+    "cvss_version": null
+  }
+]

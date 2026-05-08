@@ -1,0 +1,14 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2026-22815,aiohttp,3.13.3,Medium,False,,0.00052,0.16369,no,,,,,,,,,,,
+CVE-2026-33699,pypdf,6.9.1,Medium,False,,0.00016,0.03513,no,,https://github.com/py-pdf/pypdf/pull/3693,,https://github.com/py-pdf/pypdf/pull/3693,,,,da867f4961e4ac5ac9d751cba3131c5a1a8777f3,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2026-34513,aiohttp,3.13.3,Low,False,,0.00052,0.16369,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2026-34514,aiohttp,3.13.3,Low,False,,0.00039,0.1181,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-34515,aiohttp,3.13.3,Medium,False,,0.00061,0.18942,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,3.1
+CVE-2026-34516,aiohttp,3.13.3,Medium,False,,0.00052,0.16369,no,,,,,,,,,,,
+CVE-2026-34517,aiohttp,3.13.3,Low,False,,0.00051,0.15796,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L,3.1
+CVE-2026-34518,aiohttp,3.13.3,Low,False,,0.00038,0.11337,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,3.1
+CVE-2026-34519,aiohttp,3.13.3,Low,False,,0.00039,0.1181,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-34520,aiohttp,3.13.3,Low,False,,0.00057,0.17948,no,,,,,,,,,,,
+CVE-2026-34525,aiohttp,3.13.3,Medium,False,,0.00119,0.3086,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-40192,pillow,12.1.1,High,False,,0.00018,0.04594,no,,,,,,,,,,,
+CVE-2026-40260,pypdf,6.9.1,Medium,False,,0.00016,0.03496,no,,,,,,,,,,,

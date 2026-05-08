@@ -1,0 +1,2 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2025-27789,@babel/runtime,^7.25.6,Medium,False,,0.00082,0.23741,no,,https://github.com/babel/babel/pull/17173,,https://github.com/babel/babel/pull/17173,,,bdbaca37bf5ec7fb879e729b39d48673f45842f3,e1ce99df422971175249509e7bbc2b327b8f7957 | 786b4357423fb650084503352648af44c8ffc409,,,
