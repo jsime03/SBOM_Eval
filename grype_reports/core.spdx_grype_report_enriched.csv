@@ -1,0 +1,5 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2025-71176,pytest,9.0.0,Medium,False,,6e-05,0.0041,no,,,,,,,,,,,
+CVE-2026-32597,pyjwt,2.10.1,High,False,,0.0001,0.01126,no,,,,,,,,bd9700cca7f9258fadcc429c1034e508025931f2,,,
+CVE-2026-39892,cryptography,46.0.6,Medium,False,,0.00021,0.05897,no,,,,,,,,,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-40192,pillow,12.1.1,High,False,,0.00018,0.04594,no,,,,,,,,,,,

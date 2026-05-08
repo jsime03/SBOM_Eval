@@ -1,0 +1,7 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2025-71176,pytest,8.4.2,Medium,False,,6e-05,0.0041,no,,,,,,,,,,,
+CVE-2025-8869,pip,24.0,Medium,False,,0.00022,0.05945,no,,https://github.com/pypa/pip/pull/13550,,https://github.com/pypa/pip/pull/13550,,,,,,,
+CVE-2026-1703,pip,24.0,Low,False,,0.00026,0.07184,no,,https://github.com/pypa/pip/pull/13777 | https://github.com/pypa/pip/commit/8e227a9be4faa9594e05d02ca05a413a2a4e7735,,https://github.com/pypa/pip/pull/13777 | https://github.com/pypa/pip/commit/8e227a9be4faa9594e05d02ca05a413a2a4e7735,,,,8e227a9be4faa9594e05d02ca05a413a2a4e7735,,,
+CVE-2026-34073,cryptography,46.0.5,Low,False,,9e-05,0.0084,no,,,,,,,,91d728897bdad30cd5c79a2b23e207f1f050d587,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-39892,cryptography,46.0.5,Medium,False,,0.00021,0.05897,no,,,,,,,,,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-4539,pygments,2.19.2,Low,False,,6e-05,0.00441,no,,,,,,,,,,,

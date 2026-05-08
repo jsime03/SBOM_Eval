@@ -1,0 +1,22 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2020-15250,junit,4.11,Medium,False,,0.00056,0.1748,no,,https://github.com/junit-team/junit4/commit/610155b8c22138329f0723eec22521627dbc52ae,,https://github.com/junit-team/junit4/commit/610155b8c22138329f0723eec22521627dbc52ae,,,a8629da96207e1ce71ead9ba9f85bc324f09bcab,1b683f4ec07bcfa40149f086d32240f805487e66 | 610155b8c22138329f0723eec22521627dbc52ae,5.5,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N,3.1
+CVE-2024-23342,ecdsa,0.19.1,High,False,,0.00622,0.70122,no,,,,,,,,,7.4,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:N,3.1
+CVE-2025-69872,diskcache,5.6.3,Medium,False,,0.00041,0.12495,no,,,,,,,,,,,
+CVE-2025-71176,pytest,9.0.2,Medium,False,,6e-05,0.0041,no,,,,,,,,,,,
+CVE-2026-23869,react-server-dom-webpack,19.2.4,High,False,,0.00688,0.7176,no,,,,,,,,,,,
+CVE-2026-27140,stdlib,go1.26.1,High,False,,0.00014,0.02746,no,,,,,,,,,,,
+CVE-2026-27143,stdlib,go1.26.1,Critical,False,,0.00018,0.04556,no,,,,,,,,,,,
+CVE-2026-27144,stdlib,go1.26.1,High,False,,6e-05,0.00313,no,,,,,,,,,,,
+CVE-2026-32280,stdlib,go1.26.1,High,False,,0.00017,0.04387,no,,,,,,,,,,,
+CVE-2026-32281,stdlib,go1.26.1,High,False,,0.00018,0.04595,no,,,,,,,,,,,
+CVE-2026-32282,stdlib,go1.26.1,Medium,False,,8e-05,0.0081,no,,,,,,,,,,,
+CVE-2026-32283,stdlib,go1.26.1,High,False,,0.00017,0.04249,no,,,,,,,,,,,
+CVE-2026-32288,stdlib,go1.26.1,Medium,False,,4e-05,0.00173,no,,,,,,,,,,,
+CVE-2026-32289,stdlib,go1.26.1,Medium,False,,0.0001,0.01189,no,,,,,,,,,,,
+CVE-2026-33810,stdlib,go1.26.1,High,False,,0.00011,0.01389,no,,,,,,,,,,,
+CVE-2026-33936,ecdsa,0.19.1,Medium,False,,0.00036,0.10743,no,,https://github.com/tlsfuzzer/python-ecdsa/commit/bd66899550d7185939bf27b75713a2ac9325a9d3,,https://github.com/tlsfuzzer/python-ecdsa/commit/bd66899550d7185939bf27b75713a2ac9325a9d3,,,,bd66899550d7185939bf27b75713a2ac9325a9d3,,,
+CVE-2026-35029,litellm,1.82.6,High,False,,0.00192,0.41125,no,,,,,,,,,8.8,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-35030,litellm,1.82.6,Critical,False,,0.00113,0.29791,no,,,,,,,,,,,
+CVE-2026-39892,cryptography,46.0.6,Medium,False,,0.00021,0.05897,no,,,,,,,,,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-40192,pillow,12.1.1,High,False,,0.00018,0.04594,no,,,,,,,,,,,
+CVE-2026-40260,pypdf,6.9.2,Medium,False,,0.00016,0.03496,no,,,,,,,,,,,

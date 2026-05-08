@@ -1,0 +1,7 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2025-12343,ffmpeg,8.0.1,Medium,False,,4e-05,0.00154,no,,,,,,,47ac3e60653da651dfa064b649d0ac297560d8d5,638b521c7b09e00514aa13ade43c389b4b40ddfd,,,
+CVE-2025-22921,ffmpeg,8.0.1,Medium,False,,0.0012,0.30888,no,,,,,,,,,,,
+CVE-2025-69693,ffmpeg,8.0.1,Medium,False,,0.00016,0.0365,no,,https://github.com/FFmpeg/FFmpeg/commit/8abeb879df66ea8d27ce1735925ced5a30813de4,,https://github.com/FFmpeg/FFmpeg/commit/8abeb879df66ea8d27ce1735925ced5a30813de4,,,,8abeb879df66ea8d27ce1735925ced5a30813de4 | 140fd653aed8cad774f991ba083e2d01e86420c7 | 894da5ca7d742e4429ffb2af534fcda0103ef593,,,
+CVE-2025-8869,pip,24.0,Medium,False,,0.00022,0.05945,no,,https://github.com/pypa/pip/pull/13550,,https://github.com/pypa/pip/pull/13550,,,,,,,
+CVE-2026-1703,pip,24.0,Low,False,,0.00026,0.07184,no,,https://github.com/pypa/pip/pull/13777 | https://github.com/pypa/pip/commit/8e227a9be4faa9594e05d02ca05a413a2a4e7735,,https://github.com/pypa/pip/pull/13777 | https://github.com/pypa/pip/commit/8e227a9be4faa9594e05d02ca05a413a2a4e7735,,,,8e227a9be4faa9594e05d02ca05a413a2a4e7735,,,
+CVE-2026-40962,ffmpeg,8.0.1,Critical,False,,8e-05,0.00728,no,,,,,,,,,,,
