@@ -68,6 +68,7 @@ repos/
 
 
 # Workflow
+```
 1. Clone this repo
 2. Clone validation repo in the same dir as SBOM_Eval https://github.com/damaoooo/validation?tab=readme-ov-file#usage-examples 
     NOTE: generate_data.py uses some of the functions from the validation repo, and you will have to make the following change in the sbom.py file of the validation repo if you want to run generate_data.py:
@@ -77,7 +78,7 @@ repos/
     NOTE: You must add your github token to .env before you run add_repos.sh.
 5. Run build_repos.sh
 6. Run generate_data.py
-
+```
 
 # List of Repos evaluated:
 ## javascript/typescript
