@@ -76,9 +76,8 @@ repos/
 
 
 # List of Repos evaluated:
+## javascript/typescript
 ```
-## javascript:
-
 30-seconds-of-code
 GitNexus
 ant-design
@@ -106,9 +105,11 @@ three.js
 ui
 vscode
 vue
+```
 
 ## Python:
 
+```
 AstrBot
 ComfyUI
 Deep-Live-Cam
