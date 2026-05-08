@@ -75,3 +75,65 @@ repos/
 5. Run generate_data.py to generate grype reports, cve_bin_tool reports, post build sboms and a csv that compares each sboms differences with eachother.
 
 
+# List of Repos evaluated:
+```
+## javascript:
+
+30-seconds-of-code
+GitNexus
+ant-design
+axios
+chromecasts
+cline
+developer-roadmap
+dify
+docusaurus
+echarts
+eslint-plugin-graphql
+everything-claude-code
+excalidraw
+immich
+iptv
+javascript
+material-ui
+n8n
+openclaw
+page-agent
+promptfoo
+react
+supermemory
+three.js
+ui
+vscode
+vue
+
+## Python:
+
+AstrBot
+ComfyUI
+Deep-Live-Cam
+LlamaFactory
+Python
+ai-hedge-fund
+ansible
+awesome-llm-apps
+browser-use
+code-graph-rag
+core
+django
+fast-graphrag
+fastapi
+flask
+gpt4free
+manim
+mindsdb
+newton
+sherlock
+spec-kit
+system-design-primer
+transformers
+whisper
+yt-dlp
+
+```
+
