@@ -3,7 +3,8 @@
 
 
 # Set REPO__DIR to your repos directory
-REPO_DIR=""
+BASE_DIR="$(cd "$(dirname "$0")" && pwd)"
+REPO_DIR="$BASE_DIR/repos"
 
 build_python() {
     local repo="$1"
