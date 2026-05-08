@@ -2,11 +2,12 @@
   {
     "cve": "CVE-2021-45710",
     "package": "tokio",
+    "version": "0.2.25",
     "severity": "High",
     "kev": false,
     "kev_date_added": null,
     "epss": 0.00194,
-    "epss_percentile": 0.41356,
+    "epss_percentile": 0.41287,
     "exploitdb": "no",
     "exploitdb_ids": "",
     "commit_links": "",

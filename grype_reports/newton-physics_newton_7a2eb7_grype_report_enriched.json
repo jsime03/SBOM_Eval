@@ -1,0 +1,24 @@
+[
+  {
+    "cve": "CVE-2026-40192",
+    "package": "pillow",
+    "version": "12.1.1",
+    "severity": "High",
+    "kev": false,
+    "kev_date_added": null,
+    "epss": 0.00018,
+    "epss_percentile": 0.04594,
+    "exploitdb": "no",
+    "exploitdb_ids": "",
+    "commit_links": "",
+    "patch_links": "",
+    "fix_commits": "",
+    "repo_urls": "",
+    "ghsa_ids": "",
+    "introduced_versions": "",
+    "fixed_versions": "",
+    "cvss_base": null,
+    "cvss_vector": null,
+    "cvss_version": null
+  }
+]

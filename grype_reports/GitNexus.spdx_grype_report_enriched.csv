@@ -1,0 +1,31 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2025-13465,lodash-es,4.17.21,Medium,False,,0.00029,0.08421,no,,,,,,,d35a9c40beb594d09814ba7f7673b81d4d67a816,835a537f36ee2fd5fb7f524e213ff9ba2d8698f8,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2025-62718,axios,1.13.2,Medium,False,,0.00041,0.12512,no,,,,,,,,,9.9,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:L,3.1
+CVE-2025-71176,pytest,9.0.2,Medium,False,,6e-05,0.0041,no,,,,,,,,,,,
+CVE-2026-22815,aiohttp,3.13.3,Medium,False,,0.00052,0.16369,no,,,,,,,,,,,
+CVE-2026-25639,axios,1.13.2,High,False,,0.00051,0.1578,no,,https://github.com/axios/axios/commit/28c721588c7a77e7503d0a434e016f852c597b57 | https://github.com/axios/axios/commit/d7ff1409c68168d3057fc3891f911b2b92616f9e | https://github.com/axios/axios/pull/7369 | https://github.com/axios/axios/pull/7388,,https://github.com/axios/axios/commit/28c721588c7a77e7503d0a434e016f852c597b57 | https://github.com/axios/axios/commit/d7ff1409c68168d3057fc3891f911b2b92616f9e | https://github.com/axios/axios/pull/7369 | https://github.com/axios/axios/pull/7388,,,484aa4fe6addccbd32206a31eb3d2d000843066e,29f75425f0c9f73021f5eedc869c176e30e05fe7 | f53bcf6c3747652c9d3811dc0bbcd3674e21567a,,,
+CVE-2026-25645,requests,2.32.5,Medium,False,,4e-05,0.00197,no,,https://github.com/psf/requests/commit/66d21cb07bd6255b1280291c4fafb71803cdb3b7,,https://github.com/psf/requests/commit/66d21cb07bd6255b1280291c4fafb71803cdb3b7,,,,bc04dfd6dad4cb02cd92f5daa81eb562d280a761,5.5,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N,3.1
+CVE-2026-27606,rollup,4.55.1,High,False,,0.00381,0.59564,no,,https://github.com/rollup/rollup/commit/c60770d7aaf750e512c1b2774989ea4596e660b2 | https://github.com/rollup/rollup/commit/c8cf1f9c48c516285758c1e11f08a54f304fd44e | https://github.com/rollup/rollup/commit/d6dee5e99bb82aac0bee1df4ab9efbde455452c3,,https://github.com/rollup/rollup/commit/c60770d7aaf750e512c1b2774989ea4596e660b2 | https://github.com/rollup/rollup/commit/c8cf1f9c48c516285758c1e11f08a54f304fd44e | https://github.com/rollup/rollup/commit/d6dee5e99bb82aac0bee1df4ab9efbde455452c3,,,d1a825a74af094260d76e01a3c1a8633bf2139a2 | 2f261358c62b4f9e62cb86bf99de8d4ff3668994,d17ae15336a45c3c59b2a4aacac2b14186035d28 | d91d5e11becc2f16d3a493231fb5bf48f74758a9 | ae846957f109690a866cc3e4c073613c338d3476,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-2950,lodash-es,4.17.21,Medium,False,,0.00023,0.06255,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-34513,aiohttp,3.13.3,Low,False,,0.00052,0.16369,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2026-34514,aiohttp,3.13.3,Low,False,,0.00039,0.1181,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-34515,aiohttp,3.13.3,Medium,False,,0.00061,0.18942,no,,,,,,,,,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,3.1
+CVE-2026-34516,aiohttp,3.13.3,Medium,False,,0.00052,0.16369,no,,,,,,,,,,,
+CVE-2026-34517,aiohttp,3.13.3,Low,False,,0.00051,0.15796,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L,3.1
+CVE-2026-34518,aiohttp,3.13.3,Low,False,,0.00038,0.11337,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,3.1
+CVE-2026-34519,aiohttp,3.13.3,Low,False,,0.00039,0.1181,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-34520,aiohttp,3.13.3,Low,False,,0.00057,0.17948,no,,,,,,,,,,,
+CVE-2026-34525,aiohttp,3.13.3,Medium,False,,0.00119,0.3086,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N,3.1
+CVE-2026-35029,litellm,1.82.6,High,False,,0.00192,0.41125,no,,,,,,,,,8.8,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,3.1
+CVE-2026-35030,litellm,1.82.6,Critical,False,,0.00113,0.29791,no,,,,,,,,,,,
+CVE-2026-39365,vite,5.4.21,Medium,False,,0.01151,0.78522,no,,,,,,,,,5.3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,3.1
+CVE-2026-39406,@hono/node-server,1.19.11,Medium,False,,0.00017,0.04062,no,,,,,,,,,,,
+CVE-2026-39407,hono,4.12.9,Medium,False,,0.00023,0.06234,no,,,,,,,,,,,
+CVE-2026-39408,hono,4.12.9,Medium,False,,0.00011,0.01407,no,,,,,,,,,,,
+CVE-2026-39409,hono,4.12.9,Medium,False,,0.00017,0.0421,no,,,,,,,,,,,
+CVE-2026-39410,hono,4.12.9,Medium,False,,0.00014,0.02785,no,,,,,,,,,,,
+CVE-2026-40175,axios,1.13.2,Medium,False,,0.00045,0.13652,no,,,,,,,,,,,
+CVE-2026-40190,langsmith,0.4.7,Medium,False,,0.00052,0.16397,no,,,,,,,,,,,
+CVE-2026-41242,protobufjs,7.5.4,Critical,False,,0.0005,0.15491,no,,,,,,,,,,,
+CVE-2026-4539,pygments,2.19.2,Low,False,,6e-05,0.00441,no,,,,,,,,,,,
+CVE-2026-4800,lodash-es,4.17.21,High,False,,0.00037,0.11017,no,,,,,,,,,9.8,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,3.1

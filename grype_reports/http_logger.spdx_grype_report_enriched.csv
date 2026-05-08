@@ -1,0 +1,2 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2026-35611,addressable,2.8.9,High,False,,0.00058,0.18213,no,,,,,,,,,,,

@@ -1,0 +1,14 @@
+cve,package,version,severity,kev,kev_date_added,epss,epss_percentile,exploitdb,exploitdb_ids,commit_links,patch_links,fix_commits,repo_urls,ghsa_ids,introduced_versions,fixed_versions,cvss_base,cvss_vector,cvss_version
+CVE-2025-12343,ffmpeg,8.0,Medium,False,,4e-05,0.00154,no,,,,,,,47ac3e60653da651dfa064b649d0ac297560d8d5,638b521c7b09e00514aa13ade43c389b4b40ddfd,,,
+CVE-2025-22921,ffmpeg,8.0,Medium,False,,0.0012,0.30888,no,,,,,,,,,,,
+CVE-2025-63757,ffmpeg,8.0,High,False,,0.00085,0.24537,no,,,,,,,,,,,
+CVE-2025-69693,ffmpeg,8.0,Medium,False,,0.00016,0.0365,no,,https://github.com/FFmpeg/FFmpeg/commit/8abeb879df66ea8d27ce1735925ced5a30813de4,,https://github.com/FFmpeg/FFmpeg/commit/8abeb879df66ea8d27ce1735925ced5a30813de4,,,,8abeb879df66ea8d27ce1735925ced5a30813de4 | 140fd653aed8cad774f991ba083e2d01e86420c7 | 894da5ca7d742e4429ffb2af534fcda0103ef593,,,
+CVE-2025-8869,pip,24.0,Medium,False,,0.00022,0.05945,no,,https://github.com/pypa/pip/pull/13550,,https://github.com/pypa/pip/pull/13550,,,,,,,
+CVE-2026-1703,pip,24.0,Low,False,,0.00026,0.07184,no,,https://github.com/pypa/pip/pull/13777 | https://github.com/pypa/pip/commit/8e227a9be4faa9594e05d02ca05a413a2a4e7735,,https://github.com/pypa/pip/pull/13777 | https://github.com/pypa/pip/commit/8e227a9be4faa9594e05d02ca05a413a2a4e7735,,,,8e227a9be4faa9594e05d02ca05a413a2a4e7735,,,
+CVE-2026-25990,pillow,11.3.0,High,False,,0.00019,0.05161,no,,https://github.com/python-pillow/Pillow/commit/9000313cc5d4a31bdcdd6d7f0781101abab553aa,,https://github.com/python-pillow/Pillow/commit/9000313cc5d4a31bdcdd6d7f0781101abab553aa,,,5c89d88eee199ba53f64581ea39b6a1bc52feb1a,5158d98c807e719c5938aa3886913ef0ea6814e9,7.5,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,3.1
+CVE-2026-27167,gradio,5.50.0,Low,False,,0.00028,0.07877,no,,,,,,,138761226a8070fb18d4f34c757b78d51e1c6101,89841593255f57cbb19da099b6e753110b1b99af,5.9,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N,3.1
+CVE-2026-28414,gradio,5.50.0,High,False,,0.04108,0.88617,no,,,,,,,,8b03393a51e1e03fb04cb0a41b9a5dc3266a58aa,,,
+CVE-2026-28415,gradio,5.50.0,Medium,False,,0.00011,0.01491,no,,,,,,,,89841593255f57cbb19da099b6e753110b1b99af,4.7,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:N/I:L/A:N,3.1
+CVE-2026-28416,gradio,5.50.0,High,False,,0.00017,0.04213,no,,,,,,,,89841593255f57cbb19da099b6e753110b1b99af,8.6,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N,3.1
+CVE-2026-40192,pillow,11.3.0,High,False,,0.00018,0.04594,no,,,,,,,,,,,
+CVE-2026-40962,ffmpeg,8.0,Critical,False,,8e-05,0.00728,no,,,,,,,,,,,

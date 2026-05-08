@@ -1,0 +1,24 @@
+[
+  {
+    "cve": "CVE-2026-35611",
+    "package": "addressable",
+    "version": "2.8.9",
+    "severity": "High",
+    "kev": false,
+    "kev_date_added": null,
+    "epss": 0.00058,
+    "epss_percentile": 0.18213,
+    "exploitdb": "no",
+    "exploitdb_ids": "",
+    "commit_links": "",
+    "patch_links": "",
+    "fix_commits": "",
+    "repo_urls": "",
+    "ghsa_ids": "",
+    "introduced_versions": "",
+    "fixed_versions": "",
+    "cvss_base": null,
+    "cvss_vector": null,
+    "cvss_version": null
+  }
+]
