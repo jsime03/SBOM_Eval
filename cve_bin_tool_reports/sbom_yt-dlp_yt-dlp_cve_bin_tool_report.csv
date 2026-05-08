@@ -1,0 +1,2 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+pypa,pip,26.0.1,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2018-20225,HIGH,7.8,NVD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,

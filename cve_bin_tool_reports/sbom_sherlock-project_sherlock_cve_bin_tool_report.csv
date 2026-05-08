@@ -1,0 +1,9 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,requests,^ 2.22.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/requests,CVE-2023-32681,MEDIUM,6.1,NVD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:N/A:N,,NewFound,
+unknown,requests,^ 2.22.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/requests,CVE-2024-35195,MEDIUM,5.6,GAD,3,CVSS:3.1/AV:L/AC:H/PR:H/UI:R/S:U/C:H/I:H/A:N,,NewFound,
+unknown,requests,^ 2.22.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/requests,CVE-2024-47081,UNKNOWN,unknown,NVD,unknown,unknown,,NewFound,
+python,requests,^ 2.22.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/requests,CVE-2023-32681,MEDIUM,6.1,NVD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:N/A:N,,NewFound,
+unknown,certifi,>= 2019.6.16,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/certifi,CVE-2022-23491,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N,,NewFound,
+unknown,certifi,>= 2019.6.16,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/certifi,CVE-2023-37920,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+certifi,certifi,>= 2019.6.16,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/certifi,CVE-2022-23491,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N,,NewFound,
+certifi,certifi,>= 2019.6.16,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/certifi,CVE-2023-37920,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,

@@ -1,0 +1,2 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,curl-cffi,>= 0.6.2,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/cffi,GHSA-3vpc-4p9p-47hc,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
