@@ -1,0 +1,5 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,lodash.template,4.5.0,NotFound,CVE-2021-23337,HIGH,7.2,GAD,3,CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,nanoid,3.3.7,NotFound,CVE-2024-55565,MEDIUM,4.3,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N,,NewFound,
+unknown,serialize-javascript,6.0.1,NotFound,CVE-2024-11831,MEDIUM,5.4,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N,,NewFound,
+unknown,serialize-javascript,6.0.1,NotFound,GHSA-5c6j-r48x-rmvq,HIGH,8.1,GAD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
