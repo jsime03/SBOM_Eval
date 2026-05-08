@@ -1,0 +1,4 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,brace-expansion,1.1.14,NotFound,CVE-2026-25547,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,brace-expansion,1.1.14,NotFound,GHSA-7h2j-956f-4vf2,HIGH,8.6,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H,,NewFound,
+unknown,eslint,8.57.1,NotFound,CVE-2025-50537,MEDIUM,5.5,GAD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H,,NewFound,

@@ -1,0 +1,13 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+nim-lang,docutils,0.18.1,NotFound,CVE-2022-23602,HIGH,8.1,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N,,NewFound,
+pyyaml,pyyaml,>= 5.1,NotFound,CVE-2019-20477,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+pyyaml,pyyaml,>= 5.1,NotFound,CVE-2020-14343,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+pyyaml,pyyaml,>= 5.1,NotFound,CVE-2020-1747,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,bcrypt,< 5,NotFound,CVE-2020-7689,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N,,NewFound,
+unknown,mock,>= 2.0.0,NotFound,CVE-2026-24132,CRITICAL,9.8,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,setuptools,> 0.6,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/setuptools,CVE-2013-1633,HIGH,8.3,GAD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:H/I:H/A:H,,NewFound,
+unknown,setuptools,> 0.6,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/setuptools,CVE-2022-40897,MEDIUM,5.9,GAD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,setuptools,> 0.6,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/setuptools,CVE-2024-6345,HIGH,8.8,GAD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+unknown,setuptools,> 0.6,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/setuptools,CVE-2025-47273,HIGH,8.8,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+python,setuptools,> 0.6,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/setuptools,CVE-2022-40897,MEDIUM,5.9,GAD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+python,setuptools,> 0.6,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/setuptools,CVE-2025-47273,HIGH,8.8,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,,NewFound,

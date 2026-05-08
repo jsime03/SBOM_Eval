@@ -1,0 +1,9 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,brace-expansion,1.1.12,NotFound,CVE-2026-25547,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,brace-expansion,1.1.12,NotFound,GHSA-7h2j-956f-4vf2,HIGH,8.6,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H,,NewFound,
+unknown,brace-expansion,2.0.2,NotFound,CVE-2026-25547,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,brace-expansion,2.0.2,NotFound,GHSA-7h2j-956f-4vf2,HIGH,8.6,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H,,NewFound,
+unknown,process,0.11.10,NotFound,CVE-2024-51736,NONE,unknown,GAD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:N,,NewFound,
+unknown,process,0.11.10,NotFound,CVE-2026-24739,MEDIUM,6.3,GAD,3,CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:N/I:H/A:H,,NewFound,
+unknown,process,0.11.10,NotFound,GMS-2023-164,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+unknown,validator,13.15.23,NotFound,CVE-2025-15104,MEDIUM,5.3,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N,,NewFound,

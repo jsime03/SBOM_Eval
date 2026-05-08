@@ -1,0 +1,12 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,gradio,5.50.0,NotFound,CVE-2023-6572,HIGH,8.1,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N,,NewFound,
+gradio_project,gradio,5.50.0,NotFound,CVE-2024-1540,HIGH,8.2,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N,,NewFound,
+unknown,groovy,0.1.2,NotFound,CVE-2019-1003006,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,groovy,0.1.2,NotFound,CVE-2019-1003033,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,groovy,0.1.2,NotFound,CVE-2022-43402,CRITICAL,9.9,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H,,NewFound,
+jenkins,groovy,0.1.2,NotFound,CVE-2019-1003006,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+jenkins,groovy,0.1.2,NotFound,CVE-2019-1003033,HIGH,8.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,pip,24.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2025-8869,MEDIUM,6.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:N,,NewFound,
+unknown,pip,24.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2026-1703,LOW,3.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:N,,NewFound,
+pypa,pip,24.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2018-20225,HIGH,7.8,NVD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+triton_project,triton,3.6.0,NotFound,CVE-2023-30859,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,

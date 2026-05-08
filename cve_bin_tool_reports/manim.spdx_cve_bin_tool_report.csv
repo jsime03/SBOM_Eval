@@ -1,0 +1,7 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,diskcache,5.6.3,NotFound,CVE-2025-69872,HIGH,7.3,GAD,3,CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+unknown,pip,24.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2025-8869,MEDIUM,6.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:N,,NewFound,
+unknown,pip,24.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2026-1703,LOW,3.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:N/I:L/A:N,,NewFound,
+pypa,pip,24.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/pip,CVE-2018-20225,HIGH,7.8,NVD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H,,NewFound,
+sphinxsearch,sphinx,3.0.3,NotFound,CVE-2020-29050,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N,,NewFound,
+unknown,validators,0.35.0,NotFound,CVE-2021-3794,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,

@@ -1,0 +1,12 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,tar,^7.5.2,/usr/bin/tar,CVE-2026-23745,MEDIUM,6.1,GAD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N,,NewFound,
+unknown,tar,^7.5.2,/usr/bin/tar,CVE-2026-23950,HIGH,8.8,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:H/A:L,,NewFound,
+unknown,tar,^7.5.2,/usr/bin/tar,CVE-2026-24842,HIGH,8.2,REDHAT,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:L/A:N,,NewFound,
+unknown,tar,^7.5.2,/usr/bin/tar,CVE-2026-26960,HIGH,7.1,GAD,3,CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N,,NewFound,
+unknown,lodash,^4.17.21,NotFound,CVE-2025-13465,HIGH,8.2,REDHAT,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:H,,NewFound,
+unknown,ajv,^8.17.1,NotFound,CVE-2025-69873,LOW,2.9,GAD,3,CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L,,NewFound,
+unknown,sharp,^0.34.5,NotFound,CVE-2025-61457,MEDIUM,6.1,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N,,NewFound,
+unknown,sharp,^0.34.5,NotFound,CVE-2025-62798,MEDIUM,5.4,GAD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:C/C:L/I:L/A:N,,NewFound,
+unknown,axios,^1.13.2,NotFound,CVE-2026-25639,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,webpack,^5.103.0,NotFound,CVE-2025-68157,LOW,3.7,GAD,3,CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:N,,NewFound,
+unknown,webpack,^5.103.0,NotFound,CVE-2025-68458,LOW,3.7,GAD,3,CVSS:3.1/AV:N/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:N,,NewFound,

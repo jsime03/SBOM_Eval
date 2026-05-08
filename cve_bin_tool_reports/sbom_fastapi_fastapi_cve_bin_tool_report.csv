@@ -1,0 +1,10 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+rustcrypto,rsa,4.9.1,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/rsa,CVE-2023-49092,MEDIUM,5.9,NVD,3,CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:N/A:N,,NewFound,
+unknown,jmespath,1.1.0,NotFound,CVE-2022-32511,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+jmespath_project,jmespath,1.1.0,NotFound,CVE-2022-32511,CRITICAL,9.8,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+nim-lang,docutils,0.22.4,NotFound,CVE-2022-23602,HIGH,8.1,NVD,3,CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:N,,NewFound,
+babeljs,babel,2.18.0,NotFound,CVE-2023-45133,HIGH,8.8,NVD,3,CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H,,NewFound,
+unknown,markdown,3.10.1,NotFound,CVE-2023-42821,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,markdown,3.10.1,NotFound,GMS-2020-366,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+unknown,mcp,1.26.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/mcp,CVE-2026-22785,CRITICAL,9.8,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,python-dotenv,1.2.1,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/python,CVE-2026-28684,MEDIUM,6.6,GAD,3,CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:H/A:H,,NewFound,

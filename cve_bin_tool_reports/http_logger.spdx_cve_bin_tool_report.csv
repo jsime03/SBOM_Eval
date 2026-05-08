@@ -1,0 +1,9 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,base64,0.3.0,/usr/bin/base64,CVE-2017-1000430,CRITICAL,9.8,NVD,3,CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H,,NewFound,
+unknown,debug,1.11.1,NotFound,CVE-2017-20165,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+unknown,debug,1.11.1,NotFound,GMS-2017-248,UNKNOWN,unknown,GAD,unknown,unknown,,NewFound,
+debug_project,debug,1.11.1,NotFound,CVE-2017-20165,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+prismjs,prism,1.9.0,NotFound,CVE-2021-23341,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
+prismjs,prism,1.9.0,NotFound,CVE-2021-32723,MEDIUM,6.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H,,NewFound,
+prismjs,prism,1.9.0,NotFound,CVE-2021-3801,MEDIUM,6.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H,,NewFound,
+prismjs,prism,1.9.0,NotFound,CVE-2024-53382,MEDIUM,4.9,GAD,3,CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:C/C:L/I:L/A:N,,NewFound,

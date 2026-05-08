@@ -1,0 +1,4 @@
+vendor,product,version,location,cve_number,severity,score,source,cvss_version,cvss_vector,paths,remarks,comments
+unknown,protobuf,4.25.1,NotFound,CVE-2025-4565,MEDIUM,5.3,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L,,NewFound,
+unknown,protobuf,4.25.1,NotFound,CVE-2026-0994,HIGH,8.6,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H,,NewFound,
+google,protobuf,4.25.1,NotFound,CVE-2024-7254,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,

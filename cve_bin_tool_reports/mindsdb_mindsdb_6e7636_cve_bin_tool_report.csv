@@ -150,6 +150,7 @@ ollama,ollama,>= 0.1.7,NotFound,CVE-2025-0312,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/
 ollama,ollama,>= 0.1.7,NotFound,CVE-2025-0315,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
 ollama,ollama,>= 0.1.7,NotFound,CVE-2025-0317,HIGH,7.5,NVD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
 unknown,filelock,3.20.1,NotFound,CVE-2026-22701,MEDIUM,5.3,GAD,3,CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:L/A:H,,NewFound,
+unknown,python-dotenv,1.1.1,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/bin/python,CVE-2026-28684,MEDIUM,6.6,GAD,3,CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:H/A:H,,NewFound,
 unknown,urllib3,>= 2.5.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/urllib3,CVE-2025-66418,HIGH,7.5,REDHAT,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
 unknown,urllib3,>= 2.5.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/urllib3,CVE-2025-66471,HIGH,7.5,REDHAT,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
 unknown,urllib3,>= 2.5.0,/home/jason/SBOM EVal and Validation/sbomCVE/sbom_env/lib/python3.12/site-packages/urllib3,CVE-2026-21441,HIGH,7.5,GAD,3,CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H,,NewFound,
