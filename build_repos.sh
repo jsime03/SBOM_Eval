@@ -1,7 +1,9 @@
 #!/bin/bash
 # Builds all repos in the repos directory
 
-REPO_DIR="/home/jason/SBOM EVal and Validation/repos"
+
+# Set REPO__DIR to your repos directory
+REPO_DIR=""
 
 build_python() {
     local repo="$1"

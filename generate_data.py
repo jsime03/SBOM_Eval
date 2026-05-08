@@ -9,8 +9,8 @@ import traceback
 import numpy as np
 from itertools import combinations
 from typing import List, Tuple
-from sbomCVE.src.cve_data_grype import run_main_enrichment
-from sbomCVE.src.cve_data_bin_tool import run_cbt_enrichment
+from cve_data_grype import run_main_enrichment
+from cve_data_bin_tool import run_cbt_enrichment
 from enum import Enum
 import sys
 import typer
@@ -85,15 +85,17 @@ def generate_sboms(language_list: list = None):
                                 venv = repo / '.venv'
                                 if venv.exists():
                                     env = {**os.environ, 'VIRTUAL_ENV': str(venv), 'PATH': str(venv / 'bin') + ':' + os.environ['PATH']}
+                                    subprocess.run(['syft', f'dir:{repo}', '-o', 'spdx-json', '-q', '--file', str(output_file)], check=True, env=env)
                             elif language.name == 'javascript':
                                 env = {**os.environ, 'SYFT_JAVASCRIPT_INCLUDE_DEV_DEPENDENCIES': 'true'}
-                                subprocess.run(['syft', f'dir:{repo}', '-o', 'spdx-json', '-q', '--file', str(output_file), "--override-default-catalogers", "javascript-package-cataloger"], check=True, env=env)
+                                subprocess.run(['syft', f'dir:{repo}', '-o', 'spdx-json', '-q', '--file', str(output_file)], check=True, env=env)
                             else:
                                 subprocess.run(['syft', f'dir:{repo}', '-o', 'spdx-json', '-q', '--file', str(output_file)], check=True, env=env)
                             print(f"SBOM for {repo.name} generated successfully.")
                             sbom.format_json(output_file)
                         except Exception as e:
                             print(f"Error generating SBOM for {repo.name}: {e}")
+
 
 def run_vulnerabillity_scans(language_list: list = None):
     langs = language_list or LANGUAGES
