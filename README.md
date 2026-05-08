@@ -68,11 +68,15 @@ repos/
 
 
 # Workflow
-1. Clone repos into their corresponding language directories manually or using the add_repos.sh script
-2. Use validation tool to generate sboms pre build sboms (optional) https://github.com/damaoooo/validation?tab=readme-ov-file#usage-examples
-3. Run reset_repos.sh if validation tool made any changes.
-4. Use the build_repos.sh script to build repos or build repos manually.
-5. Run generate_data.py to generate grype reports, cve_bin_tool reports, post build sboms and a csv that compares each sboms differences with eachother.
+1. Clone this repo
+2. Clone validation repo in the same dir as SBOM_Eval https://github.com/damaoooo/validation?tab=readme-ov-file#usage-examples 
+    NOTE: generate_data.py uses some of the functions from the validation repo, and you will have to make the following change in the sbom.py file of the validation repo if you want to run generate_data.py:
+    On line 9 of sbom.py change "from utils import SBOMStandard" -> "from .utils import SBOMStandard"
+3. Create .venv and install requirements listed in requirements.txt
+4. Add any repo that you want to evaluate to the list of repos in the add_repos.sh script and then run add_repos.sh or you can manually clone repos that you want and build file structure in sbom dir (refer to the previous section for expected file structure).
+    NOTE: You must add your github token to .env before you run add_repos.sh.
+5. Run build_repos.sh
+6. Run generate_data.py
 
 
 # List of Repos evaluated:
